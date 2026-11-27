@@ -1,0 +1,33 @@
+# Hip Hop Quiz. PREPARED, NOT STARTED: Matteo approves publishing first.
+# Start/update later with: docker compose up -d   (from this folder)
+services:
+  # Home copy of the site (the public copy will be GitHub Pages at teo2301.github.io/hiphop-quiz/)
+  hiphop-quiz:
+    image: nginx:alpine
+    container_name: hiphop-quiz
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8092:80"
+    volumes:
+      - ./docs:/usr/share/nginx/html:ro
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+
+  # Leaderboard API. Localhost only; to be published under the existing Funnel :10000 at path /q/hh
+  # (e.g. tailscale funnel --bg --https=10000 --set-path=/q/hh http://127.0.0.1:8195) - never a new Funnel port.
+  # Built from server/Dockerfile (python:3.13-alpine + pywebpush):
+  #   docker compose build hiphop-quiz-scores && docker compose up -d hiphop-quiz-scores
+  hiphop-quiz-scores:
+    build: ./server
+    image: hiphop-quiz-scores:v1
+    container_name: hiphop-quiz-scores
+    restart: unless-stopped
+    user: "1000:1000"
+    command: ["python", "-u", "/app/leaderboard.py"]
+    ports:
+      - "127.0.0.1:8196:8000"
+    volumes:
+      - ./server:/app:ro
+      - ./data:/data          # hiphop-quiz.db (gitignored)
+      - ./docs:/docs:ro       # questions.json, stats.json, clues.json for server-side marking
+      # VAPID keypair for push notifications - outside git, chmod 600 (uid 1000 can read it)
+      - /home/riccioserver/keys/hiphop-quiz-vapid.json:/keys/vapid.json:ro

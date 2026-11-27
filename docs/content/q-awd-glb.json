@@ -1,0 +1,3863 @@
+[
+  {
+    "id": "awd001",
+    "l": "awd",
+    "d": 1,
+    "q": "Which group won the first Best Rap Album Grammy in 1996?",
+    "a": "Naughty by Nature",
+    "w": [
+      "Run-DMC",
+      "Public Enemy",
+      "OutKast"
+    ],
+    "x": "Naughty by Nature won the inaugural Best Rap Album Grammy in 1996 for Poverty's Paradise."
+  },
+  {
+    "id": "awd002",
+    "l": "awd",
+    "d": 1,
+    "q": "Which album won the first Best Rap Album Grammy?",
+    "a": "Poverty's Paradise",
+    "w": [
+      "The Score",
+      "No Way Out",
+      "Stankonia"
+    ],
+    "x": "Poverty's Paradise by Naughty by Nature won the first Best Rap Album Grammy."
+  },
+  {
+    "id": "awd003",
+    "l": "awd",
+    "d": 3,
+    "q": "In what year was the Best Rap Album Grammy first presented?",
+    "a": "1996",
+    "w": [
+      "1991",
+      "1994",
+      "1999"
+    ],
+    "x": "The Recording Academy first presented the Best Rap Album Grammy at the 1996 ceremony."
+  },
+  {
+    "id": "awd004",
+    "l": "awd",
+    "d": 1,
+    "q": "Which group won Best Rap Album in 1997 for The Score?",
+    "a": "Fugees",
+    "w": [
+      "Wu-Tang Clan",
+      "OutKast",
+      "A Tribe Called Quest"
+    ],
+    "x": "The Fugees won the 1997 Best Rap Album Grammy for The Score."
+  },
+  {
+    "id": "awd005",
+    "l": "awd",
+    "d": 1,
+    "q": "Which female artist was the first to win Best Rap Album?",
+    "a": "Lauryn Hill",
+    "w": [
+      "Cardi B",
+      "Missy Elliott",
+      "Rapsody"
+    ],
+    "x": "Lauryn Hill became the first female Best Rap Album winner with the Fugees in 1997."
+  },
+  {
+    "id": "awd006",
+    "l": "awd",
+    "d": 1,
+    "q": "Which album won Best Rap Album at the 1998 Grammys?",
+    "a": "No Way Out",
+    "w": [
+      "The Score",
+      "Vol. 2... Hard Knock Life",
+      "Poverty's Paradise"
+    ],
+    "x": "Puff Daddy and the Family won Best Rap Album in 1998 for No Way Out."
+  },
+  {
+    "id": "awd007",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Jay-Z album won Best Rap Album in 1999?",
+    "a": "Vol. 2... Hard Knock Life",
+    "w": [
+      "The Blueprint",
+      "Reasonable Doubt",
+      "The Black Album"
+    ],
+    "x": "Jay-Z won Best Rap Album in 1999 for Vol. 2... Hard Knock Life."
+  },
+  {
+    "id": "awd008",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Eminem album won Best Rap Album in 2000?",
+    "a": "The Slim Shady LP",
+    "w": [
+      "The Marshall Mathers LP",
+      "The Eminem Show",
+      "Relapse"
+    ],
+    "x": "Eminem won his first Best Rap Album Grammy in 2000 for The Slim Shady LP."
+  },
+  {
+    "id": "awd009",
+    "l": "awd",
+    "d": 2,
+    "q": "Which album earned Eminem his second Best Rap Album Grammy?",
+    "a": "The Marshall Mathers LP",
+    "w": [
+      "The Slim Shady LP",
+      "Encore",
+      "Recovery"
+    ],
+    "x": "Eminem won Best Rap Album again in 2001 for The Marshall Mathers LP."
+  },
+  {
+    "id": "awd010",
+    "l": "awd",
+    "d": 1,
+    "q": "Which OutKast album won Best Rap Album in 2002?",
+    "a": "Stankonia",
+    "w": [
+      "Speakerboxxx/The Love Below",
+      "ATLiens",
+      "Aquemini"
+    ],
+    "x": "OutKast won Best Rap Album in 2002 for Stankonia."
+  },
+  {
+    "id": "awd011",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Eminem album won Best Rap Album in 2003?",
+    "a": "The Eminem Show",
+    "w": [
+      "Encore",
+      "Relapse",
+      "The Slim Shady LP"
+    ],
+    "x": "Eminem won Best Rap Album in 2003 for The Eminem Show."
+  },
+  {
+    "id": "awd012",
+    "l": "awd",
+    "d": 1,
+    "q": "Which OutKast double album won Best Rap Album in 2004?",
+    "a": "Speakerboxxx/The Love Below",
+    "w": [
+      "Stankonia",
+      "ATLiens",
+      "Doggystyle"
+    ],
+    "x": "Speakerboxxx/The Love Below won Best Rap Album at the 2004 Grammys."
+  },
+  {
+    "id": "awd013",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Kanye West album won Best Rap Album in 2005?",
+    "a": "The College Dropout",
+    "w": [
+      "Late Registration",
+      "Graduation",
+      "Yeezus"
+    ],
+    "x": "Kanye West won Best Rap Album in 2005 for The College Dropout."
+  },
+  {
+    "id": "awd014",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Kanye West album won Best Rap Album in 2006?",
+    "a": "Late Registration",
+    "w": [
+      "The College Dropout",
+      "Graduation",
+      "808s & Heartbreak"
+    ],
+    "x": "Kanye West won Best Rap Album in 2006 for Late Registration."
+  },
+  {
+    "id": "awd015",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Ludacris album won Best Rap Album in 2007?",
+    "a": "Release Therapy",
+    "w": [
+      "The Red Light District",
+      "Word of Mouf",
+      "Chicken-n-Beer"
+    ],
+    "x": "Ludacris won Best Rap Album in 2007 for Release Therapy."
+  },
+  {
+    "id": "awd016",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Kanye West album won Best Rap Album in 2008?",
+    "a": "Graduation",
+    "w": [
+      "Late Registration",
+      "Yeezus",
+      "My Beautiful Dark Twisted Fantasy"
+    ],
+    "x": "Kanye West won Best Rap Album in 2008 for Graduation."
+  },
+  {
+    "id": "awd017",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Lil Wayne album won Best Rap Album in 2009?",
+    "a": "Tha Carter III",
+    "w": [
+      "Tha Carter IV",
+      "The Dedication",
+      "Free Weezy Album"
+    ],
+    "x": "Lil Wayne won Best Rap Album in 2009 for Tha Carter III."
+  },
+  {
+    "id": "awd018",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Eminem album won Best Rap Album in 2010?",
+    "a": "Relapse",
+    "w": [
+      "Recovery",
+      "Encore",
+      "The Eminem Show"
+    ],
+    "x": "Eminem won Best Rap Album in 2010 for Relapse."
+  },
+  {
+    "id": "awd019",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Eminem album won Best Rap Album in 2011?",
+    "a": "Recovery",
+    "w": [
+      "Relapse",
+      "Encore",
+      "Invincible"
+    ],
+    "x": "Eminem won Best Rap Album in 2011 for Recovery."
+  },
+  {
+    "id": "awd020",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Kanye West album won Best Rap Album in 2012?",
+    "a": "My Beautiful Dark Twisted Fantasy",
+    "w": [
+      "Yeezus",
+      "Graduation",
+      "808s & Heartbreak"
+    ],
+    "x": "Kanye West won Best Rap Album in 2012 for My Beautiful Dark Twisted Fantasy."
+  },
+  {
+    "id": "awd021",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Drake album won Best Rap Album in 2013?",
+    "a": "Take Care",
+    "w": [
+      "Thank Me Later",
+      "Nothing Was the Same",
+      "Views"
+    ],
+    "x": "Drake won Best Rap Album in 2013 for Take Care."
+  },
+  {
+    "id": "awd022",
+    "l": "awd",
+    "d": 2,
+    "q": "Which duo won Best Rap Album in 2014?",
+    "a": "Macklemore & Ryan Lewis",
+    "w": [
+      "OutKast",
+      "Jay-Z and Kanye West",
+      "The Black Eyed Peas"
+    ],
+    "x": "Macklemore & Ryan Lewis won Best Rap Album in 2014 for The Heist."
+  },
+  {
+    "id": "awd023",
+    "l": "awd",
+    "d": 3,
+    "q": "Which album gave Eminem his record sixth Best Rap Album Grammy?",
+    "a": "The Marshall Mathers LP 2",
+    "w": [
+      "Relapse",
+      "Recovery",
+      "Kamikaze"
+    ],
+    "x": "Eminem won a record sixth Best Rap Album Grammy in 2015 for The Marshall Mathers LP 2."
+  },
+  {
+    "id": "awd024",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Kendrick Lamar album won Best Rap Album in 2016?",
+    "a": "To Pimp a Butterfly",
+    "w": [
+      "Good Kid, M.A.A.D City",
+      "Damn",
+      "Section.80"
+    ],
+    "x": "Kendrick Lamar won Best Rap Album in 2016 for To Pimp a Butterfly."
+  },
+  {
+    "id": "awd025",
+    "l": "awd",
+    "d": 3,
+    "q": "Which mixtape became the first to win Best Rap Album?",
+    "a": "Coloring Book",
+    "w": [
+      "If You're Reading This It's Too Late",
+      "Dawn",
+      "Atrocity Exhibition"
+    ],
+    "x": "Chance the Rapper's Coloring Book was the first mixtape to win Best Rap Album in 2017."
+  },
+  {
+    "id": "awd026",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Kendrick Lamar album won Best Rap Album in 2018?",
+    "a": "Damn",
+    "w": [
+      "To Pimp a Butterfly",
+      "Section.80",
+      "Untitled Unmastered"
+    ],
+    "x": "Kendrick Lamar won Best Rap Album in 2018 for Damn."
+  },
+  {
+    "id": "awd027",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Cardi B album won Best Rap Album in 2019?",
+    "a": "Invasion of Privacy",
+    "w": [
+      "Bodak Yellow",
+      "Girls Trip",
+      "Pink Friday"
+    ],
+    "x": "Cardi B won Best Rap Album in 2019 for Invasion of Privacy."
+  },
+  {
+    "id": "awd028",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Tyler, the Creator album won Best Rap Album in 2020?",
+    "a": "Igor",
+    "w": [
+      "Flower Boy",
+      "Cherry Bomb",
+      "Goblin"
+    ],
+    "x": "Tyler, the Creator won Best Rap Album in 2020 for Igor."
+  },
+  {
+    "id": "awd029",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Nas album won Best Rap Album in 2021?",
+    "a": "King's Disease",
+    "w": [
+      "Illmatic",
+      "Untitled",
+      "Life Is Good"
+    ],
+    "x": "Nas won Best Rap Album in 2021 for King's Disease."
+  },
+  {
+    "id": "awd030",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Tyler, the Creator album won Best Rap Album in 2022?",
+    "a": "Call Me If You Get Lost",
+    "w": [
+      "Igor",
+      "Flower Boy",
+      "Chromakopia"
+    ],
+    "x": "Tyler, the Creator won Best Rap Album in 2022 for Call Me If You Get Lost."
+  },
+  {
+    "id": "awd031",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Kendrick Lamar album won Best Rap Album in 2023?",
+    "a": "Mr. Morale & the Big Steppers",
+    "w": [
+      "Damn",
+      "To Pimp a Butterfly",
+      "GNX"
+    ],
+    "x": "Kendrick Lamar won Best Rap Album in 2023 for Mr. Morale & the Big Steppers."
+  },
+  {
+    "id": "awd032",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Killer Mike album won Best Rap Album in 2024?",
+    "a": "Michael",
+    "w": [
+      "Songs for Sinners",
+      "Rap Game",
+      "Trap Parade"
+    ],
+    "x": "Killer Mike won Best Rap Album in 2024 for Michael."
+  },
+  {
+    "id": "awd033",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Doechii album won Best Rap Album in 2025?",
+    "a": "Alligator Bites Never Heal",
+    "w": [
+      "Yucky Blucky Fruitcake",
+      "Denial Is a River",
+      "Toxic"
+    ],
+    "x": "Doechii won Best Rap Album in 2025 for Alligator Bites Never Heal."
+  },
+  {
+    "id": "awd034",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Kendrick Lamar album won Best Rap Album in 2026?",
+    "a": "GNX",
+    "w": [
+      "Mr. Morale & the Big Steppers",
+      "Damn",
+      "Chromakopia"
+    ],
+    "x": "Kendrick Lamar won Best Rap Album in 2026 for GNX."
+  },
+  {
+    "id": "awd035",
+    "l": "awd",
+    "d": 2,
+    "q": "Who holds the record for most Best Rap Album Grammys?",
+    "a": "Eminem",
+    "w": [
+      "Kanye West",
+      "Kendrick Lamar",
+      "Jay-Z"
+    ],
+    "x": "Eminem has won Best Rap Album a record six times."
+  },
+  {
+    "id": "awd036",
+    "l": "awd",
+    "d": 3,
+    "q": "Who holds the record for most Best Rap Album nominations?",
+    "a": "Jay-Z",
+    "w": [
+      "Kanye West",
+      "Nas",
+      "Drake"
+    ],
+    "x": "Jay-Z has been nominated for Best Rap Album a record eleven times."
+  },
+  {
+    "id": "awd037",
+    "l": "awd",
+    "d": 2,
+    "q": "Who was the first non-American artist to win Best Rap Album?",
+    "a": "Drake",
+    "w": [
+      "Eminem",
+      "Kanye West",
+      "Jay-Z"
+    ],
+    "x": "Drake became the first non-American Best Rap Album winner in 2013."
+  },
+  {
+    "id": "awd038",
+    "l": "awd",
+    "d": 2,
+    "q": "Who was the first solo female rapper to win Best Rap Album?",
+    "a": "Cardi B",
+    "w": [
+      "Lauryn Hill",
+      "Nicki Minaj",
+      "Missy Elliott"
+    ],
+    "x": "Cardi B became the first solo female rapper to win Best Rap Album in 2019."
+  },
+  {
+    "id": "awd039",
+    "l": "awd",
+    "d": 1,
+    "q": "Which song won the first Best Rap Song Grammy in 2004?",
+    "a": "Lose Yourself",
+    "w": [
+      "Jesus Walks",
+      "In da Club",
+      "Work It"
+    ],
+    "x": "Eminem's Lose Yourself won the inaugural Best Rap Song Grammy in 2004."
+  },
+  {
+    "id": "awd040",
+    "l": "awd",
+    "d": 2,
+    "q": "Which songwriters shared the first Best Rap Song Grammy with Eminem?",
+    "a": "Jeff Bass and Luis Resto",
+    "w": [
+      "Jay-Z and Pharrell",
+      "Kanye West and Che Smith",
+      "Dr. Dre and 50 Cent"
+    ],
+    "x": "Jeff Bass and Luis Resto co-wrote Lose Yourself with Eminem."
+  },
+  {
+    "id": "awd041",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Kanye West song won Best Rap Song in 2005?",
+    "a": "Jesus Walks",
+    "w": [
+      "Gold Digger",
+      "Runaway",
+      "Stronger"
+    ],
+    "x": "Jesus Walks won Best Rap Song at the 2005 Grammys."
+  },
+  {
+    "id": "awd042",
+    "l": "awd",
+    "d": 3,
+    "q": "Which song won Best Rap Song in 2006?",
+    "a": "Diamonds from Sierra Leone",
+    "w": [
+      "Gold Digger",
+      "Hate It or Love It",
+      "Lose Control"
+    ],
+    "x": "Kanye West's Diamonds from Sierra Leone won Best Rap Song in 2006."
+  },
+  {
+    "id": "awd043",
+    "l": "awd",
+    "d": 3,
+    "q": "Which Ludacris song won Best Rap Song in 2007?",
+    "a": "Money Maker",
+    "w": [
+      "Kick, Push",
+      "What You Know",
+      "Swagga Like Us"
+    ],
+    "x": "Money Maker by Ludacris featuring Pharrell won Best Rap Song in 2007."
+  },
+  {
+    "id": "awd044",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Kanye West song won Best Rap Song in 2008?",
+    "a": "Good Life",
+    "w": [
+      "Can't Tell Me Nothing",
+      "Crank That",
+      "Stronger"
+    ],
+    "x": "Good Life featuring T-Pain won Best Rap Song in 2008."
+  },
+  {
+    "id": "awd045",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Lil Wayne song won Best Rap Song in 2009?",
+    "a": "Lollipop",
+    "w": [
+      "Superstar",
+      "Low",
+      "Swagga Like Us"
+    ],
+    "x": "Lil Wayne's Lollipop won Best Rap Song in 2009."
+  },
+  {
+    "id": "awd046",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Jay-Z song won Best Rap Song in 2010?",
+    "a": "Run This Town",
+    "w": [
+      "Empire State of Mind",
+      "D.O.A.",
+      "Best I Ever Had"
+    ],
+    "x": "Run This Town won Best Rap Song at the 2010 Grammys."
+  },
+  {
+    "id": "awd047",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Jay-Z song won Best Rap Song in 2011?",
+    "a": "Empire State of Mind",
+    "w": [
+      "Run This Town",
+      "Not Afraid",
+      "Love the Way You Lie"
+    ],
+    "x": "Empire State of Mind featuring Alicia Keys won Best Rap Song in 2011."
+  },
+  {
+    "id": "awd048",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Kanye West song won Best Rap Song in 2012?",
+    "a": "All of the Lights",
+    "w": [
+      "Otis",
+      "Niggas in Paris",
+      "Famous"
+    ],
+    "x": "All of the Lights won Best Rap Song at the 2012 Grammys."
+  },
+  {
+    "id": "awd049",
+    "l": "awd",
+    "d": 3,
+    "q": "Which Jay-Z and Kanye West song won Best Rap Song in 2013?",
+    "a": "Niggas in Paris",
+    "w": [
+      "Otis",
+      "Mercy",
+      "No Church in the Wild"
+    ],
+    "x": "Niggas in Paris won Best Rap Song at the 2013 Grammys."
+  },
+  {
+    "id": "awd050",
+    "l": "awd",
+    "d": 3,
+    "q": "Which Macklemore and Ryan Lewis song won Best Rap Song in 2014?",
+    "a": "Thrift Shop",
+    "w": [
+      "Holy Grail",
+      "Fuckin' Problems",
+      "Can't Hold Us"
+    ],
+    "x": "Thrift Shop won Best Rap Song at the 2014 Grammys."
+  },
+  {
+    "id": "awd051",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Kendrick Lamar song won Best Rap Song in 2015?",
+    "a": "I",
+    "w": [
+      "Anaconda",
+      "Bound 2",
+      "Alright"
+    ],
+    "x": "Kendrick Lamar's I won Best Rap Song at the 2015 Grammys."
+  },
+  {
+    "id": "awd052",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Kendrick Lamar song won Best Rap Song in 2016?",
+    "a": "Alright",
+    "w": [
+      "Trap Queen",
+      "Glory",
+      "Energy"
+    ],
+    "x": "Alright won Best Rap Song at the 2016 Grammys."
+  },
+  {
+    "id": "awd053",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Drake song won Best Rap Song in 2017?",
+    "a": "Hotline Bling",
+    "w": [
+      "Famous",
+      "No Problem",
+      "Ultralight Beam"
+    ],
+    "x": "Hotline Bling won Best Rap Song at the 2017 Grammys."
+  },
+  {
+    "id": "awd054",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Kendrick Lamar song won Best Rap Song in 2018?",
+    "a": "Humble",
+    "w": [
+      "Bodak Yellow",
+      "The Story of O.J.",
+      "Sassy"
+    ],
+    "x": "Humble won Best Rap Song at the 2018 Grammys."
+  },
+  {
+    "id": "awd055",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Drake song won Best Rap Song in 2019?",
+    "a": "God's Plan",
+    "w": [
+      "Sicko Mode",
+      "Win",
+      "King's Dead"
+    ],
+    "x": "God's Plan won Best Rap Song at the 2019 Grammys."
+  },
+  {
+    "id": "awd056",
+    "l": "awd",
+    "d": 3,
+    "q": "Which 21 Savage song won Best Rap Song in 2020?",
+    "a": "A Lot",
+    "w": [
+      "Suge",
+      "Racks in the Middle",
+      "Gold Roses"
+    ],
+    "x": "A Lot featuring J. Cole won Best Rap Song in 2020."
+  },
+  {
+    "id": "awd057",
+    "l": "awd",
+    "d": 3,
+    "q": "Which Megan Thee Stallion song won Best Rap Song in 2021?",
+    "a": "Savage",
+    "w": [
+      "The Bigger Picture",
+      "The Box",
+      "Laugh Now Cry Later"
+    ],
+    "x": "Savage featuring Beyonce won Best Rap Song in 2021."
+  },
+  {
+    "id": "awd058",
+    "l": "awd",
+    "d": 3,
+    "q": "Which Kanye West song won Best Rap Song in 2022?",
+    "a": "Jail",
+    "w": [
+      "Family Ties",
+      "My Life",
+      "Bath Salts"
+    ],
+    "x": "Jail featuring Jay-Z won Best Rap Song in 2022."
+  },
+  {
+    "id": "awd059",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Kendrick Lamar song won Best Rap Song in 2023?",
+    "a": "The Heart Part 5",
+    "w": [
+      "Wait for U",
+      "God Did",
+      "Pushin P"
+    ],
+    "x": "The Heart Part 5 won Best Rap Song at the 2023 Grammys."
+  },
+  {
+    "id": "awd060",
+    "l": "awd",
+    "d": 3,
+    "q": "Which Killer Mike song won Best Rap Song in 2024?",
+    "a": "Scientists & Engineers",
+    "w": [
+      "Rich Flex",
+      "Barbie World",
+      "Attention"
+    ],
+    "x": "Scientists & Engineers won Best Rap Song at the 2024 Grammys."
+  },
+  {
+    "id": "awd061",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Kendrick Lamar song won Best Rap Song in 2025?",
+    "a": "Not Like Us",
+    "w": [
+      "Like That",
+      "Yeah Glo!",
+      "Carnival"
+    ],
+    "x": "Not Like Us won Best Rap Song at the 2025 Grammys."
+  },
+  {
+    "id": "awd062",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Kendrick Lamar song won Best Rap Song in 2026?",
+    "a": "TV Off",
+    "w": [
+      "Anxiety",
+      "Sticky",
+      "The Birds Don't Sing"
+    ],
+    "x": "TV Off won Best Rap Song at the 2026 Grammys."
+  },
+  {
+    "id": "awd063",
+    "l": "awd",
+    "d": 2,
+    "q": "Who has won the most Best Rap Song Grammys?",
+    "a": "Kanye West",
+    "w": [
+      "Kendrick Lamar",
+      "Jay-Z",
+      "Drake"
+    ],
+    "x": "Kanye West has won Best Rap Song a record seven times."
+  },
+  {
+    "id": "awd064",
+    "l": "awd",
+    "d": 3,
+    "q": "Which songwriter has six Best Rap Song wins?",
+    "a": "Kendrick Lamar",
+    "w": [
+      "Jay-Z",
+      "Pharrell Williams",
+      "Drake"
+    ],
+    "x": "Kendrick Lamar has won Best Rap Song six times as a songwriter."
+  },
+  {
+    "id": "awd065",
+    "l": "awd",
+    "d": 1,
+    "q": "Which rap duo won the first Best Rap Performance Grammy?",
+    "a": "DJ Jazzy Jeff & the Fresh Prince",
+    "w": [
+      "Run-DMC",
+      "LL Cool J",
+      "Public Enemy"
+    ],
+    "x": "DJ Jazzy Jeff & the Fresh Prince won the first Best Rap Performance Grammy in 1989."
+  },
+  {
+    "id": "awd066",
+    "l": "awd",
+    "d": 1,
+    "q": "Which song won the first Best Rap Performance Grammy?",
+    "a": "Parents Just Don't Understand",
+    "w": [
+      "Walk This Way",
+      "Going Back to Cali",
+      "Supersonic"
+    ],
+    "x": "Parents Just Don't Understand won the first Best Rap Performance Grammy."
+  },
+  {
+    "id": "awd067",
+    "l": "awd",
+    "d": 1,
+    "q": "When did the Grammys first add a rap category?",
+    "a": "1989",
+    "w": [
+      "1986",
+      "1988",
+      "1991"
+    ],
+    "x": "The Best Rap Performance category debuted at the 1989 Grammys."
+  },
+  {
+    "id": "awd068",
+    "l": "awd",
+    "d": 2,
+    "q": "Which OutKast album won Album of the Year at the 2004 Grammys?",
+    "a": "Speakerboxxx/The Love Below",
+    "w": [
+      "Stankonia",
+      "ATLiens",
+      "The Miseducation of Lauryn Hill"
+    ],
+    "x": "Speakerboxxx/The Love Below was the first rap album to win Album of the Year."
+  },
+  {
+    "id": "awd069",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Lauryn Hill album won Album of the Year in 1999?",
+    "a": "The Miseducation of Lauryn Hill",
+    "w": [
+      "The Score",
+      "No Way Out",
+      "Poverty's Paradise"
+    ],
+    "x": "The Miseducation of Lauryn Hill won Album of the Year at the 1999 Grammys."
+  },
+  {
+    "id": "awd070",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Eminem song won Song of the Year at the 2004 Grammys?",
+    "a": "Lose Yourself",
+    "w": [
+      "Clocks",
+      "Beautiful",
+      "Ms. Jackson"
+    ],
+    "x": "Lose Yourself won Song of the Year at the 2004 Grammys."
+  },
+  {
+    "id": "awd071",
+    "l": "awd",
+    "d": 2,
+    "q": "Which song won Record of the Year at the 2025 Grammys?",
+    "a": "Not Like Us",
+    "w": [
+      "Espresso",
+      "Good Luck, Babe!",
+      "Birds of a Feather"
+    ],
+    "x": "Kendrick Lamar's Not Like Us won Record of the Year at the 2025 Grammys."
+  },
+  {
+    "id": "awd072",
+    "l": "awd",
+    "d": 2,
+    "q": "Which song won Song of the Year at the 2025 Grammys?",
+    "a": "Not Like Us",
+    "w": [
+      "Espresso",
+      "Beautiful Things",
+      "A Bar Song (Tipsy)"
+    ],
+    "x": "Not Like Us also won Song of the Year at the 2025 Grammys."
+  },
+  {
+    "id": "awd073",
+    "l": "awd",
+    "d": 2,
+    "q": "How many Grammys did Not Like Us win in 2025?",
+    "a": "Five",
+    "w": [
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "x": "Not Like Us won five Grammys at the 2025 ceremony."
+  },
+  {
+    "id": "awd074",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper won a Pulitzer Prize for Music in 2018?",
+    "a": "Kendrick Lamar",
+    "w": [
+      "Jay-Z",
+      "Eminem",
+      "Kanye West"
+    ],
+    "x": "Kendrick Lamar won the 2018 Pulitzer Prize for Music for Damn."
+  },
+  {
+    "id": "awd075",
+    "l": "awd",
+    "d": 3,
+    "q": "Which album earned Kendrick Lamar the 2018 Pulitzer Prize for Music?",
+    "a": "Damn",
+    "w": [
+      "To Pimp a Butterfly",
+      "Section.80",
+      "Good Kid, M.A.A.D City"
+    ],
+    "x": "Damn won the Pulitzer Prize for Music in 2018."
+  },
+  {
+    "id": "awd076",
+    "l": "awd",
+    "d": 1,
+    "q": "Which rapper won an Academy Award for Best Original Song in 2003?",
+    "a": "Eminem",
+    "w": [
+      "Kanye West",
+      "Will Smith",
+      "Common"
+    ],
+    "x": "Eminem won Best Original Song for Lose Yourself from 8 Mile."
+  },
+  {
+    "id": "awd077",
+    "l": "awd",
+    "d": 1,
+    "q": "Which song earned Eminem an Academy Award?",
+    "a": "Lose Yourself",
+    "w": [
+      "Stan",
+      "Not Afraid",
+      "Love the Way You Lie"
+    ],
+    "x": "Lose Yourself won the 2003 Oscar for Best Original Song."
+  },
+  {
+    "id": "awd078",
+    "l": "awd",
+    "d": 3,
+    "q": "Which rapper performed Stan with Elton John at the 2001 Grammys?",
+    "a": "Eminem",
+    "w": [
+      "Snoop Dogg",
+      "Jay-Z",
+      "50 Cent"
+    ],
+    "x": "Eminem and Elton John performed Stan at the 2001 Grammy Awards."
+  },
+  {
+    "id": "awd079",
+    "l": "awd",
+    "d": 3,
+    "q": "Which rock group performed Walk This Way with Run-DMC at the 2020 Grammys?",
+    "a": "Aerosmith",
+    "w": [
+      "Metallica",
+      "The Rolling Stones",
+      "Bon Jovi"
+    ],
+    "x": "Aerosmith joined Run-DMC to perform Walk This Way at the 2020 Grammys."
+  },
+  {
+    "id": "awd080",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper headlined the 2025 Super Bowl halftime show?",
+    "a": "Kendrick Lamar",
+    "w": [
+      "Drake",
+      "Jay-Z",
+      "Eminem"
+    ],
+    "x": "Kendrick Lamar headlined the Super Bowl LIX halftime show in 2025."
+  },
+  {
+    "id": "awd081",
+    "l": "awd",
+    "d": 3,
+    "q": "Which producer headlined the Super Bowl LVI halftime show in 2022?",
+    "a": "Dr. Dre",
+    "w": [
+      "Timbaland",
+      "Metro Boomin",
+      "DJ Khaled"
+    ],
+    "x": "Dr. Dre led the star-studded Super Bowl LVI halftime show in 2022."
+  },
+  {
+    "id": "awd082",
+    "l": "awd",
+    "d": 1,
+    "q": "In what year did the BET Awards first take place?",
+    "a": "2001",
+    "w": [
+      "1999",
+      "2000",
+      "2002"
+    ],
+    "x": "The inaugural BET Awards ceremony was held in 2001."
+  },
+  {
+    "id": "awd083",
+    "l": "awd",
+    "d": 1,
+    "q": "Which rapper won Best Male Hip-Hop Artist at the first BET Awards?",
+    "a": "Jay-Z",
+    "w": [
+      "Nelly",
+      "Ja Rule",
+      "Snoop Dogg"
+    ],
+    "x": "Jay-Z won Best Male Hip-Hop Artist at the 2001 BET Awards."
+  },
+  {
+    "id": "awd084",
+    "l": "awd",
+    "d": 1,
+    "q": "Which rapper won Best Female Hip-Hop Artist at the first BET Awards?",
+    "a": "Eve",
+    "w": [
+      "Lil' Kim",
+      "Missy Elliott",
+      "Da Brat"
+    ],
+    "x": "Eve won the inaugural BET Award for Best Female Hip-Hop Artist in 2001."
+  },
+  {
+    "id": "awd085",
+    "l": "awd",
+    "d": 1,
+    "q": "Which rapper won Best New Artist at the first BET Awards?",
+    "a": "Nelly",
+    "w": [
+      "Ja Rule",
+      "Ludacris",
+      "Fabolous"
+    ],
+    "x": "Nelly won Best New Artist at the inaugural BET Awards in 2001."
+  },
+  {
+    "id": "awd086",
+    "l": "awd",
+    "d": 3,
+    "q": "Which OutKast song won Video of the Year at the 2001 BET Awards?",
+    "a": "Ms. Jackson",
+    "w": [
+      "Hey Ya!",
+      "So Fresh, So Clean",
+      "Roses"
+    ],
+    "x": "Ms. Jackson won Video of the Year at the first BET Awards."
+  },
+  {
+    "id": "awd087",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper has won BET Best Male Hip-Hop Artist a record eight times?",
+    "a": "Kendrick Lamar",
+    "w": [
+      "Drake",
+      "Jay-Z",
+      "T.I."
+    ],
+    "x": "Kendrick Lamar holds the record with eight BET Best Male Hip-Hop Artist wins."
+  },
+  {
+    "id": "awd088",
+    "l": "awd",
+    "d": 2,
+    "q": "Which award show began honoring Black entertainment in 2001?",
+    "a": "BET Awards",
+    "w": [
+      "Source Awards",
+      "Soul Train Awards",
+      "NAACP Image Awards"
+    ],
+    "x": "The BET Awards launched in 2001 to celebrate Black entertainment."
+  },
+  {
+    "id": "awd089",
+    "l": "awd",
+    "d": 1,
+    "q": "At which award show did Suge Knight make headlines in 1995?",
+    "a": "Source Awards",
+    "w": [
+      "BET Awards",
+      "MTV VMAs",
+      "Grammy Awards"
+    ],
+    "x": "Suge Knight's 1995 Source Awards speech stoked East Coast-West Coast tensions."
+  },
+  {
+    "id": "awd090",
+    "l": "awd",
+    "d": 2,
+    "q": "Which record executive delivered a famous speech at the 1995 Source Awards?",
+    "a": "Suge Knight",
+    "w": [
+      "Sean Combs",
+      "Russell Simmons",
+      "Jerry Heller"
+    ],
+    "x": "Suge Knight's 1995 Source Awards speech stoked East Coast-West Coast tensions."
+  },
+  {
+    "id": "awd091",
+    "l": "awd",
+    "d": 3,
+    "q": "Which rap mogul was booed at the 1995 Source Awards?",
+    "a": "Sean Combs",
+    "w": [
+      "Suge Knight",
+      "Russell Simmons",
+      "Master P"
+    ],
+    "x": "Sean Combs was booed during the 1995 Source Awards ceremony."
+  },
+  {
+    "id": "awd092",
+    "l": "awd",
+    "d": 2,
+    "q": "Which magazine created the Source Awards?",
+    "a": "The Source",
+    "w": [
+      "Rolling Stone",
+      "XXL",
+      "Vibe"
+    ],
+    "x": "The Source Awards were created by the hip-hop magazine The Source."
+  },
+  {
+    "id": "awd093",
+    "l": "awd",
+    "d": 1,
+    "q": "In what year did the MTV Video Music Awards begin?",
+    "a": "1984",
+    "w": [
+      "1982",
+      "1983",
+      "1985"
+    ],
+    "x": "The first MTV Video Music Awards took place in 1984."
+  },
+  {
+    "id": "awd094",
+    "l": "awd",
+    "d": 2,
+    "q": "Which award show introduced Best Rap Video in 1989?",
+    "a": "MTV Video Music Awards",
+    "w": [
+      "BET Awards",
+      "Grammy Awards",
+      "American Music Awards"
+    ],
+    "x": "MTV introduced the Best Rap Video award at the 1989 VMAs."
+  },
+  {
+    "id": "awd095",
+    "l": "awd",
+    "d": 1,
+    "q": "Who won the first MTV VMA for Best Rap Video?",
+    "a": "DJ Jazzy Jeff & the Fresh Prince",
+    "w": [
+      "Public Enemy",
+      "Run-DMC",
+      "MC Hammer"
+    ],
+    "x": "DJ Jazzy Jeff & the Fresh Prince won the first Best Rap Video VMA in 1989."
+  },
+  {
+    "id": "awd096",
+    "l": "awd",
+    "d": 2,
+    "q": "Which artist interrupted Taylor Swift at the 2009 VMAs?",
+    "a": "Kanye West",
+    "w": [
+      "Jay-Z",
+      "Lil Wayne",
+      "T.I."
+    ],
+    "x": "Kanye West interrupted Taylor Swift's acceptance speech at the 2009 VMAs."
+  },
+  {
+    "id": "awd097",
+    "l": "awd",
+    "d": 2,
+    "q": "In what year did the Kanye and Taylor Swift VMA moment happen?",
+    "a": "2009",
+    "w": [
+      "2007",
+      "2008",
+      "2010"
+    ],
+    "x": "Kanye West interrupted Taylor Swift at the 2009 MTV VMAs."
+  },
+  {
+    "id": "awd098",
+    "l": "awd",
+    "d": 3,
+    "q": "Which award was Taylor Swift accepting when Kanye interrupted her?",
+    "a": "Best Female Video",
+    "w": [
+      "Video of the Year",
+      "Best New Artist",
+      "Best Pop Video"
+    ],
+    "x": "Taylor Swift was accepting Best Female Video at the 2009 VMAs."
+  },
+  {
+    "id": "awd099",
+    "l": "awd",
+    "d": 3,
+    "q": "Which phrase did Kanye West say during his 2009 VMA interruption?",
+    "a": "Imma let you finish",
+    "w": [
+      "You had your time",
+      "Sorry about that",
+      "Let her speak"
+    ],
+    "x": "Kanye West began with Imma let you finish at the 2009 VMAs."
+  },
+  {
+    "id": "awd100",
+    "l": "awd",
+    "d": 1,
+    "q": "Which single was the first hip-hop song to top the Billboard Hot 100?",
+    "a": "Ice Ice Baby",
+    "w": [
+      "U Can't Touch This",
+      "Rapper's Delight",
+      "Walk This Way"
+    ],
+    "x": "Ice Ice Baby by Vanilla Ice hit number one in 1990, the first rap Hot 100 chart-topper."
+  },
+  {
+    "id": "awd101",
+    "l": "awd",
+    "d": 1,
+    "q": "In what year did Ice Ice Baby reach number one?",
+    "a": "1990",
+    "w": [
+      "1989",
+      "1991",
+      "1992"
+    ],
+    "x": "Ice Ice Baby topped the Billboard Hot 100 in November 1990."
+  },
+  {
+    "id": "awd102",
+    "l": "awd",
+    "d": 2,
+    "q": "Who recorded the first rap single to reach Hot 100 number one?",
+    "a": "Vanilla Ice",
+    "w": [
+      "MC Hammer",
+      "Run-DMC",
+      "LL Cool J"
+    ],
+    "x": "Vanilla Ice's Ice Ice Baby was the first hip-hop Hot 100 number one."
+  },
+  {
+    "id": "awd103",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rap song spent 12 weeks at number one on the Hot 100?",
+    "a": "Lose Yourself",
+    "w": [
+      "Jump",
+      "I'll Be Missing You",
+      "Gangsta's Paradise"
+    ],
+    "x": "Eminem's Lose Yourself spent 12 weeks atop the Hot 100 in 2002 and 2003."
+  },
+  {
+    "id": "awd104",
+    "l": "awd",
+    "d": 1,
+    "q": "Which song spent 19 weeks at number one on the Hot 100 in 2019?",
+    "a": "Old Town Road",
+    "w": [
+      "Lose Yourself",
+      "One Sweet Day",
+      "Despacito"
+    ],
+    "x": "Old Town Road spent a record 19 weeks at number one in 2019."
+  },
+  {
+    "id": "awd105",
+    "l": "awd",
+    "d": 1,
+    "q": "Who recorded Old Town Road?",
+    "a": "Lil Nas X",
+    "w": [
+      "Cardi B",
+      "Travis Scott",
+      "Juice WRLD"
+    ],
+    "x": "Lil Nas X recorded Old Town Road, a 19-week Hot 100 number one."
+  },
+  {
+    "id": "awd106",
+    "l": "awd",
+    "d": 3,
+    "q": "Which song held the Hot 100 weeks-at-number-one record before Old Town Road?",
+    "a": "One Sweet Day",
+    "w": [
+      "Lose Yourself",
+      "Macarena",
+      "Candle in the Wind 1997"
+    ],
+    "x": "One Sweet Day spent 16 weeks at number one before Old Town Road broke the mark."
+  },
+  {
+    "id": "awd107",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Puff Daddy single was the first rap song to debut at number one?",
+    "a": "I'll Be Missing You",
+    "w": [
+      "Mo Money Mo Problems",
+      "Been Around the World",
+      "Only You"
+    ],
+    "x": "I'll Be Missing You debuted at number one on the Hot 100 in 1997."
+  },
+  {
+    "id": "awd108",
+    "l": "awd",
+    "d": 1,
+    "q": "Which Kris Kross single topped the Hot 100 for eight weeks in 1992?",
+    "a": "Jump",
+    "w": [
+      "Warm It Up",
+      "Totally Krossed Out",
+      "Da Bomb"
+    ],
+    "x": "Jump spent eight weeks at number one on the Hot 100 in 1992."
+  },
+  {
+    "id": "awd109",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Coolio single topped the Hot 100 in 1995?",
+    "a": "Gangsta's Paradise",
+    "w": [
+      "Fantastic Voyage",
+      "1, 2, 3, 4",
+      "It Takes a Thief"
+    ],
+    "x": "Gangsta's Paradise reached number one on the Hot 100 in 1995."
+  },
+  {
+    "id": "awd110",
+    "l": "awd",
+    "d": 3,
+    "q": "What peak position did MC Hammer's U Can't Touch This reach on the Hot 100?",
+    "a": "Eight",
+    "w": [
+      "One",
+      "Two",
+      "Five"
+    ],
+    "x": "U Can't Touch This peaked at number eight on the Hot 100 in 1990."
+  },
+  {
+    "id": "awd111",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Snoop Dogg album debuted at number one on the Billboard 200 in 1993?",
+    "a": "Doggystyle",
+    "w": [
+      "The Chronic",
+      "Paid in Full",
+      "Enter the Wu-Tang"
+    ],
+    "x": "Doggystyle debuted at number one on the Billboard 200 in 1993."
+  },
+  {
+    "id": "awd112",
+    "l": "awd",
+    "d": 2,
+    "q": "Which 50 Cent album debuted at number one on the Billboard 200 in 2003?",
+    "a": "Get Rich or Die Tryin'",
+    "w": [
+      "The Massacre",
+      "Curtis",
+      "Before I Self Destruct"
+    ],
+    "x": "Get Rich or Die Tryin' debuted at number one in 2003."
+  },
+  {
+    "id": "awd113",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Eminem album debuted at number one on the Billboard 200 in 2000?",
+    "a": "The Marshall Mathers LP",
+    "w": [
+      "The Slim Shady LP",
+      "Encore",
+      "Relapse"
+    ],
+    "x": "The Marshall Mathers LP debuted at number one on the Billboard 200 in 2000."
+  },
+  {
+    "id": "awd114",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Lil Wayne album debuted at number one in 2008?",
+    "a": "Tha Carter III",
+    "w": [
+      "Tha Carter II",
+      "The Dedication 3",
+      "Free Weezy Album"
+    ],
+    "x": "Tha Carter III debuted at number one on the Billboard 200."
+  },
+  {
+    "id": "awd115",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Kendrick Lamar album debuted at number one in 2015?",
+    "a": "To Pimp a Butterfly",
+    "w": [
+      "Section.80",
+      "Untitled Unmastered",
+      "Damn"
+    ],
+    "x": "To Pimp a Butterfly debuted at number one on the Billboard 200 in 2015."
+  },
+  {
+    "id": "awd116",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Cardi B album debuted at number one in 2018?",
+    "a": "Invasion of Privacy",
+    "w": [
+      "Bodak Yellow",
+      "Pink Friday",
+      "Queen"
+    ],
+    "x": "Invasion of Privacy debuted at number one on the Billboard 200."
+  },
+  {
+    "id": "awd117",
+    "l": "awd",
+    "d": 3,
+    "q": "Which Black Eyed Peas song spent 12 weeks at number one in 2009?",
+    "a": "Boom Boom Pow",
+    "w": [
+      "I Gotta Feeling",
+      "Let's Get It Started",
+      "My Humps"
+    ],
+    "x": "Boom Boom Pow spent 12 weeks at number one on the Hot 100."
+  },
+  {
+    "id": "awd118",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Usher song spent 12 weeks at number one in 2004?",
+    "a": "Yeah!",
+    "w": [
+      "Confessions Part II",
+      "My Boo",
+      "Burn"
+    ],
+    "x": "Yeah! featuring Lil Jon and Ludacris spent 12 weeks at number one."
+  },
+  {
+    "id": "awd119",
+    "l": "awd",
+    "d": 3,
+    "q": "Which Cardi B song gave her first solo Hot 100 number one?",
+    "a": "Bodak Yellow",
+    "w": [
+      "I Like It",
+      "Girls Like You",
+      "Bartier Cardi"
+    ],
+    "x": "Bodak Yellow gave Cardi B her first solo number one in 2017."
+  },
+  {
+    "id": "awd120",
+    "l": "awd",
+    "d": 3,
+    "q": "Which female rapper broke a 19-year gap for solo rap number ones in 2017?",
+    "a": "Cardi B",
+    "w": [
+      "Nicki Minaj",
+      "Missy Elliott",
+      "Lauryn Hill"
+    ],
+    "x": "Bodak Yellow was the first solo female rap number one since 1998."
+  },
+  {
+    "id": "awd121",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Lauryn Hill single debuted at number one in 1998?",
+    "a": "Doo Wop (That Thing)",
+    "w": [
+      "The Miseducation of Lauryn Hill",
+      "Can't Leave 'em Alone",
+      "Everything Is Everything"
+    ],
+    "x": "Doo Wop (That Thing) debuted at number one on the Hot 100 in 1998."
+  },
+  {
+    "id": "awd122",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper's album Raising Hell was the first rap LP to go platinum?",
+    "a": "Run-DMC",
+    "w": [
+      "Public Enemy",
+      "Beastie Boys",
+      "LL Cool J"
+    ],
+    "x": "Run-DMC's Raising Hell became the first platinum-certified rap album."
+  },
+  {
+    "id": "awd123",
+    "l": "awd",
+    "d": 3,
+    "q": "Which Eminem single was certified diamond by the RIAA in 2018?",
+    "a": "Lose Yourself",
+    "w": [
+      "Stan",
+      "Not Afraid",
+      "Love the Way You Lie"
+    ],
+    "x": "Lose Yourself was certified diamond in the United States in 2018."
+  },
+  {
+    "id": "awd124",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Eminem album was certified diamond by the RIAA in 2011?",
+    "a": "The Marshall Mathers LP",
+    "w": [
+      "The Slim Shady LP",
+      "Encore",
+      "Relapse"
+    ],
+    "x": "The Marshall Mathers LP was certified diamond by the RIAA in 2011."
+  },
+  {
+    "id": "awd125",
+    "l": "awd",
+    "d": 3,
+    "q": "Which rapper has two diamond-certified studio albums?",
+    "a": "Eminem",
+    "w": [
+      "Jay-Z",
+      "Drake",
+      "50 Cent"
+    ],
+    "x": "Eminem's Marshall Mathers LP and Eminem Show are both diamond-certified."
+  },
+  {
+    "id": "awd126",
+    "l": "awd",
+    "d": 1,
+    "q": "Which act was the first hip-hop inductee in the Rock and Roll Hall of Fame?",
+    "a": "Grandmaster Flash & the Furious Five",
+    "w": [
+      "Run-DMC",
+      "2Pac",
+      "Beastie Boys"
+    ],
+    "x": "Grandmaster Flash & the Furious Five entered the Rock Hall in 2007."
+  },
+  {
+    "id": "awd127",
+    "l": "awd",
+    "d": 2,
+    "q": "In what year were Grandmaster Flash and the Furious Five inducted?",
+    "a": "2007",
+    "w": [
+      "2005",
+      "2006",
+      "2009"
+    ],
+    "x": "The group became the first hip-hop act inducted into the Rock Hall in 2007."
+  },
+  {
+    "id": "awd128",
+    "l": "awd",
+    "d": 2,
+    "q": "Which group was the second hip-hop act inducted into the Rock Hall?",
+    "a": "Run-DMC",
+    "w": [
+      "Beastie Boys",
+      "Public Enemy",
+      "Wu-Tang Clan"
+    ],
+    "x": "Run-DMC followed Grandmaster Flash and the Furious Five into the Rock Hall in 2009."
+  },
+  {
+    "id": "awd129",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper was the first solo hip-hop artist inducted into the Rock Hall?",
+    "a": "2Pac",
+    "w": [
+      "Jay-Z",
+      "Nas",
+      "Snoop Dogg"
+    ],
+    "x": "2Pac was inducted into the Rock and Roll Hall of Fame in 2017."
+  },
+  {
+    "id": "awd130",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper was inducted into the Rock Hall in 2020?",
+    "a": "The Notorious B.I.G.",
+    "w": [
+      "LL Cool J",
+      "Nas",
+      "Ice Cube"
+    ],
+    "x": "The Notorious B.I.G. entered the Rock and Roll Hall of Fame in 2020."
+  },
+  {
+    "id": "awd131",
+    "l": "awd",
+    "d": 3,
+    "q": "Which rapper was inducted into the Rock Hall in 2021?",
+    "a": "LL Cool J",
+    "w": [
+      "Jay-Z",
+      "Snoop Dogg",
+      "Ice-T"
+    ],
+    "x": "LL Cool J was inducted into the Rock and Roll Hall of Fame in 2021."
+  },
+  {
+    "id": "awd132",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Grandmaster Flash and Furious Five song became a 1982 rap landmark?",
+    "a": "The Message",
+    "w": [
+      "Rapper's Delight",
+      "Planet Rock",
+      "Walk This Way"
+    ],
+    "x": "The Message was released in 1982 and is a landmark hip-hop single."
+  },
+  {
+    "id": "awd133",
+    "l": "awd",
+    "d": 2,
+    "q": "Which award show renamed its rap album category in 1996?",
+    "a": "Grammy Awards",
+    "w": [
+      "BET Awards",
+      "Source Awards",
+      "Soul Train Awards"
+    ],
+    "x": "The Grammys introduced Best Rap Album as a category in 1996."
+  },
+  {
+    "id": "awd134",
+    "l": "awd",
+    "d": 2,
+    "q": "Which song won Best Rap Performance at the 2025 Grammys?",
+    "a": "Not Like Us",
+    "w": [
+      "Like That",
+      "Yeah Glo!",
+      "Carnival"
+    ],
+    "x": "Not Like Us won Best Rap Performance at the 2025 Grammys."
+  },
+  {
+    "id": "awd135",
+    "l": "awd",
+    "d": 2,
+    "q": "Which song won Best Music Video at the 2025 Grammys?",
+    "a": "Not Like Us",
+    "w": [
+      "Espresso",
+      "Beautiful Things",
+      "A Bar Song (Tipsy)"
+    ],
+    "x": "Not Like Us won Best Music Video at the 2025 Grammys."
+  },
+  {
+    "id": "awd136",
+    "l": "awd",
+    "d": 2,
+    "q": "Which award show uses the nickname Moonman for its trophy?",
+    "a": "MTV VMAs",
+    "w": [
+      "BET Awards",
+      "Grammy Awards",
+      "Source Awards"
+    ],
+    "x": "The MTV VMA trophy is nicknamed the Moonman."
+  },
+  {
+    "id": "awd137",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper won Best Rap Song for I at the 2015 Grammys?",
+    "a": "Kendrick Lamar",
+    "w": [
+      "Eminem",
+      "J. Cole",
+      "Drake"
+    ],
+    "x": "Kendrick Lamar's I won Best Rap Song at the 2015 Grammys."
+  },
+  {
+    "id": "awd138",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Grammy category honors songwriting for rap tracks?",
+    "a": "Best Rap Song",
+    "w": [
+      "Best Rap Album",
+      "Best Rap Performance",
+      "Best Music Video"
+    ],
+    "x": "Best Rap Song honors songwriting for rap tracks."
+  },
+  {
+    "id": "awd139",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Grammy category honors a rapper's vocal performance?",
+    "a": "Best Rap Performance",
+    "w": [
+      "Best Rap Song",
+      "Best Rap Album",
+      "Best Music Video"
+    ],
+    "x": "Best Rap Performance recognizes rap vocal performances."
+  },
+  {
+    "id": "awd140",
+    "l": "awd",
+    "d": 2,
+    "q": "Which award is the Recording Academy's top honor for an album?",
+    "a": "Album of the Year",
+    "w": [
+      "Best Rap Album",
+      "Record of the Year",
+      "Song of the Year"
+    ],
+    "x": "Album of the Year is the Grammys' top album honor."
+  },
+  {
+    "id": "awd141",
+    "l": "awd",
+    "d": 3,
+    "q": "Which rap album was the first to win the Grammy for Album of the Year?",
+    "a": "Speakerboxxx/The Love Below",
+    "w": [
+      "The Miseducation of Lauryn Hill",
+      "The Score",
+      "Stankonia"
+    ],
+    "x": "OutKast's Speakerboxxx/The Love Below won Album of the Year in 2004."
+  },
+  {
+    "id": "awd142",
+    "l": "awd",
+    "d": 2,
+    "q": "Which year did Old Town Road spend 19 weeks at number one?",
+    "a": "2019",
+    "w": [
+      "2018",
+      "2020",
+      "2021"
+    ],
+    "x": "Old Town Road ruled the Hot 100 for 19 weeks in 2019."
+  },
+  {
+    "id": "awd143",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper's first Hot 100 number one was Lose Yourself?",
+    "a": "Eminem",
+    "w": [
+      "50 Cent",
+      "Kanye West",
+      "Jay-Z"
+    ],
+    "x": "Lose Yourself was Eminem's first Hot 100 number one."
+  },
+  {
+    "id": "awd144",
+    "l": "awd",
+    "d": 2,
+    "q": "Which 2003 single gave 50 Cent his first Hot 100 number one?",
+    "a": "In da Club",
+    "w": [
+      "Candy Shop",
+      "21 Questions",
+      "Wanksta"
+    ],
+    "x": "In da Club became 50 Cent's first Hot 100 number one."
+  },
+  {
+    "id": "awd145",
+    "l": "awd",
+    "d": 3,
+    "q": "Which song gave Kanye West his first Hot 100 number one?",
+    "a": "Gold Digger",
+    "w": [
+      "Jesus Walks",
+      "Stronger",
+      "Through the Fire"
+    ],
+    "x": "Gold Digger topped the Hot 100 in 2005, Kanye's first number one."
+  },
+  {
+    "id": "awd146",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper's Empire State of Mind reached number one on the Hot 100?",
+    "a": "Jay-Z",
+    "w": [
+      "Nas",
+      "Alicia Keys",
+      "Kanye West"
+    ],
+    "x": "Jay-Z's Empire State of Mind featuring Alicia Keys hit number one."
+  },
+  {
+    "id": "awd147",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Nelly song topped the Hot 100 in 2002?",
+    "a": "Hot in Herre",
+    "w": [
+      "Dilemma",
+      "Ride wit Me",
+      "Country Grammar"
+    ],
+    "x": "Hot in Herre topped the Hot 100 in 2002."
+  },
+  {
+    "id": "awd148",
+    "l": "awd",
+    "d": 2,
+    "q": "Which Nicki Minaj song peaked at number three on the Hot 100 in 2011?",
+    "a": "Super Bass",
+    "w": [
+      "Anaconda",
+      "Starships",
+      "Super Freaky Girl"
+    ],
+    "x": "Super Bass peaked at number three on the Hot 100 in 2011."
+  },
+  {
+    "id": "awd149",
+    "l": "awd",
+    "d": 2,
+    "q": "Which single by Cardi B, Bad Bunny and J Balvin topped the Hot 100 in 2018?",
+    "a": "I Like It",
+    "w": [
+      "Bodak Yellow",
+      "Money",
+      "Taki Taki"
+    ],
+    "x": "I Like It reached number one on the Hot 100 in 2018."
+  },
+  {
+    "id": "awd150",
+    "l": "awd",
+    "d": 3,
+    "q": "Which songwriter has seven Best Rap Song Grammy wins?",
+    "a": "Kanye West",
+    "w": [
+      "Jay-Z",
+      "Kendrick Lamar",
+      "Drake"
+    ],
+    "x": "Kanye West has won Best Rap Song seven times as a songwriter."
+  },
+  {
+    "id": "awd151",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper won Best Rap Album in 2001 for The Marshall Mathers LP?",
+    "a": "Eminem",
+    "w": [
+      "Jay-Z",
+      "Dr. Dre",
+      "Nelly"
+    ],
+    "x": "Eminem won Best Rap Album in 2001 for The Marshall Mathers LP."
+  },
+  {
+    "id": "awd152",
+    "l": "awd",
+    "d": 2,
+    "q": "Which rapper won Best Rap Album in 2002 for Stankonia?",
+    "a": "OutKast",
+    "w": [
+      "Eminem",
+      "Jay-Z",
+      "Nelly"
+    ],
+    "x": "OutKast won Best Rap Album in 2002 for Stankonia."
+  },
+  {
+    "id": "awd153",
+    "l": "awd",
+    "d": 2,
+    "q": "Which song won Best Rap Song in 2004?",
+    "a": "Lose Yourself",
+    "w": [
+      "Beautiful",
+      "Work It",
+      "In da Club"
+    ],
+    "x": "Lose Yourself was the first Best Rap Song winner in 2004."
+  },
+  {
+    "id": "awd154",
+    "l": "awd",
+    "d": 2,
+    "q": "Which award show gives out the Gramophone trophy?",
+    "a": "Grammy Awards",
+    "w": [
+      "BET Awards",
+      "MTV VMAs",
+      "Source Awards"
+    ],
+    "x": "The Grammy trophy is a gilded gramophone."
+  },
+  {
+    "id": "glb001",
+    "l": "glb",
+    "d": 1,
+    "q": "Which UK rapper is known as the Godfather of Grime?",
+    "a": "Wiley",
+    "w": [
+      "Skepta",
+      "Dizzee Rascal",
+      "Stormzy"
+    ],
+    "x": "Wiley is widely credited as the Godfather of Grime."
+  },
+  {
+    "id": "glb002",
+    "l": "glb",
+    "d": 2,
+    "q": "Which grime MC released the single Eskimo in 2002?",
+    "a": "Wiley",
+    "w": [
+      "Dizzee Rascal",
+      "Skepta",
+      "Kano"
+    ],
+    "x": "Wiley's Eskimo was an early grime anthem released in 2002."
+  },
+  {
+    "id": "glb003",
+    "l": "glb",
+    "d": 1,
+    "q": "Which UK rapper won the 2003 Mercury Prize for Boy in da Corner?",
+    "a": "Dizzee Rascal",
+    "w": [
+      "Skepta",
+      "Stormzy",
+      "Wiley"
+    ],
+    "x": "Dizzee Rascal won the Mercury Prize in 2003 for Boy in da Corner."
+  },
+  {
+    "id": "glb004",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Dizzee Rascal single reached number one in the UK in 2008?",
+    "a": "Dance wiv Me",
+    "w": [
+      "Bonkers",
+      "Fix Up Look Sharp",
+      "Shouting Out Loud"
+    ],
+    "x": "Dance wiv Me reached UK number one in 2008."
+  },
+  {
+    "id": "glb005",
+    "l": "glb",
+    "d": 1,
+    "q": "Which grime star won the 2016 Mercury Prize for Konnichiwa?",
+    "a": "Skepta",
+    "w": [
+      "Kano",
+      "Stormzy",
+      "Dizzee Rascal"
+    ],
+    "x": "Skepta won the 2016 Mercury Prize with Konnichiwa."
+  },
+  {
+    "id": "glb006",
+    "l": "glb",
+    "d": 1,
+    "q": "Which album brought Skepta the 2016 Mercury Prize?",
+    "a": "Konnichiwa",
+    "w": [
+      "Made in the Manor",
+      "Gang Signs & Prayer",
+      "Boy in da Corner"
+    ],
+    "x": "Konnichiwa won the Mercury Prize in 2016."
+  },
+  {
+    "id": "glb007",
+    "l": "glb",
+    "d": 1,
+    "q": "Which London rapper released Made in the Manor in 2016?",
+    "a": "Kano",
+    "w": [
+      "Skepta",
+      "Wiley",
+      "Plan B"
+    ],
+    "x": "Kano released Made in the Manor in 2016."
+  },
+  {
+    "id": "glb008",
+    "l": "glb",
+    "d": 3,
+    "q": "Which UK rapper was shortlisted for the 2016 Mercury Prize with Made in the Manor?",
+    "a": "Kano",
+    "w": [
+      "Dizzee Rascal",
+      "Stormzy",
+      "Central Cee"
+    ],
+    "x": "Kano's Made in the Manor was on the 2016 Mercury Prize shortlist."
+  },
+  {
+    "id": "glb009",
+    "l": "glb",
+    "d": 1,
+    "q": "Which rapper released Gang Signs & Prayer in 2017?",
+    "a": "Stormzy",
+    "w": [
+      "Skepta",
+      "Wiley",
+      "Kano"
+    ],
+    "x": "Stormzy released Gang Signs & Prayer in 2017."
+  },
+  {
+    "id": "glb010",
+    "l": "glb",
+    "d": 1,
+    "q": "Which album was the first grime LP to reach number one in the UK?",
+    "a": "Gang Signs & Prayer",
+    "w": [
+      "Konnichiwa",
+      "Boy in da Corner",
+      "Made in the Manor"
+    ],
+    "x": "Gang Signs & Prayer was the first grime album to top the UK Albums Chart."
+  },
+  {
+    "id": "glb011",
+    "l": "glb",
+    "d": 1,
+    "q": "Which UK rapper headlined Glastonbury in 2019?",
+    "a": "Stormzy",
+    "w": [
+      "Skepta",
+      "Dizzee Rascal",
+      "Kano"
+    ],
+    "x": "Stormzy became the first grime artist to headline Glastonbury in 2019."
+  },
+  {
+    "id": "glb012",
+    "l": "glb",
+    "d": 1,
+    "q": "In what year did Stormzy headline the Glastonbury Festival?",
+    "a": "2019",
+    "w": [
+      "2017",
+      "2018",
+      "2020"
+    ],
+    "x": "Stormzy headlined Glastonbury's Pyramid Stage in 2019."
+  },
+  {
+    "id": "glb013",
+    "l": "glb",
+    "d": 1,
+    "q": "Which Stormzy track became a grime anthem after its 2015 release?",
+    "a": "Shut Up",
+    "w": [
+      "Blinded by the Lights",
+      "Shutdown",
+      "Dance wiv Me"
+    ],
+    "x": "Shut Up became a signature Stormzy hit in 2015."
+  },
+  {
+    "id": "glb014",
+    "l": "glb",
+    "d": 1,
+    "q": "Which grime collective did Wiley help found?",
+    "a": "Roll Deep",
+    "w": [
+      "Boy Better Know",
+      "Odd Future",
+      "Wu-Tang Clan"
+    ],
+    "x": "Wiley was a founding member of the grime crew Roll Deep."
+  },
+  {
+    "id": "glb015",
+    "l": "glb",
+    "d": 2,
+    "q": "Which grime label was founded by Skepta and his brother Jme?",
+    "a": "Boy Better Know",
+    "w": [
+      "Roll Deep",
+      "Hyperdub",
+      "Pirate Records"
+    ],
+    "x": "Boy Better Know was founded by Skepta and Jme."
+  },
+  {
+    "id": "glb016",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Skepta single broke through in 2014?",
+    "a": "Shutdown",
+    "w": [
+      "That's Not Me",
+      "Shut Up",
+      "Eskimo"
+    ],
+    "x": "Shutdown became a defining Skepta single in 2014."
+  },
+  {
+    "id": "glb017",
+    "l": "glb",
+    "d": 1,
+    "q": "Which UK rapper released The Defamation of Strickland Banks in 2010?",
+    "a": "Plan B",
+    "w": [
+      "Kano",
+      "Skepta",
+      "Stormzy"
+    ],
+    "x": "Plan B released The Defamation of Strickland Banks in 2010."
+  },
+  {
+    "id": "glb018",
+    "l": "glb",
+    "d": 3,
+    "q": "Which British act's debut album is Original Pirate Material?",
+    "a": "The Streets",
+    "w": [
+      "Plan B",
+      "Kano",
+      "Dizzee Rascal"
+    ],
+    "x": "The Streets released Original Pirate Material in 2002."
+  },
+  {
+    "id": "glb019",
+    "l": "glb",
+    "d": 1,
+    "q": "Which UK act released the 2004 hit Blinded by the Lights?",
+    "a": "The Streets",
+    "w": [
+      "The Specials",
+      "Plan B",
+      "Skepta"
+    ],
+    "x": "Blinded by the Lights was a 2004 hit by The Streets."
+  },
+  {
+    "id": "glb020",
+    "l": "glb",
+    "d": 1,
+    "q": "Which British rapper won the 2020 Mercury Prize for Psychodrama?",
+    "a": "Dave",
+    "w": [
+      "Stormzy",
+      "Kano",
+      "Skepta"
+    ],
+    "x": "Dave won the Mercury Prize in 2020 for Psychodrama."
+  },
+  {
+    "id": "glb021",
+    "l": "glb",
+    "d": 1,
+    "q": "Which UK rapper's debut album is Psychodrama?",
+    "a": "Dave",
+    "w": [
+      "Central Cee",
+      "Stormzy",
+      "Plan B"
+    ],
+    "x": "Psychodrama was the debut album from British rapper Dave."
+  },
+  {
+    "id": "glb022",
+    "l": "glb",
+    "d": 2,
+    "q": "Which British rapper released the 2021 track Black?",
+    "a": "Dave",
+    "w": [
+      "Stormzy",
+      "Kano",
+      "Central Cee"
+    ],
+    "x": "Dave released the charting track Black in 2021."
+  },
+  {
+    "id": "glb023",
+    "l": "glb",
+    "d": 2,
+    "q": "Which UK rapper released the Wild West mixtape in 2022?",
+    "a": "Central Cee",
+    "w": [
+      "Dave",
+      "Stormzy",
+      "Skepta"
+    ],
+    "x": "Central Cee released Wild West in 2022."
+  },
+  {
+    "id": "glb024",
+    "l": "glb",
+    "d": 3,
+    "q": "Which British rapper teamed with Central Cee on Sprinter?",
+    "a": "Dave",
+    "w": [
+      "Stormzy",
+      "Kano",
+      "Skepta"
+    ],
+    "x": "Sprinter paired Dave with Central Cee."
+  },
+  {
+    "id": "glb025",
+    "l": "glb",
+    "d": 3,
+    "q": "What is Stormzy's real first name?",
+    "a": "Michael",
+    "w": [
+      "Joseph",
+      "David",
+      "Jamie"
+    ],
+    "x": "Stormzy's real name is Michael Omari."
+  },
+  {
+    "id": "glb026",
+    "l": "glb",
+    "d": 2,
+    "q": "Which UK rapper grew up in Brixton, south London?",
+    "a": "Dave",
+    "w": [
+      "Skepta",
+      "Central Cee",
+      "Wiley"
+    ],
+    "x": "Dave grew up in Brixton, south London."
+  },
+  {
+    "id": "glb027",
+    "l": "glb",
+    "d": 1,
+    "q": "Which city is widely seen as the birthplace of grime?",
+    "a": "London",
+    "w": [
+      "Manchester",
+      "Birmingham",
+      "Leeds"
+    ],
+    "x": "Grime emerged from London in the early 2000s."
+  },
+  {
+    "id": "glb028",
+    "l": "glb",
+    "d": 2,
+    "q": "Which grime crew was Dizzee Rascal an early member of?",
+    "a": "Roll Deep",
+    "w": [
+      "Boy Better Know",
+      "Odd Future",
+      "De La Soul"
+    ],
+    "x": "Dizzee Rascal was an early member of Roll Deep."
+  },
+  {
+    "id": "glb029",
+    "l": "glb",
+    "d": 1,
+    "q": "Which UK rapper released the album Heavy Is the Head?",
+    "a": "Stormzy",
+    "w": [
+      "Kano",
+      "Skepta",
+      "Dave"
+    ],
+    "x": "Stormzy released Heavy Is the Head in 2019."
+  },
+  {
+    "id": "glb030",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Stormzy single was released in 2019?",
+    "a": "Crown",
+    "w": [
+      "Dave",
+      "Kano",
+      "Skepta"
+    ],
+    "x": "Stormzy released Crown in 2019."
+  },
+  {
+    "id": "glb031",
+    "l": "glb",
+    "d": 1,
+    "q": "Which Stormzy song became a breakout hit in 2015?",
+    "a": "Shut Up",
+    "w": [
+      "Kano",
+      "Skepta",
+      "Wiley"
+    ],
+    "x": "Shut Up became Stormzy's breakout hit in 2015."
+  },
+  {
+    "id": "glb032",
+    "l": "glb",
+    "d": 1,
+    "q": "Who is considered the first major star of French hip-hop?",
+    "a": "MC Solaar",
+    "w": [
+      "Booba",
+      "Orelsan",
+      "Rohff"
+    ],
+    "x": "MC Solaar became the first major star of French hip-hop in the early 1990s."
+  },
+  {
+    "id": "glb033",
+    "l": "glb",
+    "d": 1,
+    "q": "Which MC Solaar debut album came out in 1991?",
+    "a": "Qui s\u00e8me le vent r\u00e9colte le tempo",
+    "w": [
+      "Prose Combat",
+      "Paradisiaque",
+      "Civilisation"
+    ],
+    "x": "Qui s\u00e8me le vent r\u00e9colte le tempo was MC Solaar's 1991 debut."
+  },
+  {
+    "id": "glb034",
+    "l": "glb",
+    "d": 1,
+    "q": "Which MC Solaar album was a major 1994 release?",
+    "a": "Prose Combat",
+    "w": [
+      "Qui s\u00e8me le vent r\u00e9colte le tempo",
+      "Paradisiaque",
+      "Solaar"
+    ],
+    "x": "Prose Combat was released by MC Solaar in 1994."
+  },
+  {
+    "id": "glb035",
+    "l": "glb",
+    "d": 1,
+    "q": "Which 1991 single made MC Solaar a French rap star?",
+    "a": "Bouge de L\u00e0",
+    "w": [
+      "Victime de la mode",
+      "Caroline",
+      "Solaar"
+    ],
+    "x": "Bouge de L\u00e0 was MC Solaar's breakthrough single in 1991."
+  },
+  {
+    "id": "glb036",
+    "l": "glb",
+    "d": 1,
+    "q": "Which French rapper was in Lunatic before going solo?",
+    "a": "Booba",
+    "w": [
+      "MC Solaar",
+      "Orelsan",
+      "Rohff"
+    ],
+    "x": "Booba was part of the duo Lunatic before his solo career."
+  },
+  {
+    "id": "glb037",
+    "l": "glb",
+    "d": 1,
+    "q": "Which Booba album came out in 2012?",
+    "a": "Panth\u00e9on",
+    "w": [
+      "Ouest Side",
+      "Lunatic",
+      "Futur"
+    ],
+    "x": "Booba released Panth\u00e9on in 2012."
+  },
+  {
+    "id": "glb038",
+    "l": "glb",
+    "d": 1,
+    "q": "Which French rapper released Perdu d'avance in 2009?",
+    "a": "Orelsan",
+    "w": [
+      "Booba",
+      "MC Solaar",
+      "Rohff"
+    ],
+    "x": "Orelsan released Perdu d'avance in 2009."
+  },
+  {
+    "id": "glb039",
+    "l": "glb",
+    "d": 1,
+    "q": "Which French rapper released Le Chant des sir\u00e8nes in 2011?",
+    "a": "Orelsan",
+    "w": [
+      "Booba",
+      "MC Solaar",
+      "Kaaris"
+    ],
+    "x": "Orelsan released Le Chant des sir\u00e8nes in 2011."
+  },
+  {
+    "id": "glb040",
+    "l": "glb",
+    "d": 1,
+    "q": "Which French rapper released Civilisation in 2021?",
+    "a": "Orelsan",
+    "w": [
+      "Booba",
+      "MC Solaar",
+      "Damso"
+    ],
+    "x": "Orelsan released Civilisation in 2021."
+  },
+  {
+    "id": "glb041",
+    "l": "glb",
+    "d": 3,
+    "q": "Which comedy rap duo features Orelsan and Gringe?",
+    "a": "Casseurs Flowters",
+    "w": [
+      "Lunatic",
+      "Savage",
+      "Section d'As"
+    ],
+    "x": "Casseurs Flowters is the duo of Orelsan and Gringe."
+  },
+  {
+    "id": "glb042",
+    "l": "glb",
+    "d": 2,
+    "q": "Which French city is a major hip-hop hub alongside Paris?",
+    "a": "Marseille",
+    "w": [
+      "Lyon",
+      "Nice",
+      "Toulouse"
+    ],
+    "x": "Marseille is one of France's key hip-hop hubs."
+  },
+  {
+    "id": "glb043",
+    "l": "glb",
+    "d": 3,
+    "q": "Which French rapper released the album Ouest Side?",
+    "a": "Booba",
+    "w": [
+      "Orelsan",
+      "MC Solaar",
+      "Damso"
+    ],
+    "x": "Ouest Side is a Booba album released in 2006."
+  },
+  {
+    "id": "glb044",
+    "l": "glb",
+    "d": 3,
+    "q": "Which French rapper was born Claude M'Barali?",
+    "a": "MC Solaar",
+    "w": [
+      "Booba",
+      "Orelsan",
+      "Rohff"
+    ],
+    "x": "MC Solaar was born Claude M'Barali in Dakar."
+  },
+  {
+    "id": "glb045",
+    "l": "glb",
+    "d": 2,
+    "q": "Which French rapper released the album Futur in 2013?",
+    "a": "Booba",
+    "w": [
+      "Orelsan",
+      "MC Solaar",
+      "Rohff"
+    ],
+    "x": "Booba released Futur in 2013."
+  },
+  {
+    "id": "glb046",
+    "l": "glb",
+    "d": 1,
+    "q": "Which Korean rapper released Gangnam Style?",
+    "a": "PSY",
+    "w": [
+      "BTS",
+      "CL",
+      "Jay Park"
+    ],
+    "x": "PSY released Gangnam Style in 2012."
+  },
+  {
+    "id": "glb047",
+    "l": "glb",
+    "d": 1,
+    "q": "Which video was the first to reach one billion YouTube views?",
+    "a": "Gangnam Style",
+    "w": [
+      "Despacito",
+      "Hello",
+      "See You Again"
+    ],
+    "x": "Gangnam Style hit one billion YouTube views in December 2012."
+  },
+  {
+    "id": "glb048",
+    "l": "glb",
+    "d": 1,
+    "q": "In what year did Gangnam Style hit one billion views?",
+    "a": "2012",
+    "w": [
+      "2011",
+      "2013",
+      "2014"
+    ],
+    "x": "Gangnam Style reached a billion YouTube views in 2012."
+  },
+  {
+    "id": "glb049",
+    "l": "glb",
+    "d": 1,
+    "q": "Which BTS single debuted at number one on the Hot 100 in 2020?",
+    "a": "Dynamite",
+    "w": [
+      "Butter",
+      "Life Goes On",
+      "Boy with Luv"
+    ],
+    "x": "Dynamite debuted at number one on the Billboard Hot 100 in 2020."
+  },
+  {
+    "id": "glb050",
+    "l": "glb",
+    "d": 3,
+    "q": "Which BTS song was the first Korean-language track to top the Hot 100?",
+    "a": "Life Goes On",
+    "w": [
+      "Dynamite",
+      "Butter",
+      "Boy with Luv"
+    ],
+    "x": "Life Goes On was the first Korean-language Hot 100 number one."
+  },
+  {
+    "id": "glb051",
+    "l": "glb",
+    "d": 1,
+    "q": "Which BTS song debuted at number one on the Hot 100 in 2021?",
+    "a": "Butter",
+    "w": [
+      "Dynamite",
+      "Life Goes On",
+      "Boy with Luv"
+    ],
+    "x": "Butter debuted at number one on the Hot 100 in 2021."
+  },
+  {
+    "id": "glb052",
+    "l": "glb",
+    "d": 1,
+    "q": "Which K-pop group includes rapper RM?",
+    "a": "BTS",
+    "w": [
+      "BLACKPINK",
+      "EXO",
+      "GOT7"
+    ],
+    "x": "RM is one of the rappers in BTS."
+  },
+  {
+    "id": "glb053",
+    "l": "glb",
+    "d": 2,
+    "q": "Which BTS rapper released the Agust D mixtape?",
+    "a": "Suga",
+    "w": [
+      "RM",
+      "J-Hope",
+      "Jin"
+    ],
+    "x": "Suga released the mixtape Agust D."
+  },
+  {
+    "id": "glb054",
+    "l": "glb",
+    "d": 3,
+    "q": "Which BTS rapper's real name is Kim Nam-joon?",
+    "a": "RM",
+    "w": [
+      "Suga",
+      "J-Hope",
+      "Jungkook"
+    ],
+    "x": "RM's real name is Kim Nam-joon."
+  },
+  {
+    "id": "glb055",
+    "l": "glb",
+    "d": 1,
+    "q": "Which female Korean rapper was a member of 2NE1?",
+    "a": "CL",
+    "w": [
+      "Jennie",
+      "Lisa",
+      "Ros\u00e9"
+    ],
+    "x": "CL was the rapper of the K-pop group 2NE1."
+  },
+  {
+    "id": "glb056",
+    "l": "glb",
+    "d": 1,
+    "q": "Which Korean-American rapper founded the label AOMG?",
+    "a": "Jay Park",
+    "w": [
+      "PSY",
+      "RM",
+      "Tablo"
+    ],
+    "x": "Jay Park founded the Korean hip-hop label AOMG."
+  },
+  {
+    "id": "glb057",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Korean rapper leads the group Epik High?",
+    "a": "Tablo",
+    "w": [
+      "Jay Park",
+      "PSY",
+      "RM"
+    ],
+    "x": "Tablo is the leader and rapper of Epik High."
+  },
+  {
+    "id": "glb058",
+    "l": "glb",
+    "d": 2,
+    "q": "Which South Korean show about rappers began in 2012?",
+    "a": "Show Me the Money",
+    "w": [
+      "Produce 101",
+      "Running Man",
+      "Knowing Bros"
+    ],
+    "x": "Show Me the Money began airing in 2012."
+  },
+  {
+    "id": "glb059",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Korean rapper released Hangover featuring Snoop Dogg?",
+    "a": "PSY",
+    "w": [
+      "CL",
+      "Jay Park",
+      "Tablo"
+    ],
+    "x": "PSY's Hangover featured Snoop Dogg."
+  },
+  {
+    "id": "glb060",
+    "l": "glb",
+    "d": 1,
+    "q": "Which US rapper appeared on PSY's Hangover?",
+    "a": "Snoop Dogg",
+    "w": [
+      "Eminem",
+      "Jay-Z",
+      "Lil Wayne"
+    ],
+    "x": "Snoop Dogg featured on PSY's Hangover."
+  },
+  {
+    "id": "glb061",
+    "l": "glb",
+    "d": 2,
+    "q": "Which K-pop group collaborated with Halsey on Boy with Luv?",
+    "a": "BTS",
+    "w": [
+      "BLACKPINK",
+      "EXO",
+      "TWICE"
+    ],
+    "x": "BTS teamed with Halsey for Boy with Luv."
+  },
+  {
+    "id": "glb062",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Korean rapper released the single Hello Bitches?",
+    "a": "CL",
+    "w": [
+      "PSY",
+      "Jay Park",
+      "Tablo"
+    ],
+    "x": "CL released Hello Bitches in 2016."
+  },
+  {
+    "id": "glb063",
+    "l": "glb",
+    "d": 1,
+    "q": "Which Korean singer is known as Park Jae-sang?",
+    "a": "PSY",
+    "w": [
+      "CL",
+      "Jay Park",
+      "RM"
+    ],
+    "x": "PSY's real name is Park Jae-sang."
+  },
+  {
+    "id": "glb064",
+    "l": "glb",
+    "d": 3,
+    "q": "Which rapper was the main rapper of 2NE1?",
+    "a": "CL",
+    "w": [
+      "Minzy",
+      "Bom",
+      "Dara"
+    ],
+    "x": "CL served as 2NE1's main rapper."
+  },
+  {
+    "id": "glb065",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Korean hip-hop label was founded by Jay Park?",
+    "a": "AOMG",
+    "w": [
+      "H1GHR Music",
+      "P Nation",
+      "YG Entertainment"
+    ],
+    "x": "Jay Park founded the label AOMG."
+  },
+  {
+    "id": "glb066",
+    "l": "glb",
+    "d": 1,
+    "q": "Which Puerto Rican rapper released YHLQMDLG?",
+    "a": "Bad Bunny",
+    "w": [
+      "J Balvin",
+      "Daddy Yankee",
+      "Ozuna"
+    ],
+    "x": "Bad Bunny released YHLQMDLG in 2020."
+  },
+  {
+    "id": "glb067",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Bad Bunny album was the first Spanish-language LP nominated for Grammy Album of the Year?",
+    "a": "Un Verano Sin Ti",
+    "w": [
+      "YHLQMDLG",
+      "El \u00daltimo Tour Del Mundo",
+      "X 100pre"
+    ],
+    "x": "Un Verano Sin Ti made Grammy history in 2023."
+  },
+  {
+    "id": "glb068",
+    "l": "glb",
+    "d": 1,
+    "q": "Which reggaeton star is featured on Despacito?",
+    "a": "Daddy Yankee",
+    "w": [
+      "Bad Bunny",
+      "J Balvin",
+      "Ozuna"
+    ],
+    "x": "Daddy Yankee featured on Despacito with Luis Fonsi."
+  },
+  {
+    "id": "glb069",
+    "l": "glb",
+    "d": 1,
+    "q": "Which singer recorded Despacito with Daddy Yankee?",
+    "a": "Luis Fonsi",
+    "w": [
+      "Bad Bunny",
+      "J Balvin",
+      "Enrique Iglesias"
+    ],
+    "x": "Luis Fonsi is the lead singer of Despacito."
+  },
+  {
+    "id": "glb070",
+    "l": "glb",
+    "d": 1,
+    "q": "Which song was the first Spanish-language Hot 100 number one since Macarena?",
+    "a": "Despacito",
+    "w": [
+      "Gasolina",
+      "Bailando",
+      "Mi Gente"
+    ],
+    "x": "Despacito topped the Hot 100 in 2017."
+  },
+  {
+    "id": "glb071",
+    "l": "glb",
+    "d": 2,
+    "q": "Which pop star appeared on the Despacito remix?",
+    "a": "Justin Bieber",
+    "w": [
+      "Ed Sheeran",
+      "Drake",
+      "Pitbull"
+    ],
+    "x": "Justin Bieber joined the Despacito remix in 2017."
+  },
+  {
+    "id": "glb072",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Daddy Yankee single became a global reggaeton hit in 2004?",
+    "a": "Gasolina",
+    "w": [
+      "Despacito",
+      "Danza Kuduro",
+      "La Camisa Negra"
+    ],
+    "x": "Gasolina helped launch reggaeton worldwide in 2004."
+  },
+  {
+    "id": "glb073",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Colombian rapper released the album Colores?",
+    "a": "J Balvin",
+    "w": [
+      "Bad Bunny",
+      "Daddy Yankee",
+      "Ozuna"
+    ],
+    "x": "J Balvin released Colores in 2020."
+  },
+  {
+    "id": "glb074",
+    "l": "glb",
+    "d": 2,
+    "q": "Which J Balvin and Willy William hit came out in 2017?",
+    "a": "Mi Gente",
+    "w": [
+      "X",
+      "Ginza",
+      "Sua Cara"
+    ],
+    "x": "Mi Gente became a global hit in 2017."
+  },
+  {
+    "id": "glb075",
+    "l": "glb",
+    "d": 2,
+    "q": "Which song by Cardi B, Bad Bunny and J Balvin topped the Hot 100?",
+    "a": "I Like It",
+    "w": [
+      "Taki Taki",
+      "Mia",
+      "Despacito"
+    ],
+    "x": "I Like It reached number one in 2018."
+  },
+  {
+    "id": "glb076",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Puerto Rican artist is nicknamed El Conejo Malo?",
+    "a": "Bad Bunny",
+    "w": [
+      "Daddy Yankee",
+      "J Balvin",
+      "Ozuna"
+    ],
+    "x": "Bad Bunny is nicknamed El Conejo Malo."
+  },
+  {
+    "id": "glb077",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Canadian rapper collaborated with Bad Bunny on Mia?",
+    "a": "Drake",
+    "w": [
+      "Kanye West",
+      "Lil Wayne",
+      "Post Malone"
+    ],
+    "x": "Mia paired Bad Bunny with Drake."
+  },
+  {
+    "id": "glb078",
+    "l": "glb",
+    "d": 2,
+    "q": "Which rapper is the DJ and producer in Cypress Hill?",
+    "a": "DJ Muggs",
+    "w": [
+      "Sen Dog",
+      "B-Real",
+      "Ice Cube"
+    ],
+    "x": "DJ Muggs is Cypress Hill's producer and DJ."
+  },
+  {
+    "id": "glb079",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Cypress Hill member was born in Cuba?",
+    "a": "Sen Dog",
+    "w": [
+      "DJ Muggs",
+      "B-Real",
+      "Method Man"
+    ],
+    "x": "Sen Dog was born in Cuba and raps with Cypress Hill."
+  },
+  {
+    "id": "glb080",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Cypress Hill song became a 1993 hit?",
+    "a": "Insane in the Brain",
+    "w": [
+      "How I Could Just Kill a Man",
+      "Hits from the Bong",
+      "Black Sunday"
+    ],
+    "x": "Insane in the Brain was a 1993 Cypress Hill hit."
+  },
+  {
+    "id": "glb081",
+    "l": "glb",
+    "d": 2,
+    "q": "Which rap group released the album Black Sunday in 1993?",
+    "a": "Cypress Hill",
+    "w": [
+      "Onyx",
+      "Wu-Tang Clan",
+      "A Tribe Called Quest"
+    ],
+    "x": "Cypress Hill released Black Sunday in 1993."
+  },
+  {
+    "id": "glb082",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Latin trap star released Safaera?",
+    "a": "Bad Bunny",
+    "w": [
+      "J Balvin",
+      "Daddy Yankee",
+      "Ozuna"
+    ],
+    "x": "Safaera is a Bad Bunny track from YHLQMDLG."
+  },
+  {
+    "id": "glb083",
+    "l": "glb",
+    "d": 2,
+    "q": "Which rapper released El \u00daltimo Tour Del Mundo in 2020?",
+    "a": "Bad Bunny",
+    "w": [
+      "J Balvin",
+      "Daddy Yankee",
+      "Ozuna"
+    ],
+    "x": "Bad Bunny released El \u00daltimo Tour Del Mundo in 2020."
+  },
+  {
+    "id": "glb084",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Puerto Rican rapper released X 100pre?",
+    "a": "Bad Bunny",
+    "w": [
+      "J Balvin",
+      "Daddy Yankee",
+      "Ozuna"
+    ],
+    "x": "Bad Bunny released X 100pre in 2018."
+  },
+  {
+    "id": "glb085",
+    "l": "glb",
+    "d": 2,
+    "q": "Which rapper released Un Verano Sin Ti in 2022?",
+    "a": "Bad Bunny",
+    "w": [
+      "J Balvin",
+      "Daddy Yankee",
+      "Ozuna"
+    ],
+    "x": "Bad Bunny released Un Verano Sin Ti in 2022."
+  },
+  {
+    "id": "glb086",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian artist won the 2021 Grammy for Best Global Music Album?",
+    "a": "Burna Boy",
+    "w": [
+      "Wizkid",
+      "Davido",
+      "Tems"
+    ],
+    "x": "Burna Boy won Best Global Music Album for Twice as Tall in 2021."
+  },
+  {
+    "id": "glb087",
+    "l": "glb",
+    "d": 2,
+    "q": "Which album earned Burna Boy a 2021 Grammy?",
+    "a": "Twice as Tall",
+    "w": [
+      "African Giant",
+      "Made in Lagos",
+      "Born in the Wild"
+    ],
+    "x": "Burna Boy won for Twice as Tall in 2021."
+  },
+  {
+    "id": "glb088",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian singer won Best African Music Performance in 2025?",
+    "a": "Tems",
+    "w": [
+      "Burna Boy",
+      "Wizkid",
+      "Davido"
+    ],
+    "x": "Tems won Best African Music Performance for Love Me JeJe in 2025."
+  },
+  {
+    "id": "glb089",
+    "l": "glb",
+    "d": 3,
+    "q": "Which South African singer won the first Best African Music Performance Grammy?",
+    "a": "Tyla",
+    "w": [
+      "Tems",
+      "Burna Boy",
+      "Asake"
+    ],
+    "x": "Tyla won the inaugural award in 2024 for Water."
+  },
+  {
+    "id": "glb090",
+    "l": "glb",
+    "d": 2,
+    "q": "Which song earned Tems a 2025 Grammy?",
+    "a": "Love Me JeJe",
+    "w": [
+      "Water",
+      "Essence",
+      "Free Mind"
+    ],
+    "x": "Tems won Best African Music Performance for Love Me JeJe."
+  },
+  {
+    "id": "glb091",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian artist released Essence featuring Tems?",
+    "a": "Wizkid",
+    "w": [
+      "Burna Boy",
+      "Davido",
+      "Asake"
+    ],
+    "x": "Wizkid's Essence featured Tems and became a global hit."
+  },
+  {
+    "id": "glb092",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Wizkid album includes Essence?",
+    "a": "Made in Lagos",
+    "w": [
+      "Twice as Tall",
+      "African Giant",
+      "Born in the Wild"
+    ],
+    "x": "Essence appears on Wizkid's Made in Lagos."
+  },
+  {
+    "id": "glb093",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian singer released Born in the Wild?",
+    "a": "Tems",
+    "w": [
+      "Burna Boy",
+      "Wizkid",
+      "Davido"
+    ],
+    "x": "Tems released Born in the Wild in 2024."
+  },
+  {
+    "id": "glb094",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Ghanaian rapper founded SarkCess Music?",
+    "a": "Sarkodie",
+    "w": [
+      "Burna Boy",
+      "Wizkid",
+      "Nasty C"
+    ],
+    "x": "Sarkodie founded the Ghanaian label SarkCess Music."
+  },
+  {
+    "id": "glb095",
+    "l": "glb",
+    "d": 2,
+    "q": "Which South African rapper released Bad Hair?",
+    "a": "Nasty C",
+    "w": [
+      "Cassper Nyovest",
+      "AKA",
+      "Sarkodie"
+    ],
+    "x": "Nasty C released Bad Hair in 2016."
+  },
+  {
+    "id": "glb096",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian star released the album African Giant?",
+    "a": "Burna Boy",
+    "w": [
+      "Wizkid",
+      "Davido",
+      "Tems"
+    ],
+    "x": "Burna Boy released African Giant in 2019."
+  },
+  {
+    "id": "glb097",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian singer released the global hit Calm Down?",
+    "a": "Rema",
+    "w": [
+      "Burna Boy",
+      "Wizkid",
+      "Davido"
+    ],
+    "x": "Rema's Calm Down became a global hit."
+  },
+  {
+    "id": "glb098",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Nigerian singer collaborated with Selena Gomez on Calm Down?",
+    "a": "Rema",
+    "w": [
+      "Burna Boy",
+      "Wizkid",
+      "Davido"
+    ],
+    "x": "Rema teamed with Selena Gomez on Calm Down."
+  },
+  {
+    "id": "glb099",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian artist released the 2018 song Ye?",
+    "a": "Burna Boy",
+    "w": [
+      "Wizkid",
+      "Davido",
+      "Rema"
+    ],
+    "x": "Burna Boy released Ye in 2018."
+  },
+  {
+    "id": "glb100",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian artist featured on Drake's One Dance?",
+    "a": "Wizkid",
+    "w": [
+      "Burna Boy",
+      "Davido",
+      "Tems"
+    ],
+    "x": "Wizkid featured on Drake's One Dance."
+  },
+  {
+    "id": "glb101",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Canadian rapper founded OVO Sound?",
+    "a": "Drake",
+    "w": [
+      "The Weeknd",
+      "K'naan",
+      "Tory Lanez"
+    ],
+    "x": "Drake founded OVO Sound in 2012."
+  },
+  {
+    "id": "glb102",
+    "l": "glb",
+    "d": 1,
+    "q": "Which Canadian rapper released Take Care?",
+    "a": "Drake",
+    "w": [
+      "The Weeknd",
+      "K'naan",
+      "Tory Lanez"
+    ],
+    "x": "Drake released Take Care in 2011."
+  },
+  {
+    "id": "glb103",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Drake album came out in 2011?",
+    "a": "Take Care",
+    "w": [
+      "Thank Me Later",
+      "Nothing Was the Same",
+      "Views"
+    ],
+    "x": "Take Care was released by Drake in 2011."
+  },
+  {
+    "id": "glb104",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Canadian rapper released Scorpion?",
+    "a": "Drake",
+    "w": [
+      "The Weeknd",
+      "K'naan",
+      "Tory Lanez"
+    ],
+    "x": "Drake released Scorpion in 2018."
+  },
+  {
+    "id": "glb105",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Canadian rapper released Views?",
+    "a": "Drake",
+    "w": [
+      "The Weeknd",
+      "K'naan",
+      "Tory Lanez"
+    ],
+    "x": "Drake released Views in 2016."
+  },
+  {
+    "id": "glb106",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Canadian singer released Blinding Lights?",
+    "a": "The Weeknd",
+    "w": [
+      "Drake",
+      "K'naan",
+      "Justin Bieber"
+    ],
+    "x": "The Weeknd released Blinding Lights in 2019."
+  },
+  {
+    "id": "glb107",
+    "l": "glb",
+    "d": 3,
+    "q": "Which song spent a record 90 weeks on the Hot 100?",
+    "a": "Blinding Lights",
+    "w": [
+      "One Dance",
+      "Uptown Funk",
+      "Shape of You"
+    ],
+    "x": "Blinding Lights logged 90 weeks on the Billboard Hot 100."
+  },
+  {
+    "id": "glb108",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Drake song topped the Hot 100 for 10 weeks in 2016?",
+    "a": "One Dance",
+    "w": [
+      "Hotline Bling",
+      "God's Plan",
+      "In My Feelings"
+    ],
+    "x": "One Dance spent 10 weeks at number one in 2016."
+  },
+  {
+    "id": "glb109",
+    "l": "glb",
+    "d": 3,
+    "q": "Which British singer sang on Drake's One Dance?",
+    "a": "Kyla",
+    "w": [
+      "Adele",
+      "Rita Ora",
+      "Jessie J"
+    ],
+    "x": "Kyla sang on Drake's One Dance alongside Wizkid."
+  },
+  {
+    "id": "glb110",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Canadian rapper released God's Plan?",
+    "a": "Drake",
+    "w": [
+      "The Weeknd",
+      "K'naan",
+      "Tory Lanez"
+    ],
+    "x": "Drake released God's Plan in 2018."
+  },
+  {
+    "id": "glb111",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Canadian city is Drake's hometown?",
+    "a": "Toronto",
+    "w": [
+      "Vancouver",
+      "Montreal",
+      "Calgary"
+    ],
+    "x": "Drake grew up in Toronto, Ontario."
+  },
+  {
+    "id": "glb112",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Canadian rapper is nicknamed the 6 God?",
+    "a": "Drake",
+    "w": [
+      "The Weeknd",
+      "K'naan",
+      "Tory Lanez"
+    ],
+    "x": "Drake is nicknamed the 6 God after Toronto."
+  },
+  {
+    "id": "glb113",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Canadian singer is known as Abel Tesfaye?",
+    "a": "The Weeknd",
+    "w": [
+      "Drake",
+      "K'naan",
+      "Justin Bieber"
+    ],
+    "x": "The Weeknd's real name is Abel Tesfaye."
+  },
+  {
+    "id": "glb114",
+    "l": "glb",
+    "d": 1,
+    "q": "Which Australian rapper released Fancy?",
+    "a": "Iggy Azalea",
+    "w": [
+      "Kylie Minogue",
+      "Hilltop Hoods",
+      "360"
+    ],
+    "x": "Iggy Azalea released Fancy with Charli XCX in 2014."
+  },
+  {
+    "id": "glb115",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Australian rapper topped the US Hot 100 with Fancy?",
+    "a": "Iggy Azalea",
+    "w": [
+      "Hilltop Hoods",
+      "360",
+      "Kylie Minogue"
+    ],
+    "x": "Fancy reached number one on the Hot 100 in 2014."
+  },
+  {
+    "id": "glb116",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Australian rap group released Cosby Sweater?",
+    "a": "Hilltop Hoods",
+    "w": [
+      "Iggy Azalea",
+      "360",
+      "The Presets"
+    ],
+    "x": "Hilltop Hoods released Cosby Sweater in 2014."
+  },
+  {
+    "id": "glb117",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Australian group released The Hard Road?",
+    "a": "Hilltop Hoods",
+    "w": [
+      "Iggy Azalea",
+      "360",
+      "The Living End"
+    ],
+    "x": "The Hard Road is a Hilltop Hoods album from 2006."
+  },
+  {
+    "id": "glb118",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Australian rapper released The New Classic?",
+    "a": "Iggy Azalea",
+    "w": [
+      "Hilltop Hoods",
+      "360",
+      "Sia"
+    ],
+    "x": "Iggy Azalea released The New Classic in 2014."
+  },
+  {
+    "id": "glb119",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Australian rapper appeared on Ariana Grande's Problem?",
+    "a": "Iggy Azalea",
+    "w": [
+      "Hilltop Hoods",
+      "360",
+      "Sia"
+    ],
+    "x": "Iggy Azalea featured on Ariana Grande's Problem."
+  },
+  {
+    "id": "glb120",
+    "l": "glb",
+    "d": 2,
+    "q": "Which German group released Die da!? in 1992?",
+    "a": "Die Fantastischen Vier",
+    "w": [
+      "Kraftwerk",
+      "Die \u00c4rzte",
+      "Scorpions"
+    ],
+    "x": "Die Fantastischen Vier scored a 1992 German rap hit with Die da!?"
+  },
+  {
+    "id": "glb121",
+    "l": "glb",
+    "d": 3,
+    "q": "Which 1992 single is seen as Germany's first mainstream rap hit?",
+    "a": "Die da!?",
+    "w": [
+      "Das Boot",
+      "Forever Young",
+      "Du hast"
+    ],
+    "x": "Die da!? by Die Fantastischen Vier became Germany's first mainstream rap hit."
+  },
+  {
+    "id": "glb122",
+    "l": "glb",
+    "d": 2,
+    "q": "Which city is the center of Japan's hip-hop scene?",
+    "a": "Tokyo",
+    "w": [
+      "Osaka",
+      "Kyoto",
+      "Seoul"
+    ],
+    "x": "Tokyo is the center of Japanese hip-hop."
+  },
+  {
+    "id": "glb123",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Japanese artist is often called a pioneer of Japanese hip-hop?",
+    "a": "Hiroshi Fujiwara",
+    "w": [
+      "KOHH",
+      "PSY",
+      "Jay Park"
+    ],
+    "x": "Hiroshi Fujiwara helped introduce hip-hop to Japan in the 1980s."
+  },
+  {
+    "id": "glb124",
+    "l": "glb",
+    "d": 2,
+    "q": "Which German rapper released the album Electro Ghetto?",
+    "a": "Bushido",
+    "w": [
+      "Sido",
+      "Kool Savas",
+      "Die Fantastischen Vier"
+    ],
+    "x": "Bushido released Electro Ghetto in 2004."
+  },
+  {
+    "id": "glb125",
+    "l": "glb",
+    "d": 2,
+    "q": "Which German-language group is nicknamed Fanta 4?",
+    "a": "Die Fantastischen Vier",
+    "w": [
+      "Die \u00c4rzte",
+      "Kraftwerk",
+      "Scorpions"
+    ],
+    "x": "Die Fantastischen Vier are nicknamed Fanta 4."
+  },
+  {
+    "id": "glb126",
+    "l": "glb",
+    "d": 2,
+    "q": "Which three artists collaborated on Drake's One Dance?",
+    "a": "Drake, Wizkid and Kyla",
+    "w": [
+      "Drake, Rihanna and Tems",
+      "Drake, Burna Boy and Kyla",
+      "Drake, Davido and Kyla"
+    ],
+    "x": "One Dance united Drake, Wizkid and Kyla."
+  },
+  {
+    "id": "glb127",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Latin stars joined Cardi B on I Like It?",
+    "a": "Bad Bunny and J Balvin",
+    "w": [
+      "J Balvin and Ozuna",
+      "Daddy Yankee and Ozuna",
+      "Bad Bunny and Daddy Yankee"
+    ],
+    "x": "I Like It featured Bad Bunny and J Balvin."
+  },
+  {
+    "id": "glb128",
+    "l": "glb",
+    "d": 2,
+    "q": "Which British singer joined Luis Fonsi and Daddy Yankee on Despacito?",
+    "a": "Justin Bieber",
+    "w": [
+      "Ed Sheeran",
+      "Sam Smith",
+      "Harry Styles"
+    ],
+    "x": "Justin Bieber joined the Despacito remix."
+  },
+  {
+    "id": "glb129",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Australian rapper collaborated with Charli XCX on Fancy?",
+    "a": "Iggy Azalea",
+    "w": [
+      "Hilltop Hoods",
+      "360",
+      "Sia"
+    ],
+    "x": "Charli XCX sang the hook on Iggy Azalea's Fancy."
+  },
+  {
+    "id": "glb130",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Korean artist worked with Snoop Dogg on Hangover?",
+    "a": "PSY",
+    "w": [
+      "CL",
+      "Jay Park",
+      "BTS"
+    ],
+    "x": "PSY collaborated with Snoop Dogg on Hangover."
+  },
+  {
+    "id": "glb131",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian singer appears on Future's Wait for U?",
+    "a": "Tems",
+    "w": [
+      "Burna Boy",
+      "Wizkid",
+      "Davido"
+    ],
+    "x": "Wait for U featured Future, Drake and Tems."
+  },
+  {
+    "id": "glb132",
+    "l": "glb",
+    "d": 3,
+    "q": "Which song won Best Melodic Rap Performance at the 2023 Grammys?",
+    "a": "Wait for U",
+    "w": [
+      "One Dance",
+      "Essence",
+      "Scientists & Engineers"
+    ],
+    "x": "Wait for U won Best Melodic Rap Performance in 2023."
+  },
+  {
+    "id": "glb133",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Canadian rapper's real name is Aubrey Graham?",
+    "a": "Drake",
+    "w": [
+      "The Weeknd",
+      "K'naan",
+      "Tory Lanez"
+    ],
+    "x": "Drake was born Aubrey Graham."
+  },
+  {
+    "id": "glb134",
+    "l": "glb",
+    "d": 2,
+    "q": "Which British rapper's real name is David Omoregie?",
+    "a": "Dave",
+    "w": [
+      "Stormzy",
+      "Kano",
+      "Skepta"
+    ],
+    "x": "Dave's real name is David Omoregie."
+  },
+  {
+    "id": "glb135",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Puerto Rican rapper's real name is Benito Antonio Martinez Ocasio?",
+    "a": "Bad Bunny",
+    "w": [
+      "Daddy Yankee",
+      "J Balvin",
+      "Ozuna"
+    ],
+    "x": "Bad Bunny's real name is Benito Antonio Martinez Ocasio."
+  },
+  {
+    "id": "glb136",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Colombian singer's real name is Jose Alvaro Osorio Balvin?",
+    "a": "J Balvin",
+    "w": [
+      "Bad Bunny",
+      "Daddy Yankee",
+      "Ozuna"
+    ],
+    "x": "J Balvin was born Jose Alvaro Osorio Balvin."
+  },
+  {
+    "id": "glb137",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian artist's real name is Damini Ogulu?",
+    "a": "Burna Boy",
+    "w": [
+      "Wizkid",
+      "Davido",
+      "Tems"
+    ],
+    "x": "Burna Boy's real name is Damini Ogulu."
+  },
+  {
+    "id": "glb138",
+    "l": "glb",
+    "d": 3,
+    "q": "Which grime MC's real name is Richard Cowie?",
+    "a": "Wiley",
+    "w": [
+      "Skepta",
+      "Stormzy",
+      "Dizzee Rascal"
+    ],
+    "x": "Wiley's real name is Richard Cowie."
+  },
+  {
+    "id": "glb139",
+    "l": "glb",
+    "d": 2,
+    "q": "Which South African singer's full name is Tyla Laura Seethal?",
+    "a": "Tyla",
+    "w": [
+      "Tems",
+      "Asake",
+      "Burna Boy"
+    ],
+    "x": "Tyla's full name is Tyla Laura Seethal."
+  },
+  {
+    "id": "glb140",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Australian rapper's real name is Amethyst Amelia Kelly?",
+    "a": "Iggy Azalea",
+    "w": [
+      "Hilltop Hoods",
+      "360",
+      "Sia"
+    ],
+    "x": "Iggy Azalea was born Amethyst Amelia Kelly."
+  },
+  {
+    "id": "glb141",
+    "l": "glb",
+    "d": 3,
+    "q": "Which Korean rapper's real name is Min Yoongi?",
+    "a": "Suga",
+    "w": [
+      "RM",
+      "J-Hope",
+      "Jungkook"
+    ],
+    "x": "Suga's real name is Min Yoongi."
+  },
+  {
+    "id": "glb142",
+    "l": "glb",
+    "d": 2,
+    "q": "Which UK rapper's real name is Dylan Mills?",
+    "a": "Dizzee Rascal",
+    "w": [
+      "Skepta",
+      "Stormzy",
+      "Wiley"
+    ],
+    "x": "Dizzee Rascal's real name is Dylan Mills."
+  },
+  {
+    "id": "glb143",
+    "l": "glb",
+    "d": 2,
+    "q": "Which Nigerian singer's real name is Temilade Openiyi?",
+    "a": "Tems",
+    "w": [
+      "Burna Boy",
+      "Wizkid",
+      "Davido"
+    ],
+    "x": "Tems was born Temilade Openiyi."
+  }
+]

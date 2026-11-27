@@ -1,0 +1,587 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Hip Hop Quiz</title>
+<meta name="description" content="Hip Hop Quiz: artists, albums, songs, history, awards and hip hop around the world. A daily quiz plus classic games, challenges and leagues.">
+<meta name="theme-color" content="#1d1218" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0a0709" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="preload" href="fonts/space-grotesk-latin-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="app.css">
+<script defer src="js/daily-gen.js"></script>
+<script defer src="js/match.js"></script>
+<script defer src="js/ach-defs.js"></script>
+<script defer src="js/core.js"></script>
+<script defer src="js/achievements.js"></script>
+<script defer src="js/quiz.js"></script>
+<script defer src="js/social.js"></script>
+<script defer src="js/report.js"></script>
+<script defer src="js/modes.js"></script>
+<script defer src="js/games.js"></script>
+<script defer src="js/compete.js"></script>
+<script defer src="js/live.js"></script>
+<script defer src="js/board.js"></script>
+<script defer src="js/push.js"></script>
+<script defer src="js/me.js"></script>
+<script defer src="js/app.js"></script>
+</head>
+<body>
+<main>
+
+<!-- ============ PLAY tab ============ -->
+<section id="home">
+  <header class="globehead">
+    <svg viewBox="0 0 390 210" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <g fill="none" stroke="#f5c542" stroke-opacity=".28" stroke-width="2">
+        <circle cx="195" cy="105" r="92"/>
+        <circle cx="195" cy="105" r="74"/>
+        <circle cx="195" cy="105" r="56"/>
+        <circle cx="195" cy="105" r="30"/>
+        <circle cx="195" cy="105" r="9" fill="#f5c542" fill-opacity=".35"/>
+        <path d="M195 13v184M103 105h184"/>
+      </g>
+      <g fill="none" stroke="#fbf4e6" stroke-opacity=".5" stroke-width="3" stroke-linecap="round">
+        <rect x="180" y="62" width="30" height="58" rx="15"/>
+        <path d="M169 108a26 26 0 0 0 52 0M195 134v20M183 154h24"/>
+      </g>
+    </svg>
+    <div class="ttl">
+      <h1>Hip Hop <span>Quiz</span></h1>
+      <p id="subtitle">Artists, albums, samples and more</p>
+    </div>
+  </header>
+
+  <div class="card daily" id="dailyCard">
+    <div class="row1"><span class="lbl" id="dLabel">Daily quiz</span><span class="flame" id="dFlame"></span></div>
+    <div id="dTodo">
+      <h2>Today's 7</h2>
+      <p class="meta">Same questions for everyone · new quiz in <span class="countdown" id="dCount1">--:--:--</span></p>
+      <button class="btn" id="dPlay">Play today's quiz</button>
+    </div>
+    <div id="dDone" class="hidden">
+      <div class="doneRow"><span class="score" id="dScore"></span><div class="grid7" id="dGrid"></div></div>
+      <p class="meta" id="dRank" style="margin-top:8px"></p>
+      <p class="meta">Come back tomorrow · next quiz in <span class="countdown" id="dCount2">--:--:--</span></p>
+      <div class="btns"><button class="btn" id="dShare">Share</button><button class="btn ghost" id="dBoard">Daily board</button></div>
+    </div>
+  </div>
+
+  <button class="divstrip tile hidden" id="divStrip">
+    <span class="dic" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M5 9l7-6 7 6"/><path d="M5 15l7 6 7-6" opacity=".45"/></svg></span>
+    <span class="dtx"><b id="divTier"></b><span id="divLine"></span></span>
+    <span class="chev" aria-hidden="true">›</span>
+  </button>
+
+  <a class="tile getapp hidden" id="getApp" href="https://github.com/teo2301/hiphop-quiz/releases/latest" rel="noopener">
+    <b>Get the Android app</b><span>Same game, full screen, straight from your home screen</span>
+  </a>
+
+  <div class="tile getapp hidden" id="getAppIos">
+    <b>Get the iPhone app</b><span>Tap the Share button <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px"><path d="M12 3v12M7 8l5-5 5 5M5 14v5a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-5"/></svg> in Safari, then Add to Home Screen. Same game, full screen, works offline.</span>
+  </div>
+
+  <h2 class="sec">Play</h2>
+  <div class="modes" id="modes"></div>
+
+  <h2 class="sec">Your record</h2>
+  <div class="stats">
+    <div class="stat tile"><b id="sPlayed">0</b><span>quizzes</span></div>
+    <div class="stat tile"><b id="sPct">–</b><span>correct</span></div>
+    <div class="stat tile"><b id="sStreak">0</b><span>best run</span></div>
+  </div>
+  <p class="small center" id="seenNote"></p>
+</section>
+
+<!-- ============ Classic setup ============ -->
+<section id="setup" class="hidden">
+  <div class="pagehead"><button class="back" id="setupBack" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button><h1>Classic</h1></div>
+  <h2 class="sec">Topic</h2>
+  <div class="chips" id="leagues"></div>
+  <h2 class="sec">Difficulty</h2>
+  <div class="chips" id="diffs"></div>
+  <h2 class="sec">Questions</h2>
+  <div class="chips" id="lengths"></div>
+  <h2 class="sec">Timer</h2>
+  <div class="chips" id="timers"></div>
+  <button class="btn" id="start">Start</button>
+  <p class="small center" id="pool"></p>
+</section>
+
+<!-- ============ Playing ============ -->
+<section id="play" class="hidden">
+  <div class="playtop"><span class="mname" id="mname">Classic</span><button class="iconbtn" id="quit">Quit</button></div>
+  <div class="scoreboard">
+    <div><span id="sbQL">Question</span><b id="sbQ">1/10</b></div>
+    <div><span id="sbPL">Points</span><b id="sbP">0</b></div>
+    <div><span id="sbClockL">Clock</span><b id="sbC">0:00</b></div>
+  </div>
+  <div class="segs" id="segs"></div>
+  <div class="card qcard">
+    <button class="lifeline hidden" id="fifty" aria-label="50:50 lifeline: remove two wrong answers, half points">50:50</button>
+    <span class="tag" id="qtag"></span>
+    <p class="q" id="qtext"></p>
+    <img class="qflag hidden" id="qimg" alt="" width="240" height="180">
+  </div>
+  <div class="opts" id="opts"></div>
+  <div class="fact hidden" id="fact"><b>Did you know</b><p id="factText"></p></div>
+  <button class="btn hidden" id="next">Next</button>
+  <button class="linkbtn reportlink hidden" id="reportBtn" type="button">Something wrong with this question?</button>
+</section>
+
+<!-- ============ Higher or lower ============ -->
+<section id="hilo" class="hidden">
+  <div class="playtop"><span class="mname">Higher or lower</span><button class="iconbtn" id="hiQuit">Quit</button></div>
+  <div class="scoreboard">
+    <div><span>Streak</span><b id="hiStreak">0</b></div>
+    <div><span>Best</span><b id="hiBest">0</b></div>
+  </div>
+  <p class="hicat" id="hiCat"></p>
+  <div class="card statcard" id="hiA"></div>
+  <div class="vs"><span>vs</span></div>
+  <div class="card statcard" id="hiB"></div>
+  <p class="hiask" id="hiAsk"></p>
+  <div class="hibtns" id="hiBtns">
+    <button class="btn" id="hiBtn"><span aria-hidden="true">▲ </span><span id="hiBtnT">Higher</span></button>
+    <button class="btn" id="loBtn"><span aria-hidden="true">▼ </span><span id="loBtnT">Lower</span></button>
+  </div>
+  <button class="btn hidden" id="hiNext">Next</button>
+  <p class="small center" id="hiNote"></p>
+</section>
+
+<!-- ============ Guess the artist (internal mode id "career") ============ -->
+<section id="career" class="hidden">
+  <div class="playtop"><span class="mname">Guess the artist</span><button class="iconbtn" id="cQuit">Quit</button></div>
+  <div class="scoreboard">
+    <div><span>Country</span><b id="cNum">1/5</b></div>
+    <div><span>Points</span><b id="cPts">0</b></div>
+    <div><span>Worth</span><b id="cWorth">5</b></div>
+  </div>
+  <div class="card ccard">
+    <span class="tag">Clues, hardest first · capital last</span>
+    <ol class="path" id="cPath"></ol>
+    <p class="left" id="cLeft"></p>
+  </div>
+  <div id="cAsk">
+    <div class="namerow guessrow"><input id="cGuess" maxlength="60" placeholder="Which country?" autocomplete="off" autocorrect="off" autocapitalize="words" spellcheck="false"><button class="btn" id="cGuessBtn">Guess</button></div>
+    <p class="msg" id="cMsg" aria-live="polite"></p>
+    <div class="cbtns"><button class="btn ghost" id="cClue">Next clue</button><button class="btn ghost" id="cGiveUp">Give up</button></div>
+    <p class="small center">5 points from the first clue, then 4, 3, 2 and 1. A wrong guess shows the next clue.</p>
+  </div>
+  <div id="cRes" class="hidden">
+    <div class="card cres"><p class="lbl">It was</p><p class="who" id="cResName"></p><p id="cResLine"></p></div>
+    <button class="btn" id="cNext">Next country</button>
+  </div>
+</section>
+
+<!-- ============ Result ============ -->
+<section id="done" class="hidden">
+  <div class="card result">
+    <div class="lbl" id="rLabel">Final score</div>
+    <div class="big" id="final"></div>
+    <p class="verdict" id="verdict"></p>
+    <div class="grid7 hidden" id="rGrid"></div>
+    <p class="flame hidden" id="rFlame"></p>
+    <button class="btn hidden" id="rShare">Share result</button>
+  </div>
+  <div class="postbox">
+    <div id="postAsk" class="hidden">
+      <p>Put your score on the board? Pick a name:</p>
+      <div class="namerow"><input id="nameIn" maxlength="16" placeholder="Your name" autocomplete="nickname" autocapitalize="words"><button class="btn" id="postBtn">Post</button></div>
+    </div>
+    <p id="postMsg" class="msg hidden"></p>
+  </div>
+  <div class="tile pushask hidden" id="pushAsk">
+    <p class="pat"><b>Want a nudge when tomorrow's quiz is up?</b></p>
+    <p class="cmeta">One notification a day at about 9am, plus when a mate beats your challenge. Switch any of them off in the Me tab.</p>
+    <div class="btnpair"><button class="btn" id="paYes">Turn on</button><button class="btn ghost" id="paNo">Not now</button></div>
+    <p class="msg err hidden" id="paMsg" aria-live="polite"></p>
+  </div>
+  <div id="chBox" class="hidden">
+    <button class="btn" id="rChallenge">Challenge a mate</button>
+    <p class="msg hidden" id="chMsg" aria-live="polite"></p>
+  </div>
+  <button class="btn" id="again">Play again</button>
+  <button class="btn ghost" id="menu">Home</button>
+  <h2 class="sec" id="missedH">What you missed</h2>
+  <ul class="review" id="missed"></ul>
+</section>
+
+<!-- ============ Challenge hub ============ -->
+<section id="chal" class="hidden">
+  <div class="pagehead"><button class="back" id="chalBack" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button><h1>Challenge</h1></div>
+  <div class="card">
+    <h2 class="ctitle">Got a code?</h2>
+    <p class="cmeta">Play the exact quiz a mate played, then see your scores side by side.</p>
+    <div class="namerow incard"><input id="chCode" class="code" maxlength="7" placeholder="ABC123" autocomplete="off" autocorrect="off" autocapitalize="characters" spellcheck="false"><button class="btn" id="chGo">Play</button></div>
+    <p class="msg hidden" id="chGoMsg" aria-live="polite"></p>
+  </div>
+  <div class="tile howto">
+    <b>Send one</b>
+    <p>Play a Classic quiz, then tap <em>Challenge a mate</em> on the result screen. They get the same questions in the same order.</p>
+    <button class="btn ghost" id="chClassic">Play Classic</button>
+  </div>
+  <h2 class="sec">Head to head</h2>
+  <ul class="lb" id="h2hList"></ul>
+  <p class="small center" id="h2hMsg"></p>
+  <h2 class="sec">Your challenges</h2>
+  <ul class="lb" id="chList"></ul>
+  <p class="small center" id="chListMsg"></p>
+</section>
+
+<!-- ============ Challenge invite ============ -->
+<section id="chIntro" class="hidden">
+  <div class="pagehead"><button class="back" id="ciBack" aria-label="Home"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button><h1>Challenge</h1></div>
+  <div class="card invite">
+    <div class="lbl" id="ciCode"></div>
+    <p class="who" id="ciFrom"></p>
+    <p class="sub" id="ciSub">challenges you</p>
+    <div class="target hidden" id="ciTarget"><span>Score to beat</span><b id="ciScore"></b><em id="ciPts"></em></div>
+    <p class="cmeta" id="ciMeta"></p>
+    <button class="btn hidden" id="ciPlay">Start</button>
+    <p class="msg hidden" id="ciMsg" aria-live="polite"></p>
+  </div>
+</section>
+
+<!-- ============ Challenge result: side by side ============ -->
+<section id="vs" class="hidden">
+  <div class="card result vscard">
+    <div class="lbl" id="vsLabel">Challenge</div>
+    <div class="vsrow">
+      <div class="side"><span class="nm" id="vsAName">You</span><b id="vsA">–</b><em id="vsAP"></em></div>
+      <div class="mid">v</div>
+      <div class="side"><span class="nm" id="vsBName"></span><b id="vsB">–</b><em id="vsBP"></em></div>
+    </div>
+    <p class="verdict" id="vsVerdict"></p>
+    <p class="h2h" id="vsH2h"></p>
+  </div>
+  <p class="msg hidden" id="vsMsg" aria-live="polite"></p>
+  <div id="vsPlays" class="hidden">
+    <h2 class="sec">Who's played</h2>
+    <ul class="lb" id="vsPlayList"></ul>
+    <button class="btn" id="vsShare">Share the challenge again</button>
+  </div>
+  <div id="vsQs">
+    <h2 class="sec">Question by question</h2>
+    <ul class="review qq" id="vsQList"></ul>
+  </div>
+  <button class="btn ghost" id="vsHome">Home</button>
+</section>
+
+<!-- ============ BOARDS tab ============ -->
+<section id="boards" class="hidden">
+  <div class="pagehead"><h1>Boards</h1></div>
+  <div class="chips" id="bKind"></div>
+  <div class="chips" id="bPeriod" style="margin-top:6px;padding-top:6px;border-top:1px solid var(--tileb)"></div>
+  <div class="chips" id="bLen"></div>
+  <h2 class="sec" id="bTitle"></h2>
+  <ul class="lb" id="lb"></ul>
+  <p class="small center" id="bMsg"></p>
+  <p class="small center" id="bNote"></p>
+</section>
+
+<!-- ============ LEAGUES tab ============ -->
+<section id="leaguesTab" class="hidden">
+  <div class="pagehead"><h1>Leagues</h1></div>
+  <div class="card divcard" id="divCard">
+    <div class="row1"><span class="lbl">This week's division</span><span class="left" id="dvLeft"></span></div>
+    <h2 class="ctitle" id="dvTier"></h2>
+    <div class="ladder" id="dvLadder"></div>
+    <p class="banner hidden" id="dvLast"></p>
+    <p class="cmeta" id="dvLine"></p>
+  </div>
+  <ul class="lb divtable" id="dvTable"></ul>
+  <p class="small" id="dvNote">Every game you post earns points: Classic, daily and Guess the artist points as scored, 1 per correct answer in Survival, Blitz and Higher or lower. Tables of 20; every Monday at midnight the top 3 go up and the bottom 3 go down.</p>
+
+  <h2 class="sec">Live 1v1 league</h2>
+  <ul class="lb" id="lvTabTable"></ul>
+  <p class="small center" id="lvTabMsg"></p>
+  <button class="btn" id="lvTabPlay">Play a live match</button>
+
+  <h2 class="sec">Private leagues</h2>
+  <ul class="lb" id="lgList"></ul>
+  <p class="small center" id="lgMsg"></p>
+  <div class="tile join hidden" id="lgInvite">
+    <b id="lgInviteName"></b>
+    <p id="lgInviteMeta"></p>
+    <div class="btnpair"><button class="btn" id="lgInviteJoin">Join league</button><button class="btn ghost" id="lgInviteNo">Not now</button></div>
+  </div>
+  <div class="tile form">
+    <b>Join with a code</b>
+    <div class="namerow"><input id="lgCode" class="code" maxlength="7" placeholder="ABC123" autocomplete="off" autocorrect="off" autocapitalize="characters" spellcheck="false"><button class="btn" id="lgJoin">Join</button></div>
+  </div>
+  <div class="tile form">
+    <b>Start a league</b>
+    <div class="namerow"><input id="lgName" maxlength="24" placeholder="League name" autocomplete="off" autocapitalize="words"><button class="btn" id="lgCreate">Create</button></div>
+  </div>
+  <p class="msg hidden" id="lgFormMsg" aria-live="polite"></p>
+</section>
+
+<!-- ============ One private league ============ -->
+<section id="league" class="hidden">
+  <div class="pagehead"><button class="back" id="lBack" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button><h1 id="lName">League</h1></div>
+  <div class="tile codetile">
+    <div><span class="lbl">Join code</span><b class="codebig" id="lCode"></b></div>
+    <button class="btn" id="lInvite">Invite</button>
+  </div>
+  <div class="chips" id="lPeriod"></div>
+  <ul class="lb" id="lTable"></ul>
+  <p class="small center" id="lMsg"></p>
+  <p class="small" id="lNote">Points from every mode, for players who are in the league. The week runs Monday to Sunday (UK time).</p>
+  <button class="btn ghost" id="lLeave">Leave league</button>
+</section>
+
+<!-- ============ Live 1v1 ============ -->
+<section id="live" class="hidden">
+  <div id="lvLobby">
+    <div class="pagehead"><button class="back" id="lvBack" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button><h1>Live 1v1</h1></div>
+    <div class="card">
+      <h2 class="ctitle">Ranked match</h2>
+      <p class="cmeta">10 questions, 15 seconds each, against whoever's online. Quicker right answers score more. Win = 3 league points, draw = 1.</p>
+      <button class="btn" id="lvFind">Find a match</button>
+    </div>
+    <div class="card lvbots" id="lvBotCard">
+      <h2 class="ctitle">Play vs bots</h2>
+      <p class="cmeta">No waiting: the same 10 questions, 15 seconds each. Bot games don't count for the league. The 1v1 works offline too.</p>
+      <p class="msg hidden" id="lvBotOff">Can't reach the server right now, so the bot game runs on your phone.</p>
+      <div class="seg" id="lvLevel" role="group" aria-label="Bot level"></div>
+      <div class="lvbotbtns"><button class="btn" id="lvBot1">1v1 vs bot</button><button class="btn ghost" id="lvBot2">2v2 with bots</button></div>
+    </div>
+    <div class="tile form">
+      <b>Play a mate</b>
+      <div class="namerow"><input id="lvCode" class="code" maxlength="7" placeholder="ABC123" autocomplete="off" autocorrect="off" autocapitalize="characters" spellcheck="false"><button class="btn" id="lvJoin">Join</button></div>
+      <button class="btn ghost" id="lvCreate" style="margin-top:10px">Create a match and send a code</button>
+    </div>
+    <p class="msg hidden" id="lvMsg" aria-live="polite"></p>
+    <h2 class="sec">Live league</h2>
+    <div class="chips" id="lvPeriod"></div>
+    <ul class="lb" id="lvTable"></ul>
+    <p class="small center" id="lvTableMsg"></p>
+    <p class="small">The league only counts ranked matches. Win 3, draw 1, loss 0, then points difference. Weeks run Monday to Sunday (UK time). Only the first 3 results a week against the same player count.</p>
+  </div>
+  <div id="lvWait" class="hidden">
+    <div class="pagehead"><h1>Live 1v1</h1></div>
+    <div class="card lvwait">
+      <h2 class="ctitle" id="lvWaitTitle"></h2>
+      <p class="cmeta" id="lvWaitSub"></p>
+      <div id="lvCodeBox" class="hidden"><span class="lbl">Match code</span><b class="codebig" id="lvWaitCode"></b></div>
+      <button class="btn hidden" id="lvShare">Send to a mate</button>
+      <button class="btn ghost" id="lvCancel">Cancel</button>
+    </div>
+  </div>
+  <div id="lvMatch" class="hidden">
+    <div class="playtop"><span class="mname" id="lvKind">Ranked</span><button class="iconbtn" id="lvQuit">Quit</button></div>
+    <div class="scoreboard">
+      <div><span id="lvYouName">You</span><b id="lvYouPts">0</b></div>
+      <div><span>Clock</span><b id="lvClock">–</b></div>
+      <div><span id="lvOppName">Them</span><b id="lvOppPts">0</b></div>
+    </div>
+    <div class="segs" id="lvSegs"></div>
+    <p class="small center lvstatus" id="lvStatus"></p>
+    <div class="card qcard" id="lvQCard">
+      <span class="tag" id="lvQN"></span>
+      <p class="q" id="lvQText"></p>
+      <img class="qflag hidden" id="lvImg" alt="" width="240" height="180">
+    </div>
+    <div class="opts" id="lvOpts"></div>
+    <div class="fact hidden" id="lvFact"><b>Did you know</b><p id="lvFactText"></p></div>
+  </div>
+  <div id="lvDone" class="hidden">
+    <div class="card result lvres" id="lvRes">
+      <div class="lbl" id="lvResLabel"></div>
+      <div class="big" id="lvResBig"></div>
+      <div class="vsrow">
+        <div class="side"><span class="nm" id="lvResYou"></span><b id="lvResYouPts">0</b></div>
+        <div class="mid">v</div>
+        <div class="side"><span class="nm" id="lvResOpp"></span><b id="lvResOppPts">0</b></div>
+      </div>
+      <p class="verdict" id="lvResLine"></p>
+      <p class="h2h" id="lvResNote"></p>
+    </div>
+    <button class="btn" id="lvAgain">Find another match</button>
+    <button class="btn ghost" id="lvShareRes">Share result</button>
+    <button class="btn ghost" id="lvHome">Home</button>
+    <h2 class="sec">Question by question</h2>
+    <ul class="review qq" id="lvReview"></ul>
+  </div>
+</section>
+
+<!-- ============ 2v2 Online (live.js) ============ -->
+<section id="duo" class="hidden">
+  <div id="duHub">
+    <div class="pagehead"><button class="back" id="duBack" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button><h1>2v2 Online</h1></div>
+    <div class="card duhero">
+      <span class="lbl">Quick match</span>
+      <h2 class="ctitle">Jump in with anyone online</h2>
+      <p class="cmeta">You get a team-mate and two opponents. Empty seats are filled by bots after 30 seconds.</p>
+      <button class="btn" id="duQuick">Quick match</button>
+    </div>
+    <div class="tile form">
+      <b>Play with mates</b>
+      <p class="cmeta">Make a room and send the link. Two a side, or fill the gaps with bots.</p>
+      <button class="btn" id="duCreate">Create a room</button>
+      <div class="namerow" style="margin-top:12px"><input id="duCode" class="code" maxlength="7" placeholder="ROOM CODE" autocomplete="off" autocorrect="off" autocapitalize="characters" spellcheck="false" aria-label="Room code"><button class="btn ghost" id="duJoin">Join</button></div>
+    </div>
+    <button class="btn ghost" id="duBots">Play vs bots (you + a bot v 2 bots)</button>
+    <p class="msg hidden" id="duMsg" aria-live="polite"></p>
+    <h2 class="sec">How it works</h2>
+    <ul class="duhow">
+      <li><b>10</b><span>questions, the same for all four players</span></li>
+      <li><b>15s</b><span>to answer each one: quicker right answers score more, harder ones are worth more</span></li>
+      <li><b>2+2</b><span>your points and your team-mate's are added up: the higher team total wins</span></li>
+    </ul>
+  </div>
+
+  <div id="duRoom" class="hidden">
+    <div class="pagehead"><button class="back" id="duRoomBack" aria-label="Leave room"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button><h1 id="duRoomTitle">Room</h1></div>
+    <p class="small center dunote" id="duRoomNote"></p>
+    <div class="duteams" id="duTeams"></div>
+    <div class="card dushare hidden" id="duShareBox">
+      <span class="lbl">Room code</span><b class="codebig" id="duRoomCode"></b>
+      <button class="btn" id="duShare">Send the link</button>
+    </div>
+    <button class="btn" id="duStart">Start game</button>
+    <p class="small center" id="duStartNote"></p>
+  </div>
+
+  <div id="duGame" class="hidden">
+    <div class="playtop"><span class="mname" id="duKind">2v2</span><button class="iconbtn" id="duQuit">Quit</button></div>
+    <div class="scoreboard duboard">
+      <div class="tA"><span id="duUsName">Your team</span><b id="duUsPts">0</b></div>
+      <div class="clk"><span>Clock</span><b id="duClock">–</b></div>
+      <div class="tB"><span id="duThemName">Them</span><b id="duThemPts">0</b></div>
+    </div>
+    <div class="duplayers" id="duPlayers"></div>
+    <div class="segs" id="duSegs"></div>
+    <div class="dutimer"><i id="duBar"></i></div>
+    <div class="card qcard" id="duQCard">
+      <span class="tag" id="duQN"></span>
+      <p class="q" id="duQText"></p>
+      <img class="qflag hidden" id="duImg" alt="" width="240" height="180">
+    </div>
+    <div class="ducount hidden" id="duCount"><span>Get ready</span><b id="duCountN">3</b></div>
+    <div class="opts" id="duOpts"></div>
+    <p class="small center lvstatus" id="duStatus"></p>
+    <div class="fact hidden" id="duFact"><b>Did you know</b><p id="duFactText"></p></div>
+  </div>
+
+  <div id="duDone" class="hidden">
+    <div class="card result dures" id="duRes">
+      <div class="lbl" id="duResLabel">2v2 · full time</div>
+      <div class="big" id="duResBig"></div>
+      <div class="vsrow">
+        <div class="side tA"><span class="nm" id="duResUs"></span><b id="duResUsPts">0</b></div>
+        <div class="mid">v</div>
+        <div class="side tB"><span class="nm" id="duResThem"></span><b id="duResThemPts">0</b></div>
+      </div>
+      <p class="verdict" id="duResLine"></p>
+    </div>
+    <ul class="lb duscores" id="duScores"></ul>
+    <button class="btn" id="duAgain">Rematch</button>
+    <button class="btn ghost" id="duShareRes">Share result</button>
+    <button class="btn ghost" id="duLeave">Leave</button>
+    <h2 class="sec">Question by question</h2>
+    <ul class="review qq" id="duReview"></ul>
+  </div>
+</section>
+
+<!-- ============ Name sheet (shared) ============ -->
+<div class="sheet hidden" id="nameSheet" role="dialog" aria-modal="true" aria-labelledby="nsTitle">
+  <div class="card">
+    <h2 class="ctitle" id="nsTitle">Pick a name</h2>
+    <p class="cmeta" id="nsWhy">Your mates will see it in tables and challenges.</p>
+    <div class="namerow incard"><input id="nsName" maxlength="16" placeholder="Your name" autocomplete="nickname" autocapitalize="words"><button class="btn" id="nsSave">Save</button></div>
+    <p class="msg hidden" id="nsMsg"></p>
+    <button class="linkbtn" id="nsCancel">Cancel</button>
+  </div>
+</div>
+
+<!-- ============ Report sheet (answer screen) ============ -->
+<div class="sheet hidden" id="reportSheet" role="dialog" aria-modal="true" aria-labelledby="rpTitle">
+  <div class="card">
+    <h2 class="ctitle" id="rpTitle">Report this question</h2>
+    <p class="cmeta rpq" id="rpQ"></p>
+    <p class="cmeta" id="rpA"></p>
+    <div class="chips incard" id="rpWhy" data-r=""></div>
+    <textarea class="rpnote" id="rpNote" maxlength="300" rows="3" placeholder="Anything to add? (optional)"></textarea>
+    <p class="msg hidden" id="rpMsg"></p>
+    <button class="btn" id="rpSend" type="button">Send report</button>
+    <button class="linkbtn" id="rpCancel" type="button">Cancel</button>
+  </div>
+</div>
+
+<!-- ============ ME tab ============ -->
+<section id="me" class="hidden">
+  <div class="pagehead"><h1>Me</h1></div>
+  <div class="tile">
+    <p style="margin:0 0 10px">Your name on the boards</p>
+    <div class="namerow"><input id="meName" maxlength="16" placeholder="Pick a name" autocomplete="nickname" autocapitalize="words"><button class="btn" id="meSave">Save</button></div>
+    <p class="msg hidden" id="meMsg"></p>
+  </div>
+  <h2 class="sec">Your record</h2>
+  <div class="stats">
+    <div class="stat tile"><b id="mDaily">0</b><span>dailies</span></div>
+    <div class="stat tile"><b id="mDStreak">0</b><span>day streak</span></div>
+    <div class="stat tile"><b id="mDBest">0</b><span>best streak</span></div>
+  </div>
+  <div class="stats" style="margin-top:8px">
+    <div class="stat tile"><b id="mPlayed">0</b><span>classic</span></div>
+    <div class="stat tile"><b id="mPct">–</b><span>correct</span></div>
+    <div class="stat tile"><b id="mSeen">0</b><span>seen</span></div>
+  </div>
+  <h2 class="sec">Personal bests</h2>
+  <div class="stats">
+    <div class="stat tile"><b id="bSurvival">–</b><span>survival</span></div>
+    <div class="stat tile"><b id="bBlitz">–</b><span>blitz</span></div>
+    <div class="stat tile"><b id="bHilo">–</b><span>hi-lo</span></div>
+    <div class="stat tile"><b id="bCareer">–</b><span>guess</span></div>
+  </div>
+  <div class="achhead"><h2 class="sec">Achievements</h2><span id="achCount"></span></div>
+  <div class="achgrid" id="achGrid"></div>
+  <p class="small">Earned on this phone. Your best three show next to your name on the boards.</p>
+  <h2 class="sec">Settings</h2>
+  <div class="tile" style="padding-top:4px;padding-bottom:4px">
+    <div class="setrow" id="hapticsRow"><span class="stx"><b>Vibrate</b><span>A buzz when you're right, two when you're wrong</span></span>
+      <button class="switch" id="setHaptics" role="switch" aria-checked="true" aria-label="Vibrate"></button></div>
+    <div class="setrow"><span class="stx"><b>Sounds</b><span>A chime when you're right, a low note when you're wrong</span></span>
+      <button class="switch" id="setSound" role="switch" aria-checked="false" aria-label="Sounds"></button></div>
+  </div>
+  <h2 class="sec">Notifications</h2>
+  <div class="tile" style="padding-top:4px;padding-bottom:4px">
+    <div id="pushList"></div>
+    <p class="small pushnote hidden" id="pushNote"></p>
+    <p class="msg hidden" id="pushMsg" aria-live="polite"></p>
+  </div>
+  <h2 class="sec">About</h2>
+  <div class="tile">
+    <p style="margin:0">No accounts, no ads, no tracking. Your name and scores are only used for the boards.</p>
+    <p style="margin:10px 0 0"><a href="privacy.html">Privacy policy</a></p>
+    <p style="margin:10px 0 0"><a href="https://github.com/teo2301/hiphop-quiz/releases/latest" rel="noopener">Download the Android app</a> · iPhone: Share → Add to Home Screen</p>
+  </div>
+  <p class="small center" id="version"></p>
+</section>
+
+</main>
+
+<nav class="tabbar" id="tabbar">
+  <button data-tab="home" aria-current="page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><path d="M3 12h18"/></svg>Play</button>
+  <button data-tab="boards"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg>Boards</button>
+  <button data-tab="leaguesTab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0"/><circle cx="17" cy="9" r="2.5"/><path d="M16 14.2a5 5 0 0 1 5.5 4.8"/></svg>Leagues</button>
+  <button data-tab="me"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Me</button>
+</nav>
+<div class="toast hidden" id="toast" role="status" aria-live="polite"></div>
+<div class="achtoast hidden" id="achToast" role="status" aria-live="polite">
+  <span class="badge big" id="atIc" aria-hidden="true"></span>
+  <span class="tx"><span class="lbl">Achievement unlocked</span><b id="atName"></b><span class="ds" id="atDesc"></span></span>
+</div>
+<div class="goal hidden" id="goal" aria-live="polite">
+  <div class="frame" aria-hidden="true"><div class="net"></div></div>
+  <div class="confetti" id="confetti" aria-hidden="true"></div>
+  <div class="gtx"><b id="goalText">Perfect!</b><span id="goalSub">Perfect score</span></div>
+</div>
+</body>
+</html>

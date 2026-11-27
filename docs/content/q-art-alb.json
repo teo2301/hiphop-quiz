@@ -1,0 +1,4760 @@
+[
+  {
+    "id": "art001",
+    "l": "art",
+    "d": 2,
+    "q": "Which DJ is credited with pioneering breakbeat mixing at a Bronx party in 1973?",
+    "a": "DJ Kool Herc",
+    "w": [
+      "Grandmaster Flash",
+      "Afrika Bambaataa",
+      "Sugarhill Gang"
+    ],
+    "x": "Herc's party at 1520 Sedgwick Avenue is widely cited as hip hop's birth."
+  },
+  {
+    "id": "art002",
+    "l": "art",
+    "d": 2,
+    "q": "Which DJ invented the quick mix technique using two turntables?",
+    "a": "Grandmaster Flash",
+    "w": [
+      "DJ Kool Herc",
+      "Afrika Bambaataa",
+      "Jam-Master Jay"
+    ],
+    "x": "Flash developed rapid cueing methods that let him repeat breakbeats seamlessly."
+  },
+  {
+    "id": "art003",
+    "l": "art",
+    "d": 2,
+    "q": "Which DJ founded the Universal Zulu Nation?",
+    "a": "Afrika Bambaataa",
+    "w": [
+      "DJ Kool Herc",
+      "Grandmaster Flash",
+      "Melle Mel"
+    ],
+    "x": "Bambaataa created the organization to promote hip hop culture and peace."
+  },
+  {
+    "id": "art004",
+    "l": "art",
+    "d": 1,
+    "q": "Which group's 1979 single Rapper's Delight became the first mainstream hip hop hit?",
+    "a": "Sugarhill Gang",
+    "w": [
+      "Run-DMC",
+      "Beastie Boys",
+      "Public Enemy"
+    ],
+    "x": "The Sugarhill Gang single was released by Sugar Hill Records and charted internationally."
+  },
+  {
+    "id": "art005",
+    "l": "art",
+    "d": 1,
+    "q": "What is the birth name of DJ Kool Herc?",
+    "a": "Clive Campbell",
+    "w": [
+      "Clive Carter",
+      "Cedric Campbell",
+      "Carlton Ridenhour"
+    ],
+    "x": "The Jamaican-born DJ was born Clive Campbell in Kingston."
+  },
+  {
+    "id": "art006",
+    "l": "art",
+    "d": 2,
+    "q": "Which address in the Bronx is often called the birthplace of hip hop?",
+    "a": "1520 Sedgwick Avenue",
+    "w": [
+      "1520 Broadway",
+      "1619 Sedgwick Avenue",
+      "1520 Fifth Avenue"
+    ],
+    "x": "DJ Kool Herc's party there in 1973 is widely credited with launching the culture."
+  },
+  {
+    "id": "art007",
+    "l": "art",
+    "d": 2,
+    "q": "Which member of Grandmaster Flash and the Furious Five is known for the track White Lines?",
+    "a": "Melle Mel",
+    "w": [
+      "Cowboy",
+      "Kid Creole",
+      "Rahiem"
+    ],
+    "x": "Melle Mel was the group's lead lyricist and later recorded under his own name."
+  },
+  {
+    "id": "art008",
+    "l": "art",
+    "d": 1,
+    "q": "Which group recorded the 1982 social commentary track The Message?",
+    "a": "Grandmaster Flash and the Furious Five",
+    "w": [
+      "Sugarhill Gang",
+      "Run-DMC",
+      "Public Enemy"
+    ],
+    "x": "The Message depicted inner-city struggles and influenced conscious hip hop."
+  },
+  {
+    "id": "art009",
+    "l": "art",
+    "d": 2,
+    "q": "Which act released the 1982 electro track Planet Rock?",
+    "a": "Afrika Bambaataa and the Soulsonic Force",
+    "w": [
+      "Sugarhill Gang",
+      "Run-DMC",
+      "The Sequence"
+    ],
+    "x": "Planet Rock fused Kraftwerk synth sounds with hip hop beats."
+  },
+  {
+    "id": "art010",
+    "l": "art",
+    "d": 3,
+    "q": "Which label released the 1979 single Rapper's Delight?",
+    "a": "Sugar Hill Records",
+    "w": [
+      "Def Jam Recordings",
+      "Ruthless Records",
+      "Tommy Boy Records"
+    ],
+    "x": "The label was founded by Sylvia Robinson and her husband Joe."
+  },
+  {
+    "id": "art011",
+    "l": "art",
+    "d": 1,
+    "q": "Which rapper co-founded Def Jam Recordings with producer Rick Rubin?",
+    "a": "Russell Simmons",
+    "w": [
+      "Jerry Heller",
+      "Suge Knight",
+      "Damon Dash"
+    ],
+    "x": "Simmons and Rubin launched Def Jam in the mid-1980s and shaped hip hop's business."
+  },
+  {
+    "id": "art012",
+    "l": "art",
+    "d": 2,
+    "q": "Which producer co-founded Def Jam and later established Def American?",
+    "a": "Rick Rubin",
+    "w": [
+      "Russell Simmons",
+      "Suge Knight",
+      "Jermaine Dupri"
+    ],
+    "x": "Rubin's minimalist production helped define the sound of early Def Jam releases."
+  },
+  {
+    "id": "art013",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Run from Run-DMC?",
+    "a": "Joseph Simmons",
+    "w": [
+      "Darryl McDaniels",
+      "Jason Mizell",
+      "Todd Smith"
+    ],
+    "x": "Joseph Simmons adopted the stage name Run for the group."
+  },
+  {
+    "id": "art014",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of DMC from Run-DMC?",
+    "a": "Darryl McDaniels",
+    "w": [
+      "Joseph Simmons",
+      "Jason Mizell",
+      "Todd Smith"
+    ],
+    "x": "McDaniels took the initials DMC as his performing name."
+  },
+  {
+    "id": "art015",
+    "l": "art",
+    "d": 1,
+    "q": "Which member of Run-DMC was killed in a studio shooting in 2002?",
+    "a": "Jam-Master Jay",
+    "w": [
+      "Run",
+      "DMC",
+      "Method Man"
+    ],
+    "x": "Jason Mizell was fatally shot at the group's New York studio."
+  },
+  {
+    "id": "art016",
+    "l": "art",
+    "d": 1,
+    "q": "Which rock band joined Run-DMC on the 1986 remake of Walk This Way?",
+    "a": "Aerosmith",
+    "w": [
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "Van Halen"
+    ],
+    "x": "The collaboration helped bring hip hop to a wider rock audience."
+  },
+  {
+    "id": "art017",
+    "l": "art",
+    "d": 2,
+    "q": "Which group released the 1986 album Raising Hell?",
+    "a": "Run-DMC",
+    "w": [
+      "Beastie Boys",
+      "Public Enemy",
+      "Salt-N-Pepa"
+    ],
+    "x": "Raising Hell included the hit remake of Walk This Way with Aerosmith."
+  },
+  {
+    "id": "art018",
+    "l": "art",
+    "d": 2,
+    "q": "Which Beastie Boys member was known as MCA?",
+    "a": "Adam Yauch",
+    "w": [
+      "Adam Horovitz",
+      "Mike D",
+      "Jason Mizell"
+    ],
+    "x": "Yauch was a founding member and later became a filmmaker."
+  },
+  {
+    "id": "art019",
+    "l": "art",
+    "d": 3,
+    "q": "Which Beastie Boys member is known as Ad-Rock?",
+    "a": "Adam Horovitz",
+    "w": [
+      "Adam Yauch",
+      "Mike D",
+      "Jason Mizell"
+    ],
+    "x": "Horovitz joined the group as a teenager and remained a core member."
+  },
+  {
+    "id": "art020",
+    "l": "art",
+    "d": 1,
+    "q": "Which group released the 1986 album Licensed to Ill?",
+    "a": "Beastie Boys",
+    "w": [
+      "Run-DMC",
+      "Public Enemy",
+      "N.W.A"
+    ],
+    "x": "Licensed to Ill was the first rap album to top the Billboard 200."
+  },
+  {
+    "id": "art021",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of LL Cool J?",
+    "a": "Todd Smith",
+    "w": [
+      "Joseph Simmons",
+      "Darryl McDaniels",
+      "Carlton Ridenhour"
+    ],
+    "x": "LL Cool J's name stands for Ladies Love Cool James."
+  },
+  {
+    "id": "art022",
+    "l": "art",
+    "d": 1,
+    "q": "What does the stage name LL Cool J stand for?",
+    "a": "Ladies Love Cool James",
+    "w": [
+      "Ladies Love Cool Jackson",
+      "Lucky Ladies Cool James",
+      "Long Live Cool James"
+    ],
+    "x": "The rapper chose the name as a tribute to his appeal to women."
+  },
+  {
+    "id": "art023",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper's 1985 album Radio was an early landmark for Def Jam?",
+    "a": "LL Cool J",
+    "w": [
+      "Public Enemy",
+      "N.W.A",
+      "Salt-N-Pepa"
+    ],
+    "x": "Radio was one of Def Jam's first full-length releases."
+  },
+  {
+    "id": "art024",
+    "l": "art",
+    "d": 1,
+    "q": "Which member of Public Enemy wears a large clock necklace?",
+    "a": "Flavor Flav",
+    "w": [
+      "Chuck D",
+      "Terminator X",
+      "Professor Griff"
+    ],
+    "x": "Flavor Flav's clock jewelry became one of hip hop's most recognizable symbols."
+  },
+  {
+    "id": "art025",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Chuck D?",
+    "a": "Carlton Ridenhour",
+    "w": [
+      "William Drayton",
+      "Clive Campbell",
+      "Eric Wright"
+    ],
+    "x": "Ridenhour formed Public Enemy in Queens and became its lead vocalist."
+  },
+  {
+    "id": "art026",
+    "l": "art",
+    "d": 1,
+    "q": "Which production team created most of Public Enemy's classic 1980s albums?",
+    "a": "The Bomb Squad",
+    "w": [
+      "The Neptunes",
+      "The Trackmasters",
+      "The Hitmen"
+    ],
+    "x": "The Bomb Squad's dense sampled sound defined their landmark records."
+  },
+  {
+    "id": "art027",
+    "l": "art",
+    "d": 1,
+    "q": "Which group is known for the 1988 album It Takes a Nation of Millions to Hold Us Back?",
+    "a": "Public Enemy",
+    "w": [
+      "N.W.A",
+      "Run-DMC",
+      "Beastie Boys"
+    ],
+    "x": "The album is widely regarded as one of the greatest hip hop records."
+  },
+  {
+    "id": "art028",
+    "l": "art",
+    "d": 2,
+    "q": "Which member of N.W.A was the group's primary lyricist on their debut album?",
+    "a": "Ice Cube",
+    "w": [
+      "Dr. Dre",
+      "Eazy-E",
+      "MC Ren"
+    ],
+    "x": "Ice Cube wrote many verses on Straight Outta Compton before leaving the group."
+  },
+  {
+    "id": "art029",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Eazy-E?",
+    "a": "Eric Wright",
+    "w": [
+      "Eric Williams",
+      "O'Shea Jackson",
+      "Lorenzo Patterson"
+    ],
+    "x": "Wright founded Ruthless Records and was a founding member of N.W.A."
+  },
+  {
+    "id": "art030",
+    "l": "art",
+    "d": 2,
+    "q": "Which N.W.A member later co-founded Death Row Records?",
+    "a": "Dr. Dre",
+    "w": [
+      "Ice Cube",
+      "MC Ren",
+      "Eazy-E"
+    ],
+    "x": "After leaving N.W.A, Dre built Death Row with Suge Knight."
+  },
+  {
+    "id": "art031",
+    "l": "art",
+    "d": 3,
+    "q": "Which N.W.A member founded Ruthless Records?",
+    "a": "Eazy-E",
+    "w": [
+      "Dr. Dre",
+      "Ice Cube",
+      "Suge Knight"
+    ],
+    "x": "Eazy-E started Ruthless before launching N.W.A."
+  },
+  {
+    "id": "art032",
+    "l": "art",
+    "d": 1,
+    "q": "Which group released the 1988 album Straight Outta Compton?",
+    "a": "N.W.A",
+    "w": [
+      "Public Enemy",
+      "Run-DMC",
+      "Beastie Boys"
+    ],
+    "x": "Straight Outta Compton brought West Coast gangsta rap to a national audience."
+  },
+  {
+    "id": "art033",
+    "l": "art",
+    "d": 1,
+    "q": "Which group had the 1990 hit Push It?",
+    "a": "Salt-N-Pepa",
+    "w": [
+      "TLC",
+      "The Fugees",
+      "Destiny's Child"
+    ],
+    "x": "Push It became a crossover hit from their debut album."
+  },
+  {
+    "id": "art034",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Salt from Salt-N-Pepa?",
+    "a": "Cheryl James",
+    "w": [
+      "Sandra Denton",
+      "Deidra Roper",
+      "Lisa Lopes"
+    ],
+    "x": "Cheryl James formed the duo with Pepa after meeting in Queens."
+  },
+  {
+    "id": "art035",
+    "l": "art",
+    "d": 1,
+    "q": "Which DJ was a member of Salt-N-Pepa?",
+    "a": "DJ Spinderella",
+    "w": [
+      "DJ Kool Herc",
+      "Jam-Master Jay",
+      "Terminator X"
+    ],
+    "x": "Deidra Roper joined the group as DJ Spinderella."
+  },
+  {
+    "id": "art036",
+    "l": "art",
+    "d": 2,
+    "q": "What is the birth name of the rapper known as 2Pac?",
+    "a": "Tupac Shakur",
+    "w": [
+      "Christopher Wallace",
+      "Nasir Jones",
+      "Shawn Carter"
+    ],
+    "x": "He was born Tupac Amaru Shakur in East Harlem."
+  },
+  {
+    "id": "art037",
+    "l": "art",
+    "d": 2,
+    "q": "Where was Tupac Shakur born?",
+    "a": "East Harlem, New York",
+    "w": [
+      "Compton, California",
+      "Brooklyn, New York",
+      "Queens, New York"
+    ],
+    "x": "Tupac was born in Manhattan and later moved to California."
+  },
+  {
+    "id": "art038",
+    "l": "art",
+    "d": 1,
+    "q": "Which rapper was fatally shot in Las Vegas in 1996?",
+    "a": "Tupac Shakur",
+    "w": [
+      "Notorious B.I.G.",
+      "Eazy-E",
+      "Ol' Dirty Bastard"
+    ],
+    "x": "The shooting occurred after a boxing match in September 1996."
+  },
+  {
+    "id": "art039",
+    "l": "art",
+    "d": 2,
+    "q": "Which group did Tupac tour and record with before his solo career?",
+    "a": "Digital Underground",
+    "w": [
+      "N.W.A",
+      "Public Enemy",
+      "Outkast"
+    ],
+    "x": "He appeared with Digital Underground early in his career."
+  },
+  {
+    "id": "art040",
+    "l": "art",
+    "d": 2,
+    "q": "Which film did Tupac star in during 1992?",
+    "a": "Juice",
+    "w": [
+      "Boyz n the Hood",
+      "Menace II Society",
+      "Friday"
+    ],
+    "x": "Juice was an early starring role for the rapper."
+  },
+  {
+    "id": "art041",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of the Notorious B.I.G.?",
+    "a": "Christopher Wallace",
+    "w": [
+      "Tupac Shakur",
+      "Nasir Jones",
+      "Shawn Carter"
+    ],
+    "x": "Wallace was born in Brooklyn and became known as Biggie Smalls."
+  },
+  {
+    "id": "art042",
+    "l": "art",
+    "d": 2,
+    "q": "Which borough of New York City was the Notorious B.I.G. from?",
+    "a": "Brooklyn",
+    "w": [
+      "Queens",
+      "Bronx",
+      "Staten Island"
+    ],
+    "x": "He grew up in the Bedford-Stuyvesant section of Brooklyn."
+  },
+  {
+    "id": "art043",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper was fatally shot in Los Angeles in 1997?",
+    "a": "Notorious B.I.G.",
+    "w": [
+      "Tupac Shakur",
+      "Eazy-E",
+      "Big L"
+    ],
+    "x": "Wallace was killed in March 1997, months after Tupac's death."
+  },
+  {
+    "id": "art044",
+    "l": "art",
+    "d": 3,
+    "q": "Which group was the Notorious B.I.G. a member of early in his career?",
+    "a": "Junior M.A.F.I.A.",
+    "w": [
+      "N.W.A",
+      "Wu-Tang Clan",
+      "Outkast"
+    ],
+    "x": "The group included Lil' Kim and was guided by Biggie."
+  },
+  {
+    "id": "art045",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Nas?",
+    "a": "Nasir Jones",
+    "w": [
+      "Shawn Carter",
+      "Christopher Wallace",
+      "Tupac Shakur"
+    ],
+    "x": "Jones grew up in the Queensbridge housing projects."
+  },
+  {
+    "id": "art046",
+    "l": "art",
+    "d": 2,
+    "q": "Which New York neighborhood did Nas grow up in?",
+    "a": "Queensbridge",
+    "w": [
+      "Bedford-Stuyvesant",
+      "Compton",
+      "Harlem"
+    ],
+    "x": "Queensbridge in Queens shaped the lyrics of his debut album."
+  },
+  {
+    "id": "art047",
+    "l": "art",
+    "d": 1,
+    "q": "Which jazz musician is Nas's father?",
+    "a": "Olu Dara",
+    "w": [
+      "Ron Carter",
+      "Wynton Marsalis",
+      "Herbie Hancock"
+    ],
+    "x": "Olu Dara is a trumpeter who appeared on several of Nas's songs."
+  },
+  {
+    "id": "art048",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of Jay-Z?",
+    "a": "Shawn Carter",
+    "w": [
+      "Nasir Jones",
+      "Christopher Wallace",
+      "Dwayne Carter"
+    ],
+    "x": "Carter grew up in Brooklyn's Marcy Projects."
+  },
+  {
+    "id": "art049",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper is married to singer Beyonce?",
+    "a": "Jay-Z",
+    "w": [
+      "Nas",
+      "Kanye West",
+      "Eminem"
+    ],
+    "x": "Jay-Z and Beyonce married in 2008."
+  },
+  {
+    "id": "art050",
+    "l": "art",
+    "d": 3,
+    "q": "Which two partners founded Roc-A-Fella Records with Jay-Z?",
+    "a": "Damon Dash and Kareem Burke",
+    "w": [
+      "Russell Simmons and Rick Rubin",
+      "Suge Knight and Eazy-E",
+      "Damon Dash and Puff Daddy"
+    ],
+    "x": "The trio established Roc-A-Fella in the mid-1990s."
+  },
+  {
+    "id": "art051",
+    "l": "art",
+    "d": 1,
+    "q": "How many original members were in the Wu-Tang Clan?",
+    "a": "Nine",
+    "w": [
+      "Five",
+      "Seven",
+      "Ten"
+    ],
+    "x": "The nine-member group debuted in 1993."
+  },
+  {
+    "id": "art052",
+    "l": "art",
+    "d": 1,
+    "q": "Which Wu-Tang Clan member produced most of the group's early albums?",
+    "a": "RZA",
+    "w": [
+      "GZA",
+      "Raekwon",
+      "Method Man"
+    ],
+    "x": "RZA's spare cinematic production defined the Clan's sound."
+  },
+  {
+    "id": "art053",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of RZA?",
+    "a": "Robert Diggs",
+    "w": [
+      "Gary Grice",
+      "Clifford Smith",
+      "Russell Jones"
+    ],
+    "x": "Diggs is the group's main producer and a founding member."
+  },
+  {
+    "id": "art054",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Ghostface Killah?",
+    "a": "Dennis Coles",
+    "w": [
+      "Corey Woods",
+      "Clifford Smith",
+      "Russell Jones"
+    ],
+    "x": "Coles became one of the Clan's most prolific solo artists."
+  },
+  {
+    "id": "art055",
+    "l": "art",
+    "d": 2,
+    "q": "Which Wu-Tang member was known as Ol' Dirty Bastard?",
+    "a": "Russell Jones",
+    "w": [
+      "Robert Diggs",
+      "Gary Grice",
+      "Dennis Coles"
+    ],
+    "x": "Jones was an original member known for his wild live shows."
+  },
+  {
+    "id": "art056",
+    "l": "art",
+    "d": 2,
+    "q": "Which Wu-Tang member died in 2004?",
+    "a": "Ol' Dirty Bastard",
+    "w": [
+      "GZA",
+      "Method Man",
+      "Raekwon"
+    ],
+    "x": "ODB died in New York in 2004."
+  },
+  {
+    "id": "art057",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper collaborated with Method Man on the film How High?",
+    "a": "Redman",
+    "w": [
+      "Ghostface Killah",
+      "Ice Cube",
+      "Snoop Dogg"
+    ],
+    "x": "Method Man and Redman also recorded the album Blackout together."
+  },
+  {
+    "id": "art058",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of Method Man?",
+    "a": "Clifford Smith",
+    "w": [
+      "Reggie Noble",
+      "Robert Diggs",
+      "Dennis Coles"
+    ],
+    "x": "Smith is a Staten Island native and Wu-Tang member."
+  },
+  {
+    "id": "art059",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Raekwon?",
+    "a": "Corey Woods",
+    "w": [
+      "Dennis Coles",
+      "Clifford Smith",
+      "Jason Hunter"
+    ],
+    "x": "Woods released Only Built 4 Cuban Linx as his debut solo album."
+  },
+  {
+    "id": "art060",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of GZA?",
+    "a": "Gary Grice",
+    "w": [
+      "Robert Diggs",
+      "Corey Woods",
+      "Jason Hunter"
+    ],
+    "x": "Grice is known for the album Liquid Swords."
+  },
+  {
+    "id": "art061",
+    "l": "art",
+    "d": 1,
+    "q": "Which Southern duo consists of Big Boi and Andre 3000?",
+    "a": "Outkast",
+    "w": [
+      "UGK",
+      "Goodie Mob",
+      "Bone Thugs-n-Harmony"
+    ],
+    "x": "Outkast formed in Atlanta and became one of the South's biggest acts."
+  },
+  {
+    "id": "art062",
+    "l": "art",
+    "d": 2,
+    "q": "Which member of Outkast released the album Speakerboxxx?",
+    "a": "Big Boi",
+    "w": [
+      "Andre 3000",
+      "CeeLo Green",
+      "Bun B"
+    ],
+    "x": "Big Boi's half of the double album was released in 2003."
+  },
+  {
+    "id": "art063",
+    "l": "art",
+    "d": 1,
+    "q": "Which Outkast member performed the hit Hey Ya!?",
+    "a": "Andre 3000",
+    "w": [
+      "Big Boi",
+      "CeeLo Green",
+      "Bun B"
+    ],
+    "x": "Hey Ya! appeared on The Love Below half of Speakerboxxx."
+  },
+  {
+    "id": "art064",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Big Boi?",
+    "a": "Antwan Patton",
+    "w": [
+      "Andre Benjamin",
+      "Brad Jordan",
+      "Bernard Freeman"
+    ],
+    "x": "Patton is one half of Outkast."
+  },
+  {
+    "id": "art065",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Andre 3000?",
+    "a": "Andre Benjamin",
+    "w": [
+      "Antwan Patton",
+      "Brad Jordan",
+      "Chad Butler"
+    ],
+    "x": "Benjamin was formerly known as Dre from Outkast."
+  },
+  {
+    "id": "art066",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Snoop Dogg?",
+    "a": "Calvin Broadus",
+    "w": [
+      "Andre Young",
+      "O'Shea Jackson",
+      "Curtis Jackson"
+    ],
+    "x": "Dre discovered Snoop and featured him on The Chronic."
+  },
+  {
+    "id": "art067",
+    "l": "art",
+    "d": 2,
+    "q": "Which city is Snoop Dogg from?",
+    "a": "Long Beach, California",
+    "w": [
+      "Compton, California",
+      "Inglewood, California",
+      "South Central Los Angeles"
+    ],
+    "x": "Snoop emerged from Long Beach in the early 1990s."
+  },
+  {
+    "id": "art068",
+    "l": "art",
+    "d": 1,
+    "q": "Which producer discovered Snoop Dogg?",
+    "a": "Dr. Dre",
+    "w": [
+      "Eminem",
+      "Kanye West",
+      "Jermaine Dupri"
+    ],
+    "x": "Dre featured Snoop on his 1992 debut The Chronic."
+  },
+  {
+    "id": "art069",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of Dr. Dre?",
+    "a": "Andre Young",
+    "w": [
+      "Marshall Mathers",
+      "Calvin Broadus",
+      "Curtis Jackson"
+    ],
+    "x": "Young co-founded Death Row and produced The Chronic."
+  },
+  {
+    "id": "art070",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper co-founded Death Row Records with Suge Knight?",
+    "a": "Dr. Dre",
+    "w": [
+      "Ice Cube",
+      "Eazy-E",
+      "Diddy"
+    ],
+    "x": "Dre left Death Row in 1996 to form Aftermath."
+  },
+  {
+    "id": "art071",
+    "l": "art",
+    "d": 1,
+    "q": "Which group did Dr. Dre belong to before his solo career?",
+    "a": "N.W.A",
+    "w": [
+      "Public Enemy",
+      "Run-DMC",
+      "Beastie Boys"
+    ],
+    "x": "Dre was an N.W.A member before releasing The Chronic."
+  },
+  {
+    "id": "art072",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of Eminem?",
+    "a": "Marshall Mathers",
+    "w": [
+      "Andre Young",
+      "Curtis Jackson",
+      "Dwayne Carter"
+    ],
+    "x": "Mathers grew up in Detroit and adopted the name Eminem."
+  },
+  {
+    "id": "art073",
+    "l": "art",
+    "d": 2,
+    "q": "Which city did Eminem grow up in?",
+    "a": "Detroit, Michigan",
+    "w": [
+      "Chicago, Illinois",
+      "Philadelphia, Pennsylvania",
+      "St. Louis, Missouri"
+    ],
+    "x": "Detroit's underground scene shaped Eminem's early style."
+  },
+  {
+    "id": "art074",
+    "l": "art",
+    "d": 1,
+    "q": "What is the alter ego of Eminem?",
+    "a": "Slim Shady",
+    "w": [
+      "The Notorious B.I.G.",
+      "Scarface",
+      "Ice Cube"
+    ],
+    "x": "Eminem released his breakout album under the Slim Shady persona."
+  },
+  {
+    "id": "art075",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper won an Academy Award for the song Lose Yourself?",
+    "a": "Eminem",
+    "w": [
+      "Jay-Z",
+      "Nas",
+      "Kanye West"
+    ],
+    "x": "The song came from the film 8 Mile, in which Eminem starred."
+  },
+  {
+    "id": "art076",
+    "l": "art",
+    "d": 3,
+    "q": "Which British singer is sampled on Eminem's song Stan?",
+    "a": "Dido",
+    "w": [
+      "Adele",
+      "Amy Winehouse",
+      "Leona Lewis"
+    ],
+    "x": "Dido's Thank You provides the song's haunting hook."
+  },
+  {
+    "id": "art077",
+    "l": "art",
+    "d": 2,
+    "q": "Which group does Lauryn Hill belong to?",
+    "a": "Fugees",
+    "w": [
+      "TLC",
+      "Salt-N-Pepa",
+      "Destiny's Child"
+    ],
+    "x": "The Fugees released the multi-platinum album The Score."
+  },
+  {
+    "id": "art078",
+    "l": "art",
+    "d": 2,
+    "q": "Which two rappers were Lauryn Hill's bandmates in the Fugees?",
+    "a": "Wyclef Jean and Pras Michel",
+    "w": [
+      "Big Boi and Andre 3000",
+      "Chuck D and Flavor Flav",
+      "Method Man and Redman"
+    ],
+    "x": "Wyclef Jean and Pras Michel formed the trio with Hill."
+  },
+  {
+    "id": "art079",
+    "l": "art",
+    "d": 1,
+    "q": "Which group is known for the cover Killing Me Softly?",
+    "a": "Fugees",
+    "w": [
+      "TLC",
+      "The Roots",
+      "Outkast"
+    ],
+    "x": "Their version topped charts in many countries in 1996."
+  },
+  {
+    "id": "art080",
+    "l": "art",
+    "d": 1,
+    "q": "Which trio consists of T-Boz, Chilli and Left Eye?",
+    "a": "TLC",
+    "w": [
+      "Salt-N-Pepa",
+      "The Fugees",
+      "SWV"
+    ],
+    "x": "TLC became one of the best-selling girl groups of all time."
+  },
+  {
+    "id": "art081",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Left Eye?",
+    "a": "Lisa Lopes",
+    "w": [
+      "Cheryl James",
+      "Sandra Denton",
+      "Tionne Watkins"
+    ],
+    "x": "Lopes was known for her rapid-fire verses and bold style."
+  },
+  {
+    "id": "art082",
+    "l": "art",
+    "d": 2,
+    "q": "In which country did Lisa Lopes die in a car crash in 2002?",
+    "a": "Honduras",
+    "w": [
+      "Jamaica",
+      "Mexico",
+      "Bahamas"
+    ],
+    "x": "The crash occurred while she was filming a reality show."
+  },
+  {
+    "id": "art083",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of 50 Cent?",
+    "a": "Curtis Jackson",
+    "w": [
+      "Marshall Mathers",
+      "Dwayne Carter",
+      "Shawn Carter"
+    ],
+    "x": "Jackson chose the name 50 Cent as a metaphor for survival."
+  },
+  {
+    "id": "art084",
+    "l": "art",
+    "d": 1,
+    "q": "Which Queens neighborhood did 50 Cent grow up in?",
+    "a": "South Jamaica",
+    "w": [
+      "Queensbridge",
+      "Bedford-Stuyvesant",
+      "Harlem"
+    ],
+    "x": "Jackson grew up in the South Jamaica section of Queens."
+  },
+  {
+    "id": "art085",
+    "l": "art",
+    "d": 1,
+    "q": "Which group did 50 Cent found?",
+    "a": "G-Unit",
+    "w": [
+      "Wu-Tang Clan",
+      "Outkast",
+      "N.W.A"
+    ],
+    "x": "G-Unit included Lloyd Banks, Young Buck and Tony Yayo."
+  },
+  {
+    "id": "art086",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper first brought 50 Cent to a major label after his mixtape Guess Who's Back?",
+    "a": "Eminem",
+    "w": [
+      "Kanye West",
+      "Jay-Z",
+      "Nas"
+    ],
+    "x": "Eminem heard the mixtape and introduced 50 Cent to Aftermath."
+  },
+  {
+    "id": "art087",
+    "l": "art",
+    "d": 1,
+    "q": "Which city did Kanye West grow up in?",
+    "a": "Chicago, Illinois",
+    "w": [
+      "Atlanta, Georgia",
+      "Detroit, Michigan",
+      "Houston, Texas"
+    ],
+    "x": "West was raised on Chicago's South Side."
+  },
+  {
+    "id": "art088",
+    "l": "art",
+    "d": 2,
+    "q": "Which producer worked on Jay-Z's Blueprint and later founded GOOD Music?",
+    "a": "Kanye West",
+    "w": [
+      "Timbaland",
+      "Swizz Beatz",
+      "Jermaine Dupri"
+    ],
+    "x": "West produced hits for Jay-Z before launching his own label."
+  },
+  {
+    "id": "art089",
+    "l": "art",
+    "d": 3,
+    "q": "Which mascot is associated with Kanye West's early albums?",
+    "a": "Dropout Bear",
+    "w": [
+      "Ice Cream Man",
+      "Gold Digger",
+      "College Bear"
+    ],
+    "x": "The bear appeared on The College Dropout cover."
+  },
+  {
+    "id": "art090",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Lil Wayne?",
+    "a": "Dwayne Carter",
+    "w": [
+      "Curtis Jackson",
+      "Shawn Carter",
+      "Marshall Mathers"
+    ],
+    "x": "Carter rose from New Orleans and became Young Money's leader."
+  },
+  {
+    "id": "art091",
+    "l": "art",
+    "d": 2,
+    "q": "Which city is Lil Wayne from?",
+    "a": "New Orleans, Louisiana",
+    "w": [
+      "Baton Rouge, Louisiana",
+      "Houston, Texas",
+      "Atlanta, Georgia"
+    ],
+    "x": "He grew up in the Hollygrove neighborhood."
+  },
+  {
+    "id": "art092",
+    "l": "art",
+    "d": 1,
+    "q": "Which group did Lil Wayne record with before his solo breakthrough?",
+    "a": "Hot Boys",
+    "w": [
+      "Outkast",
+      "Bone Thugs-n-Harmony",
+      "Three 6 Mafia"
+    ],
+    "x": "Hot Boys included Juvenile, B.G. and Turk."
+  },
+  {
+    "id": "art093",
+    "l": "art",
+    "d": 3,
+    "q": "Which label did Lil Wayne lead as CEO?",
+    "a": "Young Money Entertainment",
+    "w": [
+      "Cash Money Records",
+      "Aftermath Entertainment",
+      "Roc Nation"
+    ],
+    "x": "He founded Young Money under Cash Money."
+  },
+  {
+    "id": "art094",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Drake?",
+    "a": "Aubrey Graham",
+    "w": [
+      "Shawn Carter",
+      "Dwayne Carter",
+      "Curtis Jackson"
+    ],
+    "x": "Graham was born in Toronto."
+  },
+  {
+    "id": "art095",
+    "l": "art",
+    "d": 1,
+    "q": "Which Canadian city was Drake born in?",
+    "a": "Toronto",
+    "w": [
+      "Vancouver",
+      "Montreal",
+      "Calgary"
+    ],
+    "x": "Drake was born in Toronto, Ontario."
+  },
+  {
+    "id": "art096",
+    "l": "art",
+    "d": 2,
+    "q": "Which television series did Drake appear in before his rap career?",
+    "a": "Degrassi: The Next Generation",
+    "w": [
+      "The Fresh Prince of Bel-Air",
+      "Malcolm in the Middle",
+      "One Tree Hill"
+    ],
+    "x": "He played Jimmy Brooks on the Canadian teen drama."
+  },
+  {
+    "id": "art097",
+    "l": "art",
+    "d": 1,
+    "q": "Which producer co-founded OVO Sound with Drake?",
+    "a": "Noah Shebib",
+    "w": [
+      "Swizz Beatz",
+      "Timbaland",
+      "Rick Rubin"
+    ],
+    "x": "Noah Shebib is Drake's longtime engineer and collaborator."
+  },
+  {
+    "id": "art098",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Kendrick Lamar?",
+    "a": "Kendrick Duckworth",
+    "w": [
+      "James Cole",
+      "Aubrey Graham",
+      "Dwayne Carter"
+    ],
+    "x": "Duckworth is a Compton native and Pulitzer winner."
+  },
+  {
+    "id": "art099",
+    "l": "art",
+    "d": 1,
+    "q": "Which city did Kendrick Lamar grow up in?",
+    "a": "Compton, California",
+    "w": [
+      "Inglewood, California",
+      "Long Beach, California",
+      "South Central Los Angeles"
+    ],
+    "x": "Compton appears throughout his lyrics."
+  },
+  {
+    "id": "art100",
+    "l": "art",
+    "d": 3,
+    "q": "Which collective includes Kendrick Lamar, Jay Rock, Schoolboy Q and Ab-Soul?",
+    "a": "Black Hippy",
+    "w": [
+      "Odd Future",
+      "G-Unit",
+      "Wu-Tang Clan"
+    ],
+    "x": "Black Hippy is a Top Dawg Entertainment supergroup."
+  },
+  {
+    "id": "art101",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of J. Cole?",
+    "a": "Jermaine Cole",
+    "w": [
+      "James Cole",
+      "Jermaine Dupri",
+      "Jermaine Jackson"
+    ],
+    "x": "Cole founded the Dreamville label."
+  },
+  {
+    "id": "art102",
+    "l": "art",
+    "d": 1,
+    "q": "Which North Carolina city did J. Cole grow up in?",
+    "a": "Fayetteville",
+    "w": [
+      "Charlotte",
+      "Raleigh",
+      "Greensboro"
+    ],
+    "x": "Fayetteville is referenced throughout his lyrics."
+  },
+  {
+    "id": "art103",
+    "l": "art",
+    "d": 2,
+    "q": "Which record label did J. Cole found?",
+    "a": "Dreamville Records",
+    "w": [
+      "Roc Nation",
+      "GOOD Music",
+      "Aftermath Entertainment"
+    ],
+    "x": "Dreamville releases include Cole's albums and compilations."
+  },
+  {
+    "id": "art104",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Nicki Minaj?",
+    "a": "Onika Maraj",
+    "w": [
+      "Onika Minaj",
+      "Nicole Maraj",
+      "Onika Carter"
+    ],
+    "x": "She was born in Trinidad and raised in Queens."
+  },
+  {
+    "id": "art105",
+    "l": "art",
+    "d": 2,
+    "q": "Which Caribbean country was Nicki Minaj born in?",
+    "a": "Trinidad and Tobago",
+    "w": [
+      "Jamaica",
+      "Bahamas",
+      "Barbados"
+    ],
+    "x": "Her family moved to New York when she was a child."
+  },
+  {
+    "id": "art106",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper mentored Nicki Minaj early in her career?",
+    "a": "Lil Wayne",
+    "w": [
+      "Jay-Z",
+      "Eminem",
+      "Nas"
+    ],
+    "x": "Wayne signed her to Young Money."
+  },
+  {
+    "id": "art107",
+    "l": "art",
+    "d": 3,
+    "q": "What is Nicki Minaj's fictional alter ego?",
+    "a": "Roman",
+    "w": [
+      "Rita",
+      "Nicky",
+      "Barbie"
+    ],
+    "x": "She has described Roman as a male persona in her lyrics."
+  },
+  {
+    "id": "art108",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Ludacris?",
+    "a": "Christopher Bridges",
+    "w": [
+      "Christopher Wallace",
+      "Christopher Brown",
+      "Curtis Jackson"
+    ],
+    "x": "Bridges adopted Ludacris as a stage name in Atlanta."
+  },
+  {
+    "id": "art109",
+    "l": "art",
+    "d": 1,
+    "q": "Which Midwestern city did Ludacris spend part of his childhood in?",
+    "a": "Champaign, Illinois",
+    "w": [
+      "Chicago, Illinois",
+      "Detroit, Michigan",
+      "Cleveland, Ohio"
+    ],
+    "x": "He lived in Champaign before moving to Atlanta."
+  },
+  {
+    "id": "art110",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Nelly?",
+    "a": "Cornell Haynes",
+    "w": [
+      "Cornell Williams",
+      "Curtis Jackson",
+      "Christopher Bridges"
+    ],
+    "x": "Haynes is from Saint Louis and was a member of the St Lunatics."
+  },
+  {
+    "id": "art111",
+    "l": "art",
+    "d": 2,
+    "q": "Which city is Nelly from?",
+    "a": "St. Louis, Missouri",
+    "w": [
+      "Kansas City, Missouri",
+      "Chicago, Illinois",
+      "Memphis, Tennessee"
+    ],
+    "x": "Nelly's Country Grammar was inspired by Saint Louis."
+  },
+  {
+    "id": "art112",
+    "l": "art",
+    "d": 3,
+    "q": "Which group did Nelly belong to before going solo?",
+    "a": "St. Lunatics",
+    "w": [
+      "G-Unit",
+      "Outkast",
+      "Bone Thugs-n-Harmony"
+    ],
+    "x": "The St Lunatics appeared on his early albums."
+  },
+  {
+    "id": "art113",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Travis Scott?",
+    "a": "Jacques Webster",
+    "w": [
+      "Jacques Brown",
+      "Travis Webster",
+      "Scott Webster"
+    ],
+    "x": "Webster is a Houston native and founder of Cactus Jack Records."
+  },
+  {
+    "id": "art114",
+    "l": "art",
+    "d": 2,
+    "q": "Which city did Travis Scott grow up in?",
+    "a": "Houston, Texas",
+    "w": [
+      "Atlanta, Georgia",
+      "Los Angeles, California",
+      "Dallas, Texas"
+    ],
+    "x": "He attended the University of Houston."
+  },
+  {
+    "id": "art115",
+    "l": "art",
+    "d": 2,
+    "q": "Which label did Travis Scott found?",
+    "a": "Cactus Jack Records",
+    "w": [
+      "OVO Sound",
+      "Dreamville Records",
+      "GOOD Music"
+    ],
+    "x": "The label is named after his Houston-inspired brand."
+  },
+  {
+    "id": "art116",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Cardi B?",
+    "a": "Belcalis Almanzar",
+    "w": [
+      "Belcalis Maraj",
+      "Belcalis Carter",
+      "Brittany Johnson"
+    ],
+    "x": "She was born Belcalis Almanzar in the Bronx."
+  },
+  {
+    "id": "art117",
+    "l": "art",
+    "d": 1,
+    "q": "Which rapper married fellow rapper Offset?",
+    "a": "Cardi B",
+    "w": [
+      "Nicki Minaj",
+      "Megan Thee Stallion",
+      "Doja Cat"
+    ],
+    "x": "Cardi B and Offset married in 2017."
+  },
+  {
+    "id": "art118",
+    "l": "art",
+    "d": 2,
+    "q": "Which New York borough did Cardi B grow up in?",
+    "a": "The Bronx",
+    "w": [
+      "Brooklyn",
+      "Queens",
+      "Staten Island"
+    ],
+    "x": "She grew up in the Highbridge section of the Bronx."
+  },
+  {
+    "id": "art119",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Megan Thee Stallion?",
+    "a": "Megan Pete",
+    "w": [
+      "Megan Johnson",
+      "Megan Carter",
+      "Megan Smith"
+    ],
+    "x": "She was born Megan Pete in San Antonio."
+  },
+  {
+    "id": "art120",
+    "l": "art",
+    "d": 1,
+    "q": "Which university did Megan Thee Stallion attend?",
+    "a": "Texas Southern University",
+    "w": [
+      "University of Houston",
+      "University of Texas",
+      "Prairie View A&M"
+    ],
+    "x": "She played basketball while attending Texas Southern."
+  },
+  {
+    "id": "art121",
+    "l": "art",
+    "d": 2,
+    "q": "Which nickname does Megan Thee Stallion use for herself?",
+    "a": "Hot Girl Coach",
+    "w": [
+      "Hottie Coach",
+      "Stallion Queen",
+      "Houston Hotspot"
+    ],
+    "x": "She popularized the phrase Hot Girl Summer."
+  },
+  {
+    "id": "art122",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Bad Bunny?",
+    "a": "Benito Martinez",
+    "w": [
+      "Benito Rodriguez",
+      "Bad Bunny",
+      "Bunny Benito"
+    ],
+    "x": "He was born Benito Martinez in Puerto Rico."
+  },
+  {
+    "id": "art123",
+    "l": "art",
+    "d": 3,
+    "q": "Which Puerto Rican town is Bad Bunny from?",
+    "a": "Vega Baja",
+    "w": [
+      "San Juan",
+      "Ponce",
+      "Mayaguez"
+    ],
+    "x": "He grew up in Vega Baja before studying in San Juan."
+  },
+  {
+    "id": "art124",
+    "l": "art",
+    "d": 2,
+    "q": "Which singer performed alongside Bad Bunny at the Super Bowl LIV halftime show?",
+    "a": "Shakira",
+    "w": [
+      "Beyonce",
+      "Lady Gaga",
+      "Jennifer Lopez"
+    ],
+    "x": "The 2020 halftime show also featured J Balvin and Fat Joe."
+  },
+  {
+    "id": "art125",
+    "l": "art",
+    "d": 2,
+    "q": "Which collective did Tyler, the Creator found?",
+    "a": "Odd Future",
+    "w": [
+      "Wu-Tang Clan",
+      "G-Unit",
+      "Black Hippy"
+    ],
+    "x": "Odd Future is also known as OFWGKTA."
+  },
+  {
+    "id": "art126",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of Tyler, the Creator?",
+    "a": "Tyler Okonma",
+    "w": [
+      "Tyler Perry",
+      "Tyler Joseph",
+      "Tyler James"
+    ],
+    "x": "Tyler Gregory Okonma was born in Los Angeles."
+  },
+  {
+    "id": "art127",
+    "l": "art",
+    "d": 2,
+    "q": "Which clothing brand is associated with Tyler, the Creator?",
+    "a": "Golf Wang",
+    "w": [
+      "Supreme",
+      "Off-White",
+      "Bape"
+    ],
+    "x": "Golf Wang grew out of his Odd Future merchandise."
+  },
+  {
+    "id": "art128",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Frank Ocean?",
+    "a": "Christopher Breaux",
+    "w": [
+      "Christopher Brown",
+      "Christopher Wallace",
+      "Franklin Ocean"
+    ],
+    "x": "He was born Christopher Breaux in New Orleans."
+  },
+  {
+    "id": "art129",
+    "l": "art",
+    "d": 2,
+    "q": "Which collective was Frank Ocean a member of?",
+    "a": "Odd Future",
+    "w": [
+      "Wu-Tang Clan",
+      "G-Unit",
+      "Dreamville"
+    ],
+    "x": "He appeared on early Odd Future releases."
+  },
+  {
+    "id": "art130",
+    "l": "art",
+    "d": 2,
+    "q": "Which city was Frank Ocean born in?",
+    "a": "New Orleans, Louisiana",
+    "w": [
+      "Houston, Texas",
+      "Atlanta, Georgia",
+      "Baton Rouge, Louisiana"
+    ],
+    "x": "He was born in New Orleans before moving to California."
+  },
+  {
+    "id": "art131",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Doja Cat?",
+    "a": "Amala Dlamini",
+    "w": [
+      "Amala Johnson",
+      "Amala Smith",
+      "Amala Carter"
+    ],
+    "x": "She was born Amala Dlamini in Los Angeles."
+  },
+  {
+    "id": "art132",
+    "l": "art",
+    "d": 1,
+    "q": "Which rapper released the viral song Mooo!?",
+    "a": "Doja Cat",
+    "w": [
+      "Nicki Minaj",
+      "Cardi B",
+      "Megan Thee Stallion"
+    ],
+    "x": "The 2018 song became a meme before her breakthrough."
+  },
+  {
+    "id": "art133",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper is known for the song Say So?",
+    "a": "Doja Cat",
+    "w": [
+      "Cardi B",
+      "Nicki Minaj",
+      "Lizzo"
+    ],
+    "x": "Say So became a global hit in 2020."
+  },
+  {
+    "id": "art134",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Missy Elliott?",
+    "a": "Melissa Elliott",
+    "w": [
+      "Melissa Jackson",
+      "Melissa Johnson",
+      "Melissa Carter"
+    ],
+    "x": "She was born Melissa Elliott in Portsmouth, Virginia."
+  },
+  {
+    "id": "art135",
+    "l": "art",
+    "d": 2,
+    "q": "Which frequent collaborator produced many of Missy Elliott's hits?",
+    "a": "Timbaland",
+    "w": [
+      "Dr. Dre",
+      "Kanye West",
+      "Rick Rubin"
+    ],
+    "x": "Timbaland and Missy forged a distinctive rhythmic style."
+  },
+  {
+    "id": "art136",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Timbaland?",
+    "a": "Timothy Mosley",
+    "w": [
+      "Timothy Brown",
+      "Timothy Jackson",
+      "Timothy Smith"
+    ],
+    "x": "Mosley became one of hip hop's most influential producers."
+  },
+  {
+    "id": "art137",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of Queen Latifah?",
+    "a": "Dana Owens",
+    "w": [
+      "Dana Johnson",
+      "Dana Smith",
+      "Dana Carter"
+    ],
+    "x": "She was born in Newark, New Jersey."
+  },
+  {
+    "id": "art138",
+    "l": "art",
+    "d": 3,
+    "q": "Which collective did Queen Latifah found?",
+    "a": "Flavor Unit",
+    "w": [
+      "Wu-Tang Clan",
+      "G-Unit",
+      "Odd Future"
+    ],
+    "x": "Flavor Unit included artists and producers she mentored."
+  },
+  {
+    "id": "art139",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of MC Lyte?",
+    "a": "Lana Moorer",
+    "w": [
+      "Lana Johnson",
+      "Lana Carter",
+      "Lana Williams"
+    ],
+    "x": "Moorer released Lyte as a Rock in 1988."
+  },
+  {
+    "id": "art140",
+    "l": "art",
+    "d": 3,
+    "q": "Which rapper recorded the answer song Roxanne's Revenge?",
+    "a": "Roxanne Shante",
+    "w": [
+      "MC Lyte",
+      "Queen Latifah",
+      "Salt"
+    ],
+    "x": "She recorded the track as a teenager in 1984."
+  },
+  {
+    "id": "art141",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of MF DOOM?",
+    "a": "Daniel Dumile",
+    "w": [
+      "Daniel Carter",
+      "Daniel Smith",
+      "Daniel Johnson"
+    ],
+    "x": "Dumile wore a metal mask and released Mm..Food."
+  },
+  {
+    "id": "art142",
+    "l": "art",
+    "d": 3,
+    "q": "Which group did MF DOOM belong to before adopting the mask?",
+    "a": "KMD",
+    "w": [
+      "Wu-Tang Clan",
+      "Outkast",
+      "N.W.A"
+    ],
+    "x": "KMD was a duo with his brother Subroc."
+  },
+  {
+    "id": "art143",
+    "l": "art",
+    "d": 2,
+    "q": "What is the real name of the rapper known as The Game?",
+    "a": "Jayceon Taylor",
+    "w": [
+      "Jayceon Carter",
+      "Jeremy Taylor",
+      "Jermaine Taylor"
+    ],
+    "x": "Dre mentored him after The Documentary."
+  },
+  {
+    "id": "art144",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of Ab-Soul?",
+    "a": "Herbert Stevens",
+    "w": [
+      "Herbert Johnson",
+      "Herbert Carter",
+      "Herbert Smith"
+    ],
+    "x": "Stevens is a member of Black Hippy."
+  },
+  {
+    "id": "art145",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Schoolboy Q?",
+    "a": "Quincy Hanley",
+    "w": [
+      "Quincy Jones",
+      "Quincy Carter",
+      "Quincy Smith"
+    ],
+    "x": "Hanley is a Top Dawg Entertainment artist."
+  },
+  {
+    "id": "art146",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of Jay Rock?",
+    "a": "Johnny McKinzie",
+    "w": [
+      "Johnny Cash",
+      "Johnny Jackson",
+      "Johnny Carter"
+    ],
+    "x": "McKinzie is a member of Black Hippy."
+  },
+  {
+    "id": "art147",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Earl Sweatshirt?",
+    "a": "Thebe Kgositsile",
+    "w": [
+      "Thebe Johnson",
+      "Thebe Carter",
+      "Thebe Smith"
+    ],
+    "x": "He was a member of Odd Future."
+  },
+  {
+    "id": "art148",
+    "l": "art",
+    "d": 2,
+    "q": "Which collective was Earl Sweatshirt a member of?",
+    "a": "Odd Future",
+    "w": [
+      "Black Hippy",
+      "G-Unit",
+      "Wu-Tang Clan"
+    ],
+    "x": "He joined Odd Future as a teenager."
+  },
+  {
+    "id": "art149",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of CeeLo Green?",
+    "a": "Thomas Callaway",
+    "w": [
+      "Thomas Johnson",
+      "Thomas Carter",
+      "Thomas Smith"
+    ],
+    "x": "Callaway was a member of Goodie Mob."
+  },
+  {
+    "id": "art150",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Bun B?",
+    "a": "Bernard Freeman",
+    "w": [
+      "Bernard Johnson",
+      "Bernard Carter",
+      "Bernard Smith"
+    ],
+    "x": "Freeman formed UGK with Pimp C."
+  },
+  {
+    "id": "art151",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of Pimp C?",
+    "a": "Chad Butler",
+    "w": [
+      "Chad Johnson",
+      "Chad Carter",
+      "Chad Smith"
+    ],
+    "x": "Butler was one half of the duo UGK."
+  },
+  {
+    "id": "art152",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Scarface?",
+    "a": "Brad Jordan",
+    "w": [
+      "Brad Johnson",
+      "Brad Carter",
+      "Brad Smith"
+    ],
+    "x": "Jordan was a member of the Geto Boys."
+  },
+  {
+    "id": "art153",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of Master P?",
+    "a": "Percy Miller",
+    "w": [
+      "Percy Jackson",
+      "Percy Carter",
+      "Percy Smith"
+    ],
+    "x": "Miller founded No Limit Records in Louisiana."
+  },
+  {
+    "id": "art154",
+    "l": "art",
+    "d": 2,
+    "q": "Which label did Master P found?",
+    "a": "No Limit Records",
+    "w": [
+      "Cash Money Records",
+      "Death Row Records",
+      "Roc-A-Fella Records"
+    ],
+    "x": "No Limit became a major Southern hip hop label."
+  },
+  {
+    "id": "art155",
+    "l": "art",
+    "d": 2,
+    "q": "Which label did Birdman co-found?",
+    "a": "Cash Money Records",
+    "w": [
+      "No Limit Records",
+      "Aftermath Entertainment",
+      "GOOD Music"
+    ],
+    "x": "Birdman and his brother Slim started Cash Money."
+  },
+  {
+    "id": "art156",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Birdman?",
+    "a": "Bryan Williams",
+    "w": [
+      "Bryan Johnson",
+      "Bryan Carter",
+      "Bryan Smith"
+    ],
+    "x": "He co-founded Cash Money Records in New Orleans."
+  },
+  {
+    "id": "art157",
+    "l": "art",
+    "d": 2,
+    "q": "Which producer founded So So Def Recordings?",
+    "a": "Jermaine Dupri",
+    "w": [
+      "Timbaland",
+      "Rick Rubin",
+      "Dr. Dre"
+    ],
+    "x": "Dupri discovered TLC and built an Atlanta-based label."
+  },
+  {
+    "id": "art158",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Swizz Beatz?",
+    "a": "Kasseem Dean",
+    "w": [
+      "Kasseem Johnson",
+      "Kasseem Carter",
+      "Kasseem Smith"
+    ],
+    "x": "Dean is a producer and rapper from the Bronx."
+  },
+  {
+    "id": "art159",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of will.i.am?",
+    "a": "William Adams",
+    "w": [
+      "William Johnson",
+      "William Carter",
+      "William Smith"
+    ],
+    "x": "Adams founded the Black Eyed Peas."
+  },
+  {
+    "id": "art160",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper is the lead vocalist of The Roots?",
+    "a": "Black Thought",
+    "w": [
+      "Questlove",
+      "Common",
+      "Talib Kweli"
+    ],
+    "x": "Black Thought has released many rapid-fire verses with the band."
+  },
+  {
+    "id": "art161",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Questlove?",
+    "a": "Ahmir Thompson",
+    "w": [
+      "Ahmir Johnson",
+      "Ahmir Carter",
+      "Ahmir Smith"
+    ],
+    "x": "He is the drummer and co-founder of The Roots."
+  },
+  {
+    "id": "art162",
+    "l": "art",
+    "d": 2,
+    "q": "Which group did Q-Tip belong to?",
+    "a": "A Tribe Called Quest",
+    "w": [
+      "Public Enemy",
+      "N.W.A",
+      "Outkast"
+    ],
+    "x": "Q-Tip was the group's rapper and producer."
+  },
+  {
+    "id": "art163",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Phife Dawg?",
+    "a": "Malik Taylor",
+    "w": [
+      "Malik Johnson",
+      "Malik Carter",
+      "Malik Smith"
+    ],
+    "x": "He was known for his witty verses in A Tribe Called Quest."
+  },
+  {
+    "id": "art164",
+    "l": "art",
+    "d": 2,
+    "q": "Which A Tribe Called Quest member died in 2016?",
+    "a": "Phife Dawg",
+    "w": [
+      "Q-Tip",
+      "Ali Shaheed Muhammad",
+      "Jarobi White"
+    ],
+    "x": "His death came shortly before the group's final album."
+  },
+  {
+    "id": "art165",
+    "l": "art",
+    "d": 1,
+    "q": "Which group had the hit song Tha Crossroads?",
+    "a": "Bone Thugs-n-Harmony",
+    "w": [
+      "Three 6 Mafia",
+      "Outkast",
+      "UGK"
+    ],
+    "x": "The song was released as a tribute to Eazy-E."
+  },
+  {
+    "id": "art166",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Guru?",
+    "a": "Keith Elam",
+    "w": [
+      "Keith Johnson",
+      "Keith Carter",
+      "Keith Smith"
+    ],
+    "x": "He was one half of Gang Starr."
+  },
+  {
+    "id": "art167",
+    "l": "art",
+    "d": 3,
+    "q": "Which rapper is one half of the duo Gang Starr?",
+    "a": "Guru",
+    "w": [
+      "DJ Premier",
+      "Q-Tip",
+      "Pete Rock"
+    ],
+    "x": "Guru rhymed while DJ Premier produced their tracks."
+  },
+  {
+    "id": "art168",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper formed the duo Black Star with Talib Kweli?",
+    "a": "Mos Def",
+    "w": [
+      "Common",
+      "Q-Tip",
+      "Black Thought"
+    ],
+    "x": "The duo released their only album in 1998."
+  },
+  {
+    "id": "art169",
+    "l": "art",
+    "d": 2,
+    "q": "What name did Mos Def later adopt?",
+    "a": "Yasiin Bey",
+    "w": [
+      "Dante Bey",
+      "Dante Smith",
+      "Black Thought"
+    ],
+    "x": "He announced the change in 2011."
+  },
+  {
+    "id": "art170",
+    "l": "art",
+    "d": 2,
+    "q": "Which group is known for the song Insane in the Brain?",
+    "a": "Cypress Hill",
+    "w": [
+      "House of Pain",
+      "Onyx",
+      "Geto Boys"
+    ],
+    "x": "The 1993 track appeared on Black Sunday."
+  },
+  {
+    "id": "art171",
+    "l": "art",
+    "d": 3,
+    "q": "Which member of the Geto Boys released the solo album The Diary?",
+    "a": "Scarface",
+    "w": [
+      "Willie D",
+      "Bushwick Bill",
+      "Ice Cube"
+    ],
+    "x": "The Diary came out in 1994."
+  },
+  {
+    "id": "art172",
+    "l": "art",
+    "d": 3,
+    "q": "Which group won an Academy Award for Best Original Song in 2006?",
+    "a": "Three 6 Mafia",
+    "w": [
+      "Outkast",
+      "N.W.A",
+      "Bone Thugs-n-Harmony"
+    ],
+    "x": "They won for a song from the film Hustle and Flow."
+  },
+  {
+    "id": "art173",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Rapsody?",
+    "a": "Marlanna Evans",
+    "w": [
+      "Marlanna Johnson",
+      "Marlanna Carter",
+      "Marlanna Smith"
+    ],
+    "x": "She is a North Carolina rapper signed to Jamla."
+  },
+  {
+    "id": "art174",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Little Simz?",
+    "a": "Simbiatu Ajikawo",
+    "w": [
+      "Simbiatu Johnson",
+      "Simbiatu Carter",
+      "Simbiatu Smith"
+    ],
+    "x": "She is a British rapper from London."
+  },
+  {
+    "id": "art175",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Noname?",
+    "a": "Fatima Nafiu",
+    "w": [
+      "Fatima Johnson",
+      "Fatima Carter",
+      "Fatima Smith"
+    ],
+    "x": "She is a Chicago rapper known for Telefone."
+  },
+  {
+    "id": "art176",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of M.I.A.?",
+    "a": "Mathangi Arulpragasam",
+    "w": [
+      "Mathangi Johnson",
+      "Mathangi Carter",
+      "Mathangi Smith"
+    ],
+    "x": "She was born in London and raised partly in Sri Lanka."
+  },
+  {
+    "id": "art177",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Pitbull?",
+    "a": "Armando Perez",
+    "w": [
+      "Armando Johnson",
+      "Armando Carter",
+      "Armando Smith"
+    ],
+    "x": "He was born in Miami to Cuban parents."
+  },
+  {
+    "id": "art178",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of Akon?",
+    "a": "Aliaune Thiam",
+    "w": [
+      "Aliaune Johnson",
+      "Aliaune Carter",
+      "Aliaune Smith"
+    ],
+    "x": "He was born in Senegal and raised in New Jersey."
+  },
+  {
+    "id": "art179",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper founded the Shady Records label?",
+    "a": "Eminem",
+    "w": [
+      "Dr. Dre",
+      "Puff Daddy",
+      "Master P"
+    ],
+    "x": "Eminem launched the label with manager Paul Rosenberg."
+  },
+  {
+    "id": "art180",
+    "l": "art",
+    "d": 2,
+    "q": "Which producer founded Aftermath Entertainment?",
+    "a": "Dr. Dre",
+    "w": [
+      "Eminem",
+      "Rick Rubin",
+      "Jermaine Dupri"
+    ],
+    "x": "Dre formed Aftermath after leaving Death Row."
+  },
+  {
+    "id": "art181",
+    "l": "art",
+    "d": 1,
+    "q": "Which stage name did Sean Combs use before Diddy?",
+    "a": "Puff Daddy",
+    "w": [
+      "Puffy Combs",
+      "Diddy Kong",
+      "Sean John"
+    ],
+    "x": "Combs later performed as Diddy and also as Love."
+  },
+  {
+    "id": "art182",
+    "l": "art",
+    "d": 1,
+    "q": "What is the real name of Diddy?",
+    "a": "Sean Combs",
+    "w": [
+      "Sean Carter",
+      "Sean Jackson",
+      "Sean Johnson"
+    ],
+    "x": "He founded Bad Boy Records."
+  },
+  {
+    "id": "art183",
+    "l": "art",
+    "d": 1,
+    "q": "Which rapper founded Bad Boy Records?",
+    "a": "Diddy",
+    "w": [
+      "Dr. Dre",
+      "Jermaine Dupri",
+      "Russell Simmons"
+    ],
+    "x": "The label launched the Notorious B.I.G."
+  },
+  {
+    "id": "art184",
+    "l": "art",
+    "d": 2,
+    "q": "Which rapper was the first major star signed to Bad Boy?",
+    "a": "Notorious B.I.G.",
+    "w": [
+      "Jay-Z",
+      "Nas",
+      "2Pac"
+    ],
+    "x": "His 1994 debut helped establish the label."
+  },
+  {
+    "id": "art185",
+    "l": "art",
+    "d": 3,
+    "q": "What is the real name of DJ Premier?",
+    "a": "Christopher Martin",
+    "w": [
+      "Christopher Brown",
+      "Christopher Carter",
+      "Christopher Smith"
+    ],
+    "x": "He is one half of Gang Starr."
+  },
+  {
+    "id": "alb001",
+    "l": "alb",
+    "d": 1,
+    "q": "Which album by Grandmaster Flash and the Furious Five includes the track The Message?",
+    "a": "The Message",
+    "w": [
+      "Sugarhill Gang",
+      "Raising Hell",
+      "Planet Rock"
+    ],
+    "x": "The 1982 album was one of the first hip hop records with a social message."
+  },
+  {
+    "id": "alb002",
+    "l": "alb",
+    "d": 2,
+    "q": "Which album did Run-DMC release in 1984?",
+    "a": "Run-D.M.C.",
+    "w": [
+      "Raising Hell",
+      "Licensed to Ill",
+      "The Message"
+    ],
+    "x": "Their self-titled debut introduced their stripped-down rock-rap sound."
+  },
+  {
+    "id": "alb003",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Run-DMC album contains the hit remake Walk This Way?",
+    "a": "Raising Hell",
+    "w": [
+      "Run-D.M.C.",
+      "Tougher Than Leather",
+      "Licensed to Ill"
+    ],
+    "x": "Raising Hell was released in 1986 and included Aerosmith."
+  },
+  {
+    "id": "alb004",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Run-DMC album was released in 1988?",
+    "a": "Tougher Than Leather",
+    "w": [
+      "Raising Hell",
+      "Run-D.M.C.",
+      "Down with the King"
+    ],
+    "x": "The album followed their breakthrough 1986 release."
+  },
+  {
+    "id": "alb005",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Beastie Boys album came out in 1986?",
+    "a": "Licensed to Ill",
+    "w": [
+      "Ill Communication",
+      "Check Your Head",
+      "Hello Nasty"
+    ],
+    "x": "It was the first rap album to reach number one on the Billboard 200."
+  },
+  {
+    "id": "alb006",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Beastie Boys album was released in 1992?",
+    "a": "Check Your Head",
+    "w": [
+      "Licensed to Ill",
+      "Ill Communication",
+      "Paul's Boutique"
+    ],
+    "x": "The band recorded it at their own studio."
+  },
+  {
+    "id": "alb007",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Beastie Boys album includes the instrumental Sabotage?",
+    "a": "Ill Communication",
+    "w": [
+      "Check Your Head",
+      "Hello Nasty",
+      "Paul's Boutique"
+    ],
+    "x": "Sabotage became a signature track from the 1994 album."
+  },
+  {
+    "id": "alb008",
+    "l": "alb",
+    "d": 2,
+    "q": "Which 1989 Beastie Boys album was produced by the Dust Brothers?",
+    "a": "Paul's Boutique",
+    "w": [
+      "Licensed to Ill",
+      "Ill Communication",
+      "Check Your Head"
+    ],
+    "x": "The album is celebrated for its dense sampling."
+  },
+  {
+    "id": "alb009",
+    "l": "alb",
+    "d": 1,
+    "q": "Which LL Cool J album is his 1985 debut?",
+    "a": "Radio",
+    "w": [
+      "Bigger and Deffer",
+      "Mama Said Knock You Out",
+      "Walking with a Panther"
+    ],
+    "x": "Radio was an early landmark release for Def Jam."
+  },
+  {
+    "id": "alb010",
+    "l": "alb",
+    "d": 2,
+    "q": "Which LL Cool J album contains the title track Mama Said Knock You Out?",
+    "a": "Mama Said Knock You Out",
+    "w": [
+      "Radio",
+      "Bigger and Deffer",
+      "Walking with a Panther"
+    ],
+    "x": "The 1990 album revitalized his career."
+  },
+  {
+    "id": "alb011",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Public Enemy album came out in 1991?",
+    "a": "Apocalypse 91... The Enemy Strikes Black",
+    "w": [
+      "Yo! Bum Rush the Show",
+      "Fear of a Black Planet",
+      "There's a Poison Goin On"
+    ],
+    "x": "The album followed their landmark 1988 release."
+  },
+  {
+    "id": "alb012",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Public Enemy album includes the song Fight the Power?",
+    "a": "Fear of a Black Planet",
+    "w": [
+      "Yo! Bum Rush the Show",
+      "Apocalypse 91... The Enemy Strikes Black",
+      "He Got Game"
+    ],
+    "x": "Fight the Power was released in 1990."
+  },
+  {
+    "id": "alb013",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Public Enemy album was their 1987 debut?",
+    "a": "Yo! Bum Rush the Show",
+    "w": [
+      "Fear of a Black Planet",
+      "Apocalypse 91... The Enemy Strikes Black",
+      "He Got Game"
+    ],
+    "x": "The group's first album introduced their confrontational style."
+  },
+  {
+    "id": "alb014",
+    "l": "alb",
+    "d": 1,
+    "q": "Which N.W.A album came out in 1988?",
+    "a": "Straight Outta Compton",
+    "w": [
+      "The Chronic",
+      "Doggystyle",
+      "N.W.A and the Posse"
+    ],
+    "x": "Straight Outta Compton brought gangsta rap national attention."
+  },
+  {
+    "id": "alb015",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Dr. Dre album was released in 1992?",
+    "a": "The Chronic",
+    "w": [
+      "2001",
+      "Doggystyle",
+      "The Slim Shady LP"
+    ],
+    "x": "The Chronic introduced G-funk and Snoop Dogg."
+  },
+  {
+    "id": "alb016",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Snoop Dogg album came out in 1993?",
+    "a": "Doggystyle",
+    "w": [
+      "The Chronic",
+      "Tha Doggfather",
+      "Paid tha Cost to Be da Boss"
+    ],
+    "x": "Doggystyle was Dre's production showcase for Snoop."
+  },
+  {
+    "id": "alb017",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Snoop Dogg album was released in 1996?",
+    "a": "Tha Doggfather",
+    "w": [
+      "Doggystyle",
+      "Da Game Is to Be Sold",
+      "The Last Meal"
+    ],
+    "x": "It was his second studio album."
+  },
+  {
+    "id": "alb018",
+    "l": "alb",
+    "d": 1,
+    "q": "Which 2Pac album was released in 1996?",
+    "a": "All Eyez on Me",
+    "w": [
+      "Me Against the World",
+      "The Don Killuminati",
+      "Until the End of Time"
+    ],
+    "x": "All Eyez on Me was a double album released on Death Row."
+  },
+  {
+    "id": "alb019",
+    "l": "alb",
+    "d": 1,
+    "q": "Which 2Pac album came out in 1995?",
+    "a": "Me Against the World",
+    "w": [
+      "All Eyez on Me",
+      "The Don Killuminati",
+      "Until the End of Time"
+    ],
+    "x": "It topped the Billboard 200 while he was in prison."
+  },
+  {
+    "id": "alb020",
+    "l": "alb",
+    "d": 2,
+    "q": "Which 2Pac album was released posthumously in 1997?",
+    "a": "The Don Killuminati: The 7 Day Theory",
+    "w": [
+      "All Eyez on Me",
+      "Me Against the World",
+      "Until the End of Time"
+    ],
+    "x": "It was released under his Makaveli alias."
+  },
+  {
+    "id": "alb021",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Notorious B.I.G. album came out in 1994?",
+    "a": "Ready to Die",
+    "w": [
+      "Life After Death",
+      "Born Again",
+      "The Conspiracy"
+    ],
+    "x": "Ready to Die is considered a classic of East Coast rap."
+  },
+  {
+    "id": "alb022",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Notorious B.I.G. album was released in 1997?",
+    "a": "Life After Death",
+    "w": [
+      "Ready to Die",
+      "Born Again",
+      "Duets: The Final Chapter"
+    ],
+    "x": "It was released after his death in March 1997."
+  },
+  {
+    "id": "alb023",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Nas album was released in 1994?",
+    "a": "Illmatic",
+    "w": [
+      "It Was Written",
+      "Stillmatic",
+      "God's Son"
+    ],
+    "x": "Illmatic is widely regarded as one of the greatest rap albums."
+  },
+  {
+    "id": "alb024",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Nas album came out in 1996?",
+    "a": "It Was Written",
+    "w": [
+      "Illmatic",
+      "Nastradamus",
+      "Stillmatic"
+    ],
+    "x": "It was his second studio album."
+  },
+  {
+    "id": "alb025",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Nas album was released in 2001?",
+    "a": "Stillmatic",
+    "w": [
+      "Illmatic",
+      "It Was Written",
+      "God's Son"
+    ],
+    "x": "It included the song One Mic."
+  },
+  {
+    "id": "alb026",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Jay-Z album is his 1996 debut?",
+    "a": "Reasonable Doubt",
+    "w": [
+      "The Blueprint",
+      "Vol. 3",
+      "Hard Knock Life"
+    ],
+    "x": "Reasonable Doubt was released on Roc-A-Fella."
+  },
+  {
+    "id": "alb027",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Jay-Z album came out in 2001?",
+    "a": "The Blueprint",
+    "w": [
+      "Reasonable Doubt",
+      "The Black Album",
+      "The Blueprint 3"
+    ],
+    "x": "The Blueprint includes Jay-Z's song Takeover."
+  },
+  {
+    "id": "alb028",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Jay-Z album was released in 2003?",
+    "a": "The Black Album",
+    "w": [
+      "The Blueprint",
+      "Reasonable Doubt",
+      "Kingdom Come"
+    ],
+    "x": "It was billed as his final album before a brief retirement."
+  },
+  {
+    "id": "alb029",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Jay-Z album came out in 2006?",
+    "a": "Kingdom Come",
+    "w": [
+      "The Black Album",
+      "American Gangster",
+      "The Blueprint 3"
+    ],
+    "x": "It marked his return from retirement."
+  },
+  {
+    "id": "alb030",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Jay-Z album was released in 2009?",
+    "a": "The Blueprint 3",
+    "w": [
+      "The Blueprint",
+      "Kingdom Come",
+      "American Gangster"
+    ],
+    "x": "It featured the hit Empire State of Mind."
+  },
+  {
+    "id": "alb031",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Jay-Z album came out in 2017?",
+    "a": "4:44",
+    "w": [
+      "Magna Carta Holy Grail",
+      "The Blueprint 3",
+      "American Gangster"
+    ],
+    "x": "The title track addressed personal themes."
+  },
+  {
+    "id": "alb032",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Wu-Tang Clan album is their 1993 debut?",
+    "a": "Enter the Wu-Tang (36 Chambers)",
+    "w": [
+      "Wu-Tang Forever",
+      "The W",
+      "8 Diagrams"
+    ],
+    "x": "The album introduced all nine members."
+  },
+  {
+    "id": "alb033",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Wu-Tang Clan album was released in 1997?",
+    "a": "Wu-Tang Forever",
+    "w": [
+      "Enter the Wu-Tang (36 Chambers)",
+      "The W",
+      "The Wolf"
+    ],
+    "x": "It was a double album released after a four-year gap."
+  },
+  {
+    "id": "alb034",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Wu-Tang Clan album came out in 2000?",
+    "a": "The W",
+    "w": [
+      "Wu-Tang Forever",
+      "Enter the Wu-Tang (36 Chambers)",
+      "8 Diagrams"
+    ],
+    "x": "The W returned the group to a tighter sound."
+  },
+  {
+    "id": "alb035",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Raekwon album was released in 1995?",
+    "a": "Only Built 4 Cuban Linx...",
+    "w": [
+      "Ironman",
+      "Tical",
+      "Liquid Swords"
+    ],
+    "x": "The album is a Wu-Tang classic built around crime narratives."
+  },
+  {
+    "id": "alb036",
+    "l": "alb",
+    "d": 2,
+    "q": "Which GZA album came out in 1995?",
+    "a": "Liquid Swords",
+    "w": [
+      "Only Built 4 Cuban Linx...",
+      "Ironman",
+      "Tical"
+    ],
+    "x": "Liquid Swords is famed for its chess and crime imagery."
+  },
+  {
+    "id": "alb037",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Ghostface Killah album was released in 1996?",
+    "a": "Ironman",
+    "w": [
+      "Only Built 4 Cuban Linx...",
+      "Liquid Swords",
+      "Tical"
+    ],
+    "x": "Ironman followed his debut on Raekwon's album."
+  },
+  {
+    "id": "alb038",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Method Man album came out in 1994?",
+    "a": "Tical",
+    "w": [
+      "Liquid Swords",
+      "Ironman",
+      "The W"
+    ],
+    "x": "Tical was the first Wu-Tang solo album."
+  },
+  {
+    "id": "alb039",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Outkast album was released in 1994?",
+    "a": "Southernplayalisticadillacmuzik",
+    "w": [
+      "ATLiens",
+      "Aquemini",
+      "Stankonia"
+    ],
+    "x": "It was the duo's debut on LaFace Records."
+  },
+  {
+    "id": "alb040",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Outkast album came out in 1996?",
+    "a": "ATLiens",
+    "w": [
+      "Southernplayalisticadillacmuzik",
+      "Aquemini",
+      "Stankonia"
+    ],
+    "x": "ATLiens established their futuristic Southern style."
+  },
+  {
+    "id": "alb041",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Outkast album was released in 1998?",
+    "a": "Aquemini",
+    "w": [
+      "ATLiens",
+      "Stankonia",
+      "Speakerboxxx/The Love Below"
+    ],
+    "x": "Aquemini is named after the members' zodiac signs."
+  },
+  {
+    "id": "alb042",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Outkast album came out in 2000?",
+    "a": "Stankonia",
+    "w": [
+      "Aquemini",
+      "ATLiens",
+      "Speakerboxxx/The Love Below"
+    ],
+    "x": "Stankonia included the hit Ms. Jackson."
+  },
+  {
+    "id": "alb043",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Outkast double album won a Grammy in 2004?",
+    "a": "Speakerboxxx/The Love Below",
+    "w": [
+      "Stankonia",
+      "Aquemini",
+      "ATLiens"
+    ],
+    "x": "It won Best Rap Album and included Hey Ya!."
+  },
+  {
+    "id": "alb044",
+    "l": "alb",
+    "d": 2,
+    "q": "Which half of Speakerboxxx/The Love Below contains Hey Ya!?",
+    "a": "The Love Below",
+    "w": [
+      "Speakerboxxx",
+      "Stankonia",
+      "Aquemini"
+    ],
+    "x": "Andre 3000 wrote and performed most of The Love Below."
+  },
+  {
+    "id": "alb045",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Fugees album came out in 1996?",
+    "a": "The Score",
+    "w": [
+      "The Miseducation of Lauryn Hill",
+      "Blacks' Magic",
+      "CrazySexyCool"
+    ],
+    "x": "The Score was one of the best-selling albums of the decade."
+  },
+  {
+    "id": "alb046",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Lauryn Hill album was released in 1998?",
+    "a": "The Miseducation of Lauryn Hill",
+    "w": [
+      "The Score",
+      "CrazySexyCool",
+      "FanMail"
+    ],
+    "x": "It won five Grammy Awards the following year."
+  },
+  {
+    "id": "alb047",
+    "l": "alb",
+    "d": 2,
+    "q": "Which TLC album came out in 1994?",
+    "a": "CrazySexyCool",
+    "w": [
+      "FanMail",
+      "Ooooooohhh",
+      "3D"
+    ],
+    "x": "CrazySexyCool included Creep and Waterfalls."
+  },
+  {
+    "id": "alb048",
+    "l": "alb",
+    "d": 2,
+    "q": "Which TLC album was released in 1999?",
+    "a": "FanMail",
+    "w": [
+      "CrazySexyCool",
+      "3D",
+      "Ooooooohhh"
+    ],
+    "x": "FanMail included the hit No Scrubs."
+  },
+  {
+    "id": "alb049",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Eminem album came out in 1999?",
+    "a": "The Slim Shady LP",
+    "w": [
+      "The Marshall Mathers LP",
+      "The Eminem Show",
+      "Encore"
+    ],
+    "x": "It was his major-label debut and introduced Slim Shady."
+  },
+  {
+    "id": "alb050",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Eminem album was released in 2000?",
+    "a": "The Marshall Mathers LP",
+    "w": [
+      "The Slim Shady LP",
+      "The Eminem Show",
+      "Recovery"
+    ],
+    "x": "It became one of the fastest-selling albums ever."
+  },
+  {
+    "id": "alb051",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Eminem album came out in 2002?",
+    "a": "The Eminem Show",
+    "w": [
+      "The Marshall Mathers LP",
+      "The Slim Shady LP",
+      "Encore"
+    ],
+    "x": "It included the hit Without Me."
+  },
+  {
+    "id": "alb052",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Eminem album was released in 2010?",
+    "a": "Recovery",
+    "w": [
+      "Relapse",
+      "Encore",
+      "The Marshall Mathers LP 2"
+    ],
+    "x": "Recovery returned him to the top of the charts."
+  },
+  {
+    "id": "alb053",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Eminem album came out in 2009?",
+    "a": "Relapse",
+    "w": [
+      "Recovery",
+      "Encore",
+      "The Eminem Show"
+    ],
+    "x": "Relapse was his first studio album in several years."
+  },
+  {
+    "id": "alb054",
+    "l": "alb",
+    "d": 1,
+    "q": "Which 50 Cent album was released in 2003?",
+    "a": "Get Rich or Die Tryin'",
+    "w": [
+      "The Massacre",
+      "Before I Self Destruct",
+      "Animal Ambition"
+    ],
+    "x": "It was his major-label debut on Aftermath and Shady."
+  },
+  {
+    "id": "alb055",
+    "l": "alb",
+    "d": 2,
+    "q": "Which 50 Cent album came out in 2005?",
+    "a": "The Massacre",
+    "w": [
+      "Get Rich or Die Tryin'",
+      "Before I Self Destruct",
+      "Animal Ambition"
+    ],
+    "x": "It sold rapidly in its first week."
+  },
+  {
+    "id": "alb056",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Kanye West album was released in 2004?",
+    "a": "The College Dropout",
+    "w": [
+      "Late Registration",
+      "Graduation",
+      "808s & Heartbreak"
+    ],
+    "x": "It followed a long battle to be taken seriously as a rapper."
+  },
+  {
+    "id": "alb057",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Kanye West album came out in 2005?",
+    "a": "Late Registration",
+    "w": [
+      "The College Dropout",
+      "Graduation",
+      "808s & Heartbreak"
+    ],
+    "x": "It featured the orchestral single Gold Digger."
+  },
+  {
+    "id": "alb058",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Kanye West album was released in 2007?",
+    "a": "Graduation",
+    "w": [
+      "Late Registration",
+      "808s & Heartbreak",
+      "My Beautiful Dark Twisted Fantasy"
+    ],
+    "x": "Graduation was released on the same day as 50 Cent's Curtis."
+  },
+  {
+    "id": "alb059",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Kanye West album came out in 2008?",
+    "a": "808s & Heartbreak",
+    "w": [
+      "Graduation",
+      "Late Registration",
+      "My Beautiful Dark Twisted Fantasy"
+    ],
+    "x": "It is an auto-tuned concept album about heartbreak."
+  },
+  {
+    "id": "alb060",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Kanye West album was released in 2010?",
+    "a": "My Beautiful Dark Twisted Fantasy",
+    "w": [
+      "808s & Heartbreak",
+      "Graduation",
+      "Yeezus"
+    ],
+    "x": "It was recorded in Hawaii after a period away from the public."
+  },
+  {
+    "id": "alb061",
+    "l": "alb",
+    "d": 2,
+    "q": "Which album by Kanye West came out in 2013?",
+    "a": "Yeezus",
+    "w": [
+      "My Beautiful Dark Twisted Fantasy",
+      "The Life of Pablo",
+      "Graduation"
+    ],
+    "x": "Yeezus featured harsh industrial production."
+  },
+  {
+    "id": "alb062",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Kanye West album was released in 2016?",
+    "a": "The Life of Pablo",
+    "w": [
+      "Yeezus",
+      "The College Dropout",
+      "Ye"
+    ],
+    "x": "It was initially released exclusively on Tidal."
+  },
+  {
+    "id": "alb063",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Kanye West album came out in 2019?",
+    "a": "Jesus Is King",
+    "w": [
+      "Ye",
+      "Yeezus",
+      "The Life of Pablo"
+    ],
+    "x": "It is a gospel-leaning album tied to a film of the same name."
+  },
+  {
+    "id": "alb064",
+    "l": "alb",
+    "d": 2,
+    "q": "Which collaborative album did Kanye West release with Jay-Z in 2011?",
+    "a": "Watch the Throne",
+    "w": [
+      "The Blueprint",
+      "My Beautiful Dark Twisted Fantasy",
+      "Yeezus"
+    ],
+    "x": "The two had previously worked together on The Blueprint."
+  },
+  {
+    "id": "alb065",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Lil Wayne album was released in 2005?",
+    "a": "Tha Carter II",
+    "w": [
+      "Tha Carter III",
+      "Tha Carter",
+      "Tha Block Is Hot"
+    ],
+    "x": "It built on the momentum of his earlier Carter albums."
+  },
+  {
+    "id": "alb066",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Lil Wayne album came out in 2008?",
+    "a": "Tha Carter III",
+    "w": [
+      "Tha Carter II",
+      "Tha Carter",
+      "Free Weezy Album"
+    ],
+    "x": "It included the hit Lollipop."
+  },
+  {
+    "id": "alb067",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Drake album came out in 2010?",
+    "a": "Thank Me Later",
+    "w": [
+      "Take Care",
+      "Nothing Was the Same",
+      "Views"
+    ],
+    "x": "It was Drake's first studio album."
+  },
+  {
+    "id": "alb068",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Drake album was released in 2011?",
+    "a": "Take Care",
+    "w": [
+      "Thank Me Later",
+      "Nothing Was the Same",
+      "Scorpion"
+    ],
+    "x": "Take Care included the hit Marvins Room."
+  },
+  {
+    "id": "alb069",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Drake album came out in 2013?",
+    "a": "Nothing Was the Same",
+    "w": [
+      "Take Care",
+      "Views",
+      "Scorpion"
+    ],
+    "x": "It included the song Started From the Bottom."
+  },
+  {
+    "id": "alb070",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Drake album was released in 2016?",
+    "a": "Views",
+    "w": [
+      "Nothing Was the Same",
+      "Scorpion",
+      "Take Care"
+    ],
+    "x": "Views included the global hit One Dance."
+  },
+  {
+    "id": "alb071",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Drake album came out in 2018?",
+    "a": "Scorpion",
+    "w": [
+      "Views",
+      "Nothing Was the Same",
+      "For All the Dogs"
+    ],
+    "x": "Scorpion was a double album."
+  },
+  {
+    "id": "alb072",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Drake mixtape was released in 2015?",
+    "a": "If You're Reading This It's Too Late",
+    "w": [
+      "Scorpion",
+      "Take Care",
+      "Dark Lane Demo Tapes"
+    ],
+    "x": "It was a surprise digital release."
+  },
+  {
+    "id": "alb073",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Kendrick Lamar album came out in 2012?",
+    "a": "good kid, m.A.A.d city",
+    "w": [
+      "To Pimp a Butterfly",
+      "DAMN.",
+      "Section.80"
+    ],
+    "x": "It is a concept album about growing up in Compton."
+  },
+  {
+    "id": "alb074",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Kendrick Lamar album was released in 2015?",
+    "a": "To Pimp a Butterfly",
+    "w": [
+      "good kid, m.A.A.d city",
+      "DAMN.",
+      "Mr. Morale & the Big Steppers"
+    ],
+    "x": "It won the Grammy for Best Rap Album."
+  },
+  {
+    "id": "alb075",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Kendrick Lamar album won the Pulitzer Prize for Music in 2018?",
+    "a": "DAMN.",
+    "w": [
+      "To Pimp a Butterfly",
+      "good kid, m.A.A.d city",
+      "Section.80"
+    ],
+    "x": "He was the first non-classical artist to win the award."
+  },
+  {
+    "id": "alb076",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Kendrick Lamar album was released in 2022?",
+    "a": "Mr. Morale & the Big Steppers",
+    "w": [
+      "DAMN.",
+      "To Pimp a Butterfly",
+      "GNX"
+    ],
+    "x": "It was his first album in five years."
+  },
+  {
+    "id": "alb077",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Kendrick Lamar album came out in 2024?",
+    "a": "GNX",
+    "w": [
+      "Mr. Morale & the Big Steppers",
+      "DAMN.",
+      "To Pimp a Butterfly"
+    ],
+    "x": "GNX was released as a surprise in November."
+  },
+  {
+    "id": "alb078",
+    "l": "alb",
+    "d": 2,
+    "q": "Which J. Cole album was released in 2011?",
+    "a": "Cole World: The Sideline Story",
+    "w": [
+      "2014 Forest Hills Drive",
+      "4 Your Eyez Only",
+      "KOD"
+    ],
+    "x": "It was his first studio album."
+  },
+  {
+    "id": "alb079",
+    "l": "alb",
+    "d": 1,
+    "q": "Which J. Cole album came out in 2014?",
+    "a": "2014 Forest Hills Drive",
+    "w": [
+      "Cole World: The Sideline Story",
+      "4 Your Eyez Only",
+      "The Off-Season"
+    ],
+    "x": "It was released without promotion or guest features."
+  },
+  {
+    "id": "alb080",
+    "l": "alb",
+    "d": 2,
+    "q": "Which J. Cole album was released in 2016?",
+    "a": "4 Your Eyez Only",
+    "w": [
+      "2014 Forest Hills Drive",
+      "KOD",
+      "The Off-Season"
+    ],
+    "x": "It was a quiet narrative-driven album."
+  },
+  {
+    "id": "alb081",
+    "l": "alb",
+    "d": 2,
+    "q": "Which J. Cole album came out in 2018?",
+    "a": "KOD",
+    "w": [
+      "4 Your Eyez Only",
+      "The Off-Season",
+      "2014 Forest Hills Drive"
+    ],
+    "x": "The title stands for Kids on Drugs and King Overdosed."
+  },
+  {
+    "id": "alb082",
+    "l": "alb",
+    "d": 2,
+    "q": "Which J. Cole album was released in 2021?",
+    "a": "The Off-Season",
+    "w": [
+      "KOD",
+      "4 Your Eyez Only",
+      "2014 Forest Hills Drive"
+    ],
+    "x": "It followed his 2018 release KOD."
+  },
+  {
+    "id": "alb083",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Nicki Minaj album was released in 2010?",
+    "a": "Pink Friday",
+    "w": [
+      "Pink Friday: Roman Reloaded",
+      "The Pinkprint",
+      "Queen"
+    ],
+    "x": "It included the hit Super Bass."
+  },
+  {
+    "id": "alb084",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Nicki Minaj album came out in 2012?",
+    "a": "Pink Friday: Roman Reloaded",
+    "w": [
+      "Pink Friday",
+      "The Pinkprint",
+      "Queen"
+    ],
+    "x": "It expanded on her Roman persona."
+  },
+  {
+    "id": "alb085",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Nicki Minaj album came out in 2014?",
+    "a": "The Pinkprint",
+    "w": [
+      "Pink Friday",
+      "Queen",
+      "Pink Friday 2"
+    ],
+    "x": "It included the song Anaconda."
+  },
+  {
+    "id": "alb086",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Nicki Minaj album was released in 2023?",
+    "a": "Pink Friday 2",
+    "w": [
+      "Queen",
+      "The Pinkprint",
+      "Pink Friday: Roman Reloaded"
+    ],
+    "x": "It was her first studio album in five years."
+  },
+  {
+    "id": "alb087",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Nelly album came out in 2000?",
+    "a": "Country Grammar",
+    "w": [
+      "Nellyville",
+      "Suit",
+      "Brass Knuckles"
+    ],
+    "x": "It was his major-label debut from Saint Louis."
+  },
+  {
+    "id": "alb088",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Nelly album was released in 2002?",
+    "a": "Nellyville",
+    "w": [
+      "Country Grammar",
+      "Suit",
+      "Brass Knuckles"
+    ],
+    "x": "It included the hit Hot in Herre."
+  },
+  {
+    "id": "alb089",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Nelly album came out in 2004?",
+    "a": "Suit",
+    "w": [
+      "Nellyville",
+      "Country Grammar",
+      "Brass Knuckles"
+    ],
+    "x": "It was one of two albums he released that year."
+  },
+  {
+    "id": "alb090",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Ludacris album was released in 2000?",
+    "a": "Back for the First Time",
+    "w": [
+      "Word of Mouf",
+      "Chicken-n-Beer",
+      "Release Therapy"
+    ],
+    "x": "It was his major-label debut."
+  },
+  {
+    "id": "alb091",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Ludacris album came out in 2001?",
+    "a": "Word of Mouf",
+    "w": [
+      "Back for the First Time",
+      "Chicken-n-Beer",
+      "The Red Light District"
+    ],
+    "x": "It included the song Rollout."
+  },
+  {
+    "id": "alb092",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Ludacris album came out in 2003?",
+    "a": "Chicken-n-Beer",
+    "w": [
+      "Word of Mouf",
+      "Back for the First Time",
+      "The Red Light District"
+    ],
+    "x": "It included the hit Stand Up."
+  },
+  {
+    "id": "alb093",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Travis Scott album was released in 2015?",
+    "a": "Rodeo",
+    "w": [
+      "Days Before Rodeo",
+      "Birds in the Trap Sing McKnight",
+      "Astroworld"
+    ],
+    "x": "It was his first studio album."
+  },
+  {
+    "id": "alb094",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Travis Scott mixtape came out in 2014?",
+    "a": "Days Before Rodeo",
+    "w": [
+      "Rodeo",
+      "Astroworld",
+      "JackBoys"
+    ],
+    "x": "It preceded his debut studio album."
+  },
+  {
+    "id": "alb095",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Travis Scott album came out in 2016?",
+    "a": "Birds in the Trap Sing McKnight",
+    "w": [
+      "Rodeo",
+      "Astroworld",
+      "JackBoys"
+    ],
+    "x": "It included the song Goosebumps."
+  },
+  {
+    "id": "alb096",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Travis Scott album was released in 2018?",
+    "a": "Astroworld",
+    "w": [
+      "Rodeo",
+      "Birds in the Trap Sing McKnight",
+      "JackBoys"
+    ],
+    "x": "Astroworld included the hit Sicko Mode."
+  },
+  {
+    "id": "alb097",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Travis Scott album came out in 2019?",
+    "a": "JackBoys",
+    "w": [
+      "Astroworld",
+      "Rodeo",
+      "Birds in the Trap Sing McKnight"
+    ],
+    "x": "It was a compilation released by his Cactus Jack label."
+  },
+  {
+    "id": "alb098",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Cardi B album came out in 2018?",
+    "a": "Invasion of Privacy",
+    "w": [
+      "Bodak Yellow",
+      "Good News",
+      "Scarlet"
+    ],
+    "x": "It won the Grammy for Best Rap Album."
+  },
+  {
+    "id": "alb099",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Megan Thee Stallion album was released in 2020?",
+    "a": "Good News",
+    "w": [
+      "Tina Snow",
+      "Traumazine",
+      "Megan"
+    ],
+    "x": "It included the Savage remix with Beyonce."
+  },
+  {
+    "id": "alb100",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Bad Bunny album came out in 2019?",
+    "a": "X 100PRE",
+    "w": [
+      "YHLQMDLG",
+      "Un Verano Sin Ti",
+      "Oasis"
+    ],
+    "x": "It was his debut studio album."
+  },
+  {
+    "id": "alb101",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Bad Bunny album was released in 2020?",
+    "a": "YHLQMDLG",
+    "w": [
+      "X 100PRE",
+      "El Ultimo Tour Del Mundo",
+      "Un Verano Sin Ti"
+    ],
+    "x": "It included the song Safaera."
+  },
+  {
+    "id": "alb102",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Bad Bunny album came out late in 2020?",
+    "a": "El Ultimo Tour Del Mundo",
+    "w": [
+      "YHLQMDLG",
+      "X 100PRE",
+      "Un Verano Sin Ti"
+    ],
+    "x": "It was the first Spanish-language album to top the Billboard 200."
+  },
+  {
+    "id": "alb103",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Bad Bunny album came out in 2022?",
+    "a": "Un Verano Sin Ti",
+    "w": [
+      "YHLQMDLG",
+      "X 100PRE",
+      "Nadie Sabe Lo Que Va a Pasar Manana"
+    ],
+    "x": "It won a Grammy for Best Latin Pop or Urban Album."
+  },
+  {
+    "id": "alb104",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Bad Bunny album was released in 2023?",
+    "a": "Nadie Sabe Lo Que Va a Pasar Mañana",
+    "w": [
+      "Un Verano Sin Ti",
+      "YHLQMDLG",
+      "X 100PRE"
+    ],
+    "x": "It was his third straight number one album."
+  },
+  {
+    "id": "alb105",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Bad Bunny album came out in 2025?",
+    "a": "Debi Tirar Mas Fotos",
+    "w": [
+      "Un Verano Sin Ti",
+      "YHLQMDLG",
+      "Nadie Sabe Lo Que Va a Pasar Manana"
+    ],
+    "x": "The title translates as I Should Have Taken More Photos."
+  },
+  {
+    "id": "alb106",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Tyler, the Creator album came out in 2019?",
+    "a": "IGOR",
+    "w": [
+      "Flower Boy",
+      "Cherry Bomb",
+      "CHROMAKOPIA"
+    ],
+    "x": "IGOR won the Grammy for Best Rap Album."
+  },
+  {
+    "id": "alb107",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Tyler, the Creator album was released in 2017?",
+    "a": "Flower Boy",
+    "w": [
+      "IGOR",
+      "Wolf",
+      "Call Me If You Get Lost"
+    ],
+    "x": "It included the song See You Again."
+  },
+  {
+    "id": "alb108",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Tyler, the Creator album came out in 2015?",
+    "a": "Cherry Bomb",
+    "w": [
+      "Flower Boy",
+      "Wolf",
+      "IGOR"
+    ],
+    "x": "It featured collaborations with established rappers."
+  },
+  {
+    "id": "alb109",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Tyler, the Creator album was released in 2013?",
+    "a": "Wolf",
+    "w": [
+      "Cherry Bomb",
+      "Flower Boy",
+      "IGOR"
+    ],
+    "x": "It was his third studio album."
+  },
+  {
+    "id": "alb110",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Tyler, the Creator album was released in 2021?",
+    "a": "Call Me If You Get Lost",
+    "w": [
+      "IGOR",
+      "Flower Boy",
+      "CHROMAKOPIA"
+    ],
+    "x": "It was his sixth studio album."
+  },
+  {
+    "id": "alb111",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Tyler, the Creator album came out in 2024?",
+    "a": "CHROMAKOPIA",
+    "w": [
+      "Call Me If You Get Lost",
+      "IGOR",
+      "Flower Boy"
+    ],
+    "x": "It followed his 2021 release."
+  },
+  {
+    "id": "alb112",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Frank Ocean album came out in 2012?",
+    "a": "channel ORANGE",
+    "w": [
+      "Blonde",
+      "Nostalgia, Ultra",
+      "Endless"
+    ],
+    "x": "It won a Grammy for Best Urban Contemporary Album."
+  },
+  {
+    "id": "alb113",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Frank Ocean album was released in 2016?",
+    "a": "Blonde",
+    "w": [
+      "channel ORANGE",
+      "Nostalgia, Ultra",
+      "Endless"
+    ],
+    "x": "It was released exclusively through Apple Music."
+  },
+  {
+    "id": "alb114",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Frank Ocean mixtape came out in 2011?",
+    "a": "Nostalgia, Ultra",
+    "w": [
+      "channel ORANGE",
+      "Blonde",
+      "Endless"
+    ],
+    "x": "It was his first widely heard project."
+  },
+  {
+    "id": "alb115",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Doja Cat album was released in 2019?",
+    "a": "Hot Pink",
+    "w": [
+      "Planet Her",
+      "Scarlet",
+      "Amala"
+    ],
+    "x": "It included the hit Say So."
+  },
+  {
+    "id": "alb116",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Doja Cat album came out in 2021?",
+    "a": "Planet Her",
+    "w": [
+      "Hot Pink",
+      "Scarlet",
+      "Amala"
+    ],
+    "x": "It included the songs Kiss Me More and Need to Know."
+  },
+  {
+    "id": "alb117",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Doja Cat album was released in 2023?",
+    "a": "Scarlet",
+    "w": [
+      "Hot Pink",
+      "Planet Her",
+      "Amala"
+    ],
+    "x": "It included the song Paint the Town Red."
+  },
+  {
+    "id": "alb118",
+    "l": "alb",
+    "d": 1,
+    "q": "Which A Tribe Called Quest album was released in 1990?",
+    "a": "The Low End Theory",
+    "w": [
+      "Midnight Marauders",
+      "Beats Rhymes & Life",
+      "People's Instinctive Travels"
+    ],
+    "x": "The album blended jazz samples with sharp rhymes."
+  },
+  {
+    "id": "alb119",
+    "l": "alb",
+    "d": 1,
+    "q": "Which A Tribe Called Quest album came out in 1993?",
+    "a": "Midnight Marauders",
+    "w": [
+      "The Low End Theory",
+      "Beats Rhymes & Life",
+      "People's Instinctive Travels"
+    ],
+    "x": "Its cover art featured the group's faces in a repeating pattern."
+  },
+  {
+    "id": "alb120",
+    "l": "alb",
+    "d": 2,
+    "q": "Which A Tribe Called Quest album was released in 1996?",
+    "a": "Beats Rhymes & Life",
+    "w": [
+      "The Low End Theory",
+      "Midnight Marauders",
+      "The Anthology"
+    ],
+    "x": "It was the group's fourth studio album."
+  },
+  {
+    "id": "alb121",
+    "l": "alb",
+    "d": 1,
+    "q": "Which De La Soul album came out in 1989?",
+    "a": "3 Feet High and Rising",
+    "w": [
+      "De La Soul Is Dead",
+      "Stakes Is High",
+      "AOI"
+    ],
+    "x": "The debut introduced their playful Daisies era."
+  },
+  {
+    "id": "alb122",
+    "l": "alb",
+    "d": 2,
+    "q": "Which De La Soul album was released in 1991?",
+    "a": "De La Soul Is Dead",
+    "w": [
+      "3 Feet High and Rising",
+      "Stakes Is High",
+      "AOI"
+    ],
+    "x": "The album deliberately shifted away from their earlier upbeat image."
+  },
+  {
+    "id": "alb123",
+    "l": "alb",
+    "d": 2,
+    "q": "Which De La Soul album came out in 2000?",
+    "a": "Stakes Is High",
+    "w": [
+      "3 Feet High and Rising",
+      "De La Soul Is Dead",
+      "AOI"
+    ],
+    "x": "The title track criticized commercial rap trends."
+  },
+  {
+    "id": "alb124",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Roots album came out in 1999?",
+    "a": "Things Fall Apart",
+    "w": [
+      "Illadelph Halflife",
+      "Do You Want More",
+      "Phrenology"
+    ],
+    "x": "It included the hit You Got Me."
+  },
+  {
+    "id": "alb125",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Roots album was released in 1996?",
+    "a": "Illadelph Halflife",
+    "w": [
+      "Things Fall Apart",
+      "Do You Want More",
+      "Phrenology"
+    ],
+    "x": "The title refers to Philadelphia."
+  },
+  {
+    "id": "alb126",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Goodie Mob album came out in 1995?",
+    "a": "Soul Food",
+    "w": [
+      "Still Standing",
+      "World Party",
+      "Dirty South Classics"
+    ],
+    "x": "It helped define the Atlanta sound of the mid-1990s."
+  },
+  {
+    "id": "alb127",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Goodie Mob album was released in 1998?",
+    "a": "Still Standing",
+    "w": [
+      "Soul Food",
+      "World Party",
+      "Dirty South Classics"
+    ],
+    "x": "It followed their acclaimed debut."
+  },
+  {
+    "id": "alb128",
+    "l": "alb",
+    "d": 3,
+    "q": "Which UGK album came out in 1996?",
+    "a": "Ridin' Dirty",
+    "w": [
+      "Too Hard to Swallow",
+      "Super Tight",
+      "Underground Kingz"
+    ],
+    "x": "It is regarded as a Southern classic."
+  },
+  {
+    "id": "alb129",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Geto Boys album was released in 1991?",
+    "a": "We Can't Be Stopped",
+    "w": [
+      "Grip It! On That Other Level",
+      "The Resurrection",
+      "Till Death Do Us Part"
+    ],
+    "x": "The album included the track Mind Playing Tricks on Me."
+  },
+  {
+    "id": "alb130",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Bone Thugs-n-Harmony album came out in 1995?",
+    "a": "E. 1999 Eternal",
+    "w": [
+      "Tha Crossroads",
+      "The Art of War",
+      "BTNHResurrection"
+    ],
+    "x": "It included the hit Tha Crossroads."
+  },
+  {
+    "id": "alb131",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Eric B. and Rakim album was released in 1987?",
+    "a": "Paid in Full",
+    "w": [
+      "Let the Rhythm Hit 'Em",
+      "Don't Sweat the Technique",
+      "Follow the Leader"
+    ],
+    "x": "Paid in Full is one of the most influential rap albums ever."
+  },
+  {
+    "id": "alb132",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Eric B. and Rakim album came out in 1990?",
+    "a": "Let the Rhythm Hit 'Em",
+    "w": [
+      "Paid in Full",
+      "Follow the Leader",
+      "Don't Sweat the Technique"
+    ],
+    "x": "It was the duo's third studio album."
+  },
+  {
+    "id": "alb133",
+    "l": "alb",
+    "d": 2,
+    "q": "Which EPMD album was released in 1988?",
+    "a": "Strictly Business",
+    "w": [
+      "Unfinished Business",
+      "Business as Usual",
+      "Back in Business"
+    ],
+    "x": "The title track became their signature song."
+  },
+  {
+    "id": "alb134",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Jungle Brothers album came out in 1988?",
+    "a": "Straight out the Jungle",
+    "w": [
+      "Done by the Forces of Nature",
+      "J Beez wit the Remedy",
+      "Raw Deluxe"
+    ],
+    "x": "It was one of the first albums by the Native Tongues collective."
+  },
+  {
+    "id": "alb135",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Cypress Hill album was released in 1993?",
+    "a": "Black Sunday",
+    "w": [
+      "Cypress Hill",
+      "Till Death Do Us Part",
+      "Skull & Bones"
+    ],
+    "x": "Black Sunday topped the Billboard 200."
+  },
+  {
+    "id": "alb136",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Onyx album came out in 1993?",
+    "a": "Bacdafucup",
+    "w": [
+      "All We Got Iz Us",
+      "Shut 'Em Down",
+      "Wakedafucup"
+    ],
+    "x": "It included the hit Slam."
+  },
+  {
+    "id": "alb137",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Ice Cube album was released in 1990?",
+    "a": "AmeriKKKa's Most Wanted",
+    "w": [
+      "Death Certificate",
+      "The Predator",
+      "Lethal Injection"
+    ],
+    "x": "It was Cube's first solo studio album."
+  },
+  {
+    "id": "alb138",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Ice Cube album came out in 1991?",
+    "a": "Death Certificate",
+    "w": [
+      "AmeriKKKa's Most Wanted",
+      "The Predator",
+      "Lethal Injection"
+    ],
+    "x": "It expanded on his socially charged commentary."
+  },
+  {
+    "id": "alb139",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Ice Cube album was released in 1992?",
+    "a": "The Predator",
+    "w": [
+      "AmeriKKKa's Most Wanted",
+      "Death Certificate",
+      "Lethal Injection"
+    ],
+    "x": "It was released during the Los Angeles riots."
+  },
+  {
+    "id": "alb140",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Missy Elliott album came out in 1997?",
+    "a": "Supa Dupa Fly",
+    "w": [
+      "Da Real World",
+      "Under Construction",
+      "The Cookbook"
+    ],
+    "x": "It was her debut studio album on The Goldmind."
+  },
+  {
+    "id": "alb141",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Missy Elliott album was released in 2002?",
+    "a": "Under Construction",
+    "w": [
+      "Supa Dupa Fly",
+      "Da Real World",
+      "The Cookbook"
+    ],
+    "x": "It included the hit Work It."
+  },
+  {
+    "id": "alb142",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Black Eyed Peas album came out in 2003?",
+    "a": "Elephunk",
+    "w": [
+      "Monkey Business",
+      "The E.N.D.",
+      "Bridging the Gap"
+    ],
+    "x": "It included the hit Where Is the Love."
+  },
+  {
+    "id": "alb143",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Black Eyed Peas album was released in 2005?",
+    "a": "Monkey Business",
+    "w": [
+      "Elephunk",
+      "The E.N.D.",
+      "Bridging the Gap"
+    ],
+    "x": "It included Don't Phunk with My Heart."
+  },
+  {
+    "id": "alb144",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Fergie album came out in 2007?",
+    "a": "The Dutchess",
+    "w": [
+      "Blackout",
+      "The E.N.D.",
+      "Elephunk"
+    ],
+    "x": "It included the hit Big Girls Don't Cry."
+  },
+  {
+    "id": "alb145",
+    "l": "alb",
+    "d": 3,
+    "q": "Which T-Pain album was released in 2005?",
+    "a": "Rappa Ternt Sanga",
+    "w": [
+      "Epiphany",
+      "Thr33 Ringz",
+      "Oblivion"
+    ],
+    "x": "It was his debut studio album."
+  },
+  {
+    "id": "alb146",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Game album came out in 2005?",
+    "a": "The Documentary",
+    "w": [
+      "Doctor's Advocate",
+      "The R.E.D. Album",
+      "Jesus Piece"
+    ],
+    "x": "It was his debut on Aftermath."
+  },
+  {
+    "id": "alb147",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Game album was released in 2006?",
+    "a": "Doctor's Advocate",
+    "w": [
+      "The Documentary",
+      "The R.E.D. Album",
+      "Jesus Piece"
+    ],
+    "x": "It was his second studio album."
+  },
+  {
+    "id": "alb148",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Rick Ross album came out in 2006?",
+    "a": "Port of Miami",
+    "w": [
+      "Trilla",
+      "Deeper Than Rap",
+      "Teflon Don"
+    ],
+    "x": "It was his major-label debut."
+  },
+  {
+    "id": "alb149",
+    "l": "alb",
+    "d": 3,
+    "q": "Which T.I. album was released in 2006?",
+    "a": "King",
+    "w": [
+      "Trap Muzik",
+      "Paper Trail",
+      "No Mercy"
+    ],
+    "x": "It included the hit What You Know."
+  },
+  {
+    "id": "alb150",
+    "l": "alb",
+    "d": 1,
+    "q": "Which T.I. album came out in 2008?",
+    "a": "Paper Trail",
+    "w": [
+      "King",
+      "Trap Muzik",
+      "No Mercy"
+    ],
+    "x": "It included the song Whatever You Like."
+  },
+  {
+    "id": "alb151",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Pitbull album was released in 2007?",
+    "a": "Rebelution",
+    "w": [
+      "El Mariel",
+      "Armando",
+      "Rebelution Reloaded"
+    ],
+    "x": "It included the hit I Know You Want Me."
+  },
+  {
+    "id": "alb152",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Akon album came out in 2004?",
+    "a": "Trouble",
+    "w": [
+      "Konvicted",
+      "Freedom",
+      "El Negreeto"
+    ],
+    "x": "It included the hit Lonely."
+  },
+  {
+    "id": "alb153",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Sean Paul album was released in 2002?",
+    "a": "Dutty Rock",
+    "w": [
+      "Stage One",
+      "The Trinity",
+      "Imperial Blaze"
+    ],
+    "x": "It included the hit Gimme the Light."
+  },
+  {
+    "id": "alb154",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Mos Def album came out in 1999?",
+    "a": "Black on Both Sides",
+    "w": [
+      "The New Danger",
+      "True Magic",
+      "Yancy Crew"
+    ],
+    "x": "It is regarded as one of his best works."
+  },
+  {
+    "id": "alb155",
+    "l": "alb",
+    "d": 3,
+    "q": "Which album did Black Star release in 1998?",
+    "a": "Mos Def & Talib Kweli Are Black Star",
+    "w": [
+      "Black on Both Sides",
+      "Quality",
+      "Reflection Eternal"
+    ],
+    "x": "The duo's only studio album was released on Rawkus."
+  },
+  {
+    "id": "alb156",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Common album came out in 1994?",
+    "a": "Resurrection",
+    "w": [
+      "Can I Borrow a Dollar",
+      "One Day It'll All Make Sense",
+      "Like Water for Chocolate"
+    ],
+    "x": "The album is a Chicago classic."
+  },
+  {
+    "id": "alb157",
+    "l": "alb",
+    "d": 3,
+    "q": "Which MF DOOM album came out in 1999?",
+    "a": "Operation: Doomsday",
+    "w": [
+      "Mm..Food",
+      "Take Me to Your Leader",
+      "Vaudeville Villain"
+    ],
+    "x": "It was his first solo album under the DOOM name."
+  },
+  {
+    "id": "alb158",
+    "l": "alb",
+    "d": 1,
+    "q": "Which MF DOOM album was released in 2004?",
+    "a": "Mm..Food",
+    "w": [
+      "Operation: Doomsday",
+      "Take Me to Your Leader",
+      "VVAQKRVDN"
+    ],
+    "x": "Its title and artwork reference a cereal box."
+  },
+  {
+    "id": "alb159",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Joey Bada$$ mixtape came out in 2012?",
+    "a": "1999",
+    "w": [
+      "B4.Da.$$",
+      "Summer Knights",
+      "All-Amerikkkan Bada$$"
+    ],
+    "x": "It brought him early attention as a Pro Era member."
+  },
+  {
+    "id": "alb160",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Vince Staples album came out in 2015?",
+    "a": "Summertime '06",
+    "w": [
+      "Big Fish Theory",
+      "FM!",
+      "Ramona Park Legend"
+    ],
+    "x": "It is a concept album about a single summer."
+  },
+  {
+    "id": "alb161",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Earl Sweatshirt album was released in 2013?",
+    "a": "Doris",
+    "w": [
+      "I Don't Like Shit",
+      "Village",
+      "Some Rap Songs"
+    ],
+    "x": "It was his debut studio album."
+  },
+  {
+    "id": "alb162",
+    "l": "alb",
+    "d": 1,
+    "q": "Which Little Simz album came out in 2021?",
+    "a": "Sometimes I Might Be Introvert",
+    "w": [
+      "Stillness in Wonderland",
+      "Grey Area",
+      "A Curious Situation"
+    ],
+    "x": "It earned wide critical acclaim and charted in the UK."
+  },
+  {
+    "id": "alb163",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Rapsody album was released in 2019?",
+    "a": "Eve",
+    "w": [
+      "Laila's Wisdom",
+      "Beauty and the Beat",
+      "The Idea of Beautiful"
+    ],
+    "x": "The album is named after influential women."
+  },
+  {
+    "id": "alb164",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Noname mixtape came out in 2016?",
+    "a": "Telefone",
+    "w": [
+      "Room 25",
+      "Duende",
+      "Prism"
+    ],
+    "x": "It was praised for its storytelling."
+  },
+  {
+    "id": "alb165",
+    "l": "alb",
+    "d": 3,
+    "q": "Which M.I.A. album came out in 2005?",
+    "a": "Arular",
+    "w": [
+      "Kala",
+      "Maya",
+      "Matangi"
+    ],
+    "x": "It was her debut studio album."
+  },
+  {
+    "id": "alb166",
+    "l": "alb",
+    "d": 3,
+    "q": "Which M.I.A. album was released in 2007?",
+    "a": "Kala",
+    "w": [
+      "Arular",
+      "Maya",
+      "Matangi"
+    ],
+    "x": "It included the hit Paper Planes."
+  },
+  {
+    "id": "alb167",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Nas album came out in 2002?",
+    "a": "God's Son",
+    "w": [
+      "Stillmatic",
+      "Nastradamus",
+      "Street's Disciple"
+    ],
+    "x": "It included the song Made You Look."
+  },
+  {
+    "id": "alb168",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Jay-Z album was released in 2007?",
+    "a": "American Gangster",
+    "w": [
+      "Kingdom Come",
+      "The Blueprint 3",
+      "Magna Carta Holy Grail"
+    ],
+    "x": "It was a concept album inspired by the film."
+  },
+  {
+    "id": "alb169",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Jay-Z album came out in 2013?",
+    "a": "Magna Carta Holy Grail",
+    "w": [
+      "American Gangster",
+      "Kingdom Come",
+      "4:44"
+    ],
+    "x": "It was released through a Samsung partnership."
+  },
+  {
+    "id": "alb170",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Eminem album came out in 2004?",
+    "a": "Encore",
+    "w": [
+      "The Eminem Show",
+      "Relapse",
+      "Recovery"
+    ],
+    "x": "It included the song Just Lose It."
+  },
+  {
+    "id": "alb171",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Eminem album was released in 2013?",
+    "a": "The Marshall Mathers LP 2",
+    "w": [
+      "Encore",
+      "Relapse",
+      "Recovery"
+    ],
+    "x": "It included the song Rap God."
+  },
+  {
+    "id": "alb172",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Lil Wayne album came out in 1999?",
+    "a": "Tha Block Is Hot",
+    "w": [
+      "Tha Carter",
+      "Tha Carter II",
+      "Lights Out"
+    ],
+    "x": "It was his debut studio album."
+  },
+  {
+    "id": "alb173",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Lil Wayne album was released in 2004?",
+    "a": "Tha Carter",
+    "w": [
+      "Tha Carter II",
+      "Tha Block Is Hot",
+      "Tha Carter III"
+    ],
+    "x": "It introduced his Carter album series."
+  },
+  {
+    "id": "alb174",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Drake album came out in 2023?",
+    "a": "For All the Dogs",
+    "w": [
+      "Scorpion",
+      "Views",
+      "Honestly Nevermind"
+    ],
+    "x": "It included the song First Person Shooter."
+  },
+  {
+    "id": "alb175",
+    "l": "alb",
+    "d": 3,
+    "q": "Which J. Cole mixtape came out in 2010?",
+    "a": "Friday Night Lights",
+    "w": [
+      "Cole World: The Sideline Story",
+      "2014 Forest Hills Drive",
+      "The Warm Up"
+    ],
+    "x": "It preceded his first studio album."
+  },
+  {
+    "id": "alb176",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Megan Thee Stallion album came out in 2022?",
+    "a": "Traumazine",
+    "w": [
+      "Good News",
+      "Tina Snow",
+      "Megan"
+    ],
+    "x": "It followed her 2020 debut album."
+  },
+  {
+    "id": "alb177",
+    "l": "alb",
+    "d": 3,
+    "q": "Which 50 Cent album was released in 2014?",
+    "a": "Animal Ambition",
+    "w": [
+      "Before I Self Destruct",
+      "The Massacre",
+      "Get Rich or Die Tryin'"
+    ],
+    "x": "It was his final studio album with G-Unit."
+  },
+  {
+    "id": "alb178",
+    "l": "alb",
+    "d": 2,
+    "q": "Which Salt-N-Pepa album came out in 1990?",
+    "a": "Blacks' Magic",
+    "w": [
+      "Hot, Cool & Vicious",
+      "Very Necessary",
+      "Brand New"
+    ],
+    "x": "It included the song Let's Talk About Sex."
+  },
+  {
+    "id": "alb179",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Queen Latifah album came out in 1989?",
+    "a": "All Hail the Queen",
+    "w": [
+      "Black Reign",
+      "Order in the Court",
+      "The Dana Owens Album"
+    ],
+    "x": "It was her debut studio album."
+  },
+  {
+    "id": "alb180",
+    "l": "alb",
+    "d": 3,
+    "q": "Which LL Cool J album came out in 1987?",
+    "a": "Bigger and Deffer",
+    "w": [
+      "Radio",
+      "Walking with a Panther",
+      "Mama Said Knock You Out"
+    ],
+    "x": "It included the hit I Need Love."
+  },
+  {
+    "id": "alb181",
+    "l": "alb",
+    "d": 3,
+    "q": "Which Beastie Boys album came out in 1998?",
+    "a": "Hello Nasty",
+    "w": [
+      "Ill Communication",
+      "Check Your Head",
+      "Paul's Boutique"
+    ],
+    "x": "It won a Grammy for Best Alternative Performance."
+  }
+]

@@ -1,0 +1,4773 @@
+[
+ {
+  "id": "lyr001",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1979 single 'Rapper's Delight'?",
+  "a": "Sugarhill Gang",
+  "w": [
+   "Run-D.M.C.",
+   "Grandmaster Flash & the Furious Five",
+   "The Sequence"
+  ],
+  "x": "The Sugarhill Gang's breakthrough single sampled Chic's 'Good Times' and reached the Top 10 in 1980."
+ },
+ {
+  "id": "lyr002",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which act performed the 1982 song 'The Message'?",
+  "a": "Grandmaster Flash & the Furious Five",
+  "w": [
+   "Sugarhill Gang",
+   "Run-D.M.C.",
+   "Public Enemy"
+  ],
+  "x": "The Message used stark street reporting and became one of the earliest socially conscious rap hits."
+ },
+ {
+  "id": "lyr003",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which group released the 1989 anthem 'Fight the Power'?",
+  "a": "Public Enemy",
+  "w": [
+   "N.W.A",
+   "Run-D.M.C.",
+   "Beastie Boys"
+  ],
+  "x": "Fight the Power was made for Spike Lee's film Do the Right Thing and samples the Isley Brothers."
+ },
+ {
+  "id": "lyr004",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper released the 1994 single 'Juicy'?",
+  "a": "The Notorious B.I.G.",
+  "w": [
+   "2Pac",
+   "Nas",
+   "Jay-Z"
+  ],
+  "x": "Juicy was the lead single from Biggie's debut album Ready to Die."
+ },
+ {
+  "id": "lyr005",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper's 1997 single 'Hypnotize' topped the US Hot 100?",
+  "a": "The Notorious B.I.G.",
+  "w": [
+   "2Pac",
+   "Dr. Dre",
+   "Snoop Dogg"
+  ],
+  "x": "Hypnotize reached number one after Biggie's death and became his first solo chart-topper."
+ },
+ {
+  "id": "lyr006",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 1993 single 'Dreams'?",
+  "a": "Gang Starr",
+  "w": [
+   "A Tribe Called Quest",
+   "De La Soul",
+   "Pete Rock & CL Smooth"
+  ],
+  "x": "Gang Starr's 'Dreams' appeared on the 1993 album Hard to Earn."
+ },
+ {
+  "id": "lyr007",
+  "l": "lyr",
+  "d": 1,
+  "q": "Who performed the 2002 single 'Lose Yourself'?",
+  "a": "Eminem",
+  "w": [
+   "50 Cent",
+   "Dr. Dre",
+   "Jay-Z"
+  ],
+  "x": "Lose Yourself was written for the film 8 Mile and won an Academy Award in 2003."
+ },
+ {
+  "id": "lyr008",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2001 single 'Get Ur Freak On'?",
+  "a": "Missy Elliott",
+  "w": [
+   "TLC",
+   "Destiny's Child",
+   "Lauryn Hill"
+  ],
+  "x": "Timbaland produced the track for Missy Elliott's album Miss E... So Addictive."
+ },
+ {
+  "id": "lyr009",
+  "l": "lyr",
+  "d": 3,
+  "q": "Who directed the 1994 music video for the Beastie Boys' 'Sabotage'?",
+  "a": "Spike Jonze",
+  "w": [
+   "David Fincher",
+   "Hype Williams",
+   "Michel Gondry"
+  ],
+  "x": "The video parodies 1970s police shows and became one of the group's most recognizable clips."
+ },
+ {
+  "id": "lyr010",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which duo recorded the 1992 single 'Nuthin' but a 'G' Thang'?",
+  "a": "Dr. Dre feat. Snoop Doggy Dogg",
+  "w": [
+   "Gang Starr feat. AZ",
+   "Pete Rock feat. CL Smooth",
+   "Eric B. feat. Rakim"
+  ],
+  "x": "The song introduced Snoop Doggy Dogg to a wide audience and appeared on The Chronic."
+ },
+ {
+  "id": "lyr011",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which singer released the 2003 crossover hit 'Crazy in Love'?",
+  "a": "Beyoncé",
+  "w": [
+   "Rihanna",
+   "Alicia Keys",
+   "Ashanti"
+  ],
+  "x": "Beyoncé's debut solo single features Jay-Z and interpolates a 1970 Chi-Lites recording."
+ },
+ {
+  "id": "lyr012",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1990 single 'Can I Kick It?'?",
+  "a": "A Tribe Called Quest",
+  "w": [
+   "De La Soul",
+   "Jungle Brothers",
+   "The Roots"
+  ],
+  "x": "The track's bass line draws from Lou Reed's 'Walk on the Wild Side'."
+ },
+ {
+  "id": "lyr013",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1989 single 'Me Myself and I'?",
+  "a": "De La Soul",
+  "w": [
+   "A Tribe Called Quest",
+   "Jungle Brothers",
+   "Black Sheep"
+  ],
+  "x": "It was a lead single from De La Soul's debut album 3 Feet High and Rising."
+ },
+ {
+  "id": "lyr014",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which duo released the 1987 single 'Paid in Full'?",
+  "a": "Eric B. and Rakim",
+  "w": [
+   "Gang Starr",
+   "Kool G Rap",
+   "Big Daddy Kane"
+  ],
+  "x": "Rakim's fluid rhyming over stripped-down James Brown breaks redefined MCing."
+ },
+ {
+  "id": "lyr015",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist recorded the 1992 tribute song 'They Reminisce Over You'?",
+  "a": "Pete Rock & CL Smooth",
+  "w": [
+   "Gang Starr",
+   "A Tribe Called Quest",
+   "De La Soul"
+  ],
+  "x": "The song honors Troy Dixon, a friend of the duo who died in 1992."
+ },
+ {
+  "id": "lyr016",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which act released the 1986 single 'Walk This Way' with Aerosmith?",
+  "a": "Run-D.M.C.",
+  "w": [
+   "Beastie Boys",
+   "LL Cool J",
+   "Public Enemy"
+  ],
+  "x": "Their remake of Aerosmith's 1975 rock song became a crossover hit and appeared on Raising Hell."
+ },
+ {
+  "id": "lyr017",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper released the 1985 debut album 'Radio'?",
+  "a": "LL Cool J",
+  "w": [
+   "Run-D.M.C.",
+   "Slick Rick",
+   "Big Daddy Kane"
+  ],
+  "x": "Radio was one of Def Jam's first full-length releases and included 'Rock the Bells'."
+ },
+ {
+  "id": "lyr018",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist recorded the 1988 single 'Children's Story'?",
+  "a": "Slick Rick",
+  "w": [
+   "Rakim",
+   "Big Daddy Kane",
+   "Kool Moe Dee"
+  ],
+  "x": "The storytelling single appeared on The Great Adventures of Slick Rick."
+ },
+ {
+  "id": "lyr019",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper released the 1990 single 'Mama Said Knock You Out'?",
+  "a": "LL Cool J",
+  "w": [
+   "Big Daddy Kane",
+   "Ice Cube",
+   "Rakim"
+  ],
+  "x": "Marley Marl produced the title track of LL Cool J's fourth album."
+ },
+ {
+  "id": "lyr020",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1988 album 'Straight Outta Compton'?",
+  "a": "N.W.A",
+  "w": [
+   "Public Enemy",
+   "Beastie Boys",
+   "Run-D.M.C."
+  ],
+  "x": "The album made Compton central to West Coast hip-hop and included 'Express Yourself'."
+ },
+ {
+  "id": "lyr021",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 1993 album 'Doggystyle'?",
+  "a": "Snoop Doggy Dogg",
+  "w": [
+   "Ice Cube",
+   "Dr. Dre",
+   "2Pac"
+  ],
+  "x": "Dr. Dre produced Snoop's debut, which debuted at number one on the Billboard 200."
+ },
+ {
+  "id": "lyr022",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper released the 1992 album 'The Chronic'?",
+  "a": "Dr. Dre",
+  "w": [
+   "Snoop Doggy Dogg",
+   "Ice Cube",
+   "Eazy-E"
+  ],
+  "x": "The Chronic popularized G-funk with Parliament-Funkadelic samples and a whining synth line."
+ },
+ {
+  "id": "lyr023",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which Ice Cube single looked back on an unusually trouble-free day?",
+  "a": "Ice Cube",
+  "w": [
+   "Dr. Dre",
+   "Snoop Doggy Dogg",
+   "2Pac"
+  ],
+  "x": "The laid-back track appeared on Ice Cube's 1992 album The Predator."
+ },
+ {
+  "id": "lyr024",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1993 album 'Enter the Wu-Tang (36 Chambers)'?",
+  "a": "Wu-Tang Clan",
+  "w": [
+   "Public Enemy",
+   "A Tribe Called Quest",
+   "N.W.A"
+  ],
+  "x": "The Staten Island group's debut introduced RZA's gritty kung fu-sampled production."
+ },
+ {
+  "id": "lyr025",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which Wu-Tang member released the 1994 album 'Tical'?",
+  "a": "Method Man",
+  "w": [
+   "Raekwon",
+   "Ghostface Killah",
+   "GZA"
+  ],
+  "x": "Tical included the single 'Bring the Pain' and established Method Man as a solo star."
+ },
+ {
+  "id": "lyr026",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper released the 1994 album 'Illmatic'?",
+  "a": "Nas",
+  "w": [
+   "Jay-Z",
+   "The Notorious B.I.G.",
+   "Common"
+  ],
+  "x": "Illmatic is widely regarded as one of the greatest East Coast hip-hop albums."
+ },
+ {
+  "id": "lyr027",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper released the 1994 album 'Ready to Die'?",
+  "a": "The Notorious B.I.G.",
+  "w": [
+   "Nas",
+   "2Pac",
+   "Jay-Z"
+  ],
+  "x": "Ready to Die introduced 'Juicy' and 'Big Poppa' and was his only studio album released in his lifetime."
+ },
+ {
+  "id": "lyr028",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper released the 1994 album 'Resurrection'?",
+  "a": "Common",
+  "w": [
+   "Nas",
+   "A Tribe Called Quest",
+   "Black Thought"
+  ],
+  "x": "Resurrection featured the metaphorical single 'I Used to Love H.E.R.'."
+ },
+ {
+  "id": "lyr029",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1991 album 'The Low End Theory'?",
+  "a": "A Tribe Called Quest",
+  "w": [
+   "De La Soul",
+   "Jungle Brothers",
+   "Wu-Tang Clan"
+  ],
+  "x": "The album paired jazz-rooted samples with crisp drums and included 'Check the Rhime'."
+ },
+ {
+  "id": "lyr030",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which duo released the 1992 album 'Mecca and the Soul Brother'?",
+  "a": "Pete Rock & CL Smooth",
+  "w": [
+   "Gang Starr",
+   "Eric B. and Rakim",
+   "EPMD"
+  ],
+  "x": "The album contained the tribute single 'They Reminisce Over You'."
+ },
+ {
+  "id": "lyr031",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1994 album 'Ill Communication'?",
+  "a": "Beastie Boys",
+  "w": [
+   "Public Enemy",
+   "Run-D.M.C.",
+   "N.W.A"
+  ],
+  "x": "Ill Communication contained 'Sabotage' and marked the group's return to rap-heavy tracks."
+ },
+ {
+  "id": "lyr032",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which duo released the 1996 album 'ATLiens'?",
+  "a": "OutKast",
+  "w": [
+   "Goodie Mob",
+   "UGK",
+   "Three 6 Mafia"
+  ],
+  "x": "ATLiens showcased the pair's more spacious Southern sound and included 'Elevators (Me & You)'."
+ },
+ {
+  "id": "lyr033",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1995 album 'Soul Food'?",
+  "a": "Goodie Mob",
+  "w": [
+   "OutKast",
+   "UGK",
+   "Three 6 Mafia"
+  ],
+  "x": "Soul Food helped establish Atlanta's Dirty South sound alongside OutKast."
+ },
+ {
+  "id": "lyr034",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which artist released the 1995 album 'Me Against the World'?",
+  "a": "2Pac",
+  "w": [
+   "The Notorious B.I.G.",
+   "Nas",
+   "Ice Cube"
+  ],
+  "x": "The album was recorded while Tupac faced legal troubles and topped the Billboard 200."
+ },
+ {
+  "id": "lyr035",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 1996 album 'All Eyez on Me'?",
+  "a": "2Pac",
+  "w": [
+   "The Notorious B.I.G.",
+   "Dr. Dre",
+   "Snoop Doggy Dogg"
+  ],
+  "x": "All Eyez on Me was a double album and included 'California Love'."
+ },
+ {
+  "id": "lyr036",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper released the 1997 album 'Life After Death'?",
+  "a": "The Notorious B.I.G.",
+  "w": [
+   "2Pac",
+   "Nas",
+   "Jay-Z"
+  ],
+  "x": "The double album was released weeks after Biggie's death and included 'Hypnotize'."
+ },
+ {
+  "id": "lyr037",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1993 album 'The Score'?",
+  "a": "The Fugees",
+  "w": [
+   "A Tribe Called Quest",
+   "De La Soul",
+   "The Roots"
+  ],
+  "x": "The Score included their cover of 'Killing Me Softly with His Song'."
+ },
+ {
+  "id": "lyr038",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 1998 album 'The Miseducation of Lauryn Hill'?",
+  "a": "Lauryn Hill",
+  "w": [
+   "Erykah Badu",
+   "Alicia Keys",
+   "Jill Scott"
+  ],
+  "x": "The album won five Grammys, including Album of the Year, in 1999."
+ },
+ {
+  "id": "lyr039",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1999 album 'FanMail'?",
+  "a": "TLC",
+  "w": [
+   "Destiny's Child",
+   "Salt-N-Pepa",
+   "SWV"
+  ],
+  "x": "FanMail included the number-one single 'No Scrubs'."
+ },
+ {
+  "id": "lyr040",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2001 album 'The Blueprint'?",
+  "a": "Jay-Z",
+  "w": [
+   "Nas",
+   "Kanye West",
+   "50 Cent"
+  ],
+  "x": "The Blueprint included 'Takeover' and production from Kanye West and Just Blaze."
+ },
+ {
+  "id": "lyr041",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2004 album 'The Black Album'?",
+  "a": "Jay-Z",
+  "w": [
+   "Nas",
+   "Kanye West",
+   "Eminem"
+  ],
+  "x": "Jay-Z framed it as a farewell album and held a farewell concert at Madison Square Garden."
+ },
+ {
+  "id": "lyr042",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2003 album 'Get Rich or Die Tryin''?",
+  "a": "50 Cent",
+  "w": [
+   "Eminem",
+   "Dr. Dre",
+   "Jay-Z"
+  ],
+  "x": "The album included 'In da Club' and '21 Questions'."
+ },
+ {
+  "id": "lyr043",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2002 album 'The Eminem Show'?",
+  "a": "Eminem",
+  "w": [
+   "50 Cent",
+   "D12",
+   "Dr. Dre"
+  ],
+  "x": "The Eminem Show included 'Without Me' and was one of the best-selling albums of 2002."
+ },
+ {
+  "id": "lyr044",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which duo released the 2000 album 'Stankonia'?",
+  "a": "OutKast",
+  "w": [
+   "Goodie Mob",
+   "UGK",
+   "Three 6 Mafia"
+  ],
+  "x": "Stankonia contained the Grammy-winning single 'Ms. Jackson'."
+ },
+ {
+  "id": "lyr045",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2003 album 'Speakerboxxx/The Love Below'?",
+  "a": "OutKast",
+  "w": [
+   "Goodie Mob",
+   "T.I.",
+   "Lil Wayne"
+  ],
+  "x": "The double album included 'Hey Ya!' and won the 2004 Grammy for Album of the Year."
+ },
+ {
+  "id": "lyr046",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2003 album 'College Dropout'?",
+  "a": "Kanye West",
+  "w": [
+   "Common",
+   "Nas",
+   "Jay-Z"
+  ],
+  "x": "'Through the Wire' was recorded after Kanye West's jaw was wired shut following a 2002 car crash."
+ },
+ {
+  "id": "lyr047",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2005 album 'Late Registration'?",
+  "a": "Kanye West",
+  "w": [
+   "Common",
+   "Nas",
+   "Jay-Z"
+  ],
+  "x": "Late Registration included the number-one single 'Gold Digger' featuring Jamie Foxx."
+ },
+ {
+  "id": "lyr048",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2007 album 'Graduation'?",
+  "a": "Kanye West",
+  "w": [
+   "Common",
+   "Nas",
+   "Lupe Fiasco"
+  ],
+  "x": "Graduation contained 'Stronger', built around a Daft Punk sample."
+ },
+ {
+  "id": "lyr049",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2010 album 'My Beautiful Dark Twisted Fantasy'?",
+  "a": "Kanye West",
+  "w": [
+   "Jay-Z",
+   "Common",
+   "Kid Cudi"
+  ],
+  "x": "The album included 'Power' and 'Runaway!' and was widely acclaimed."
+ },
+ {
+  "id": "lyr050",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artists released the 2011 album 'Watch the Throne'?",
+  "a": "Jay-Z and Kanye West",
+  "w": [
+   "Jay-Z and Nas",
+   "Kanye West and Common",
+   "Jay-Z and Eminem"
+  ],
+  "x": "The collaboration album included 'Otis', built around an Otis Redding sample."
+ },
+ {
+  "id": "lyr051",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 1998 album 'Da Real World'?",
+  "a": "Missy Elliott",
+  "w": [
+   "TLC",
+   "Destiny's Child",
+   "Lauryn Hill"
+  ],
+  "x": "Da Real World followed Missy Elliott's debut Supa Dupa Fly."
+ },
+ {
+  "id": "lyr052",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2002 album 'Under Construction'?",
+  "a": "Missy Elliott",
+  "w": [
+   "TLC",
+   "Destiny's Child",
+   "Aaliyah"
+  ],
+  "x": "Under Construction contained the single 'Work It'."
+ },
+ {
+  "id": "lyr053",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2005 album 'The Cookbook'?",
+  "a": "Missy Elliott",
+  "w": [
+   "TLC",
+   "Aaliyah",
+   "Ciara"
+  ],
+  "x": "The Cookbook included 'Lose Control', featuring Ciara and Fatman Scoop."
+ },
+ {
+  "id": "lyr054",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 1998 single 'Are You That Somebody?'?",
+  "a": "Aaliyah",
+  "w": [
+   "TLC",
+   "Missy Elliott",
+   "Destiny's Child"
+  ],
+  "x": "Timbaland produced the track for the Dr. Dolittle soundtrack."
+ },
+ {
+  "id": "lyr055",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which Aaliyah single became the first song to top the Billboard Hot 100 on airplay alone?",
+  "a": "Try Again",
+  "w": [
+   "Are You That Somebody?",
+   "One in a Million",
+   "Rock the Boat"
+  ],
+  "x": "Try Again reached number one in 2000 and appeared on the Romeo + Juliet soundtrack."
+ },
+ {
+  "id": "lyr056",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which group released the 1994 single 'Creep'?",
+  "a": "TLC",
+  "w": [
+   "Destiny's Child",
+   "SWV",
+   "Salt-N-Pepa"
+  ],
+  "x": "Creep was the lead single from TLC's album CrazySexyCool."
+ },
+ {
+  "id": "lyr057",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which group released the 1995 single 'Waterfalls'?",
+  "a": "TLC",
+  "w": [
+   "Destiny's Child",
+   "SWV",
+   "En Vogue"
+  ],
+  "x": "Waterfalls was a number-one single from CrazySexyCool."
+ },
+ {
+  "id": "lyr058",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which group released the 1999 single 'Say My Name'?",
+  "a": "Destiny's Child",
+  "w": [
+   "TLC",
+   "SWV",
+   "En Vogue"
+  ],
+  "x": "Say My Name appeared on The Writing's on the Wall and won two Grammys."
+ },
+ {
+  "id": "lyr059",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which singer released the 1998 single 'Doo Wop (That Thing)'?",
+  "a": "Lauryn Hill",
+  "w": [
+   "Erykah Badu",
+   "Alicia Keys",
+   "Macy Gray"
+  ],
+  "x": "The song was the lead single from The Miseducation of Lauryn Hill and topped the Hot 100."
+ },
+ {
+  "id": "lyr060",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which group released the 1996 cover of 'Killing Me Softly with His Song'?",
+  "a": "The Fugees",
+  "w": [
+   "A Tribe Called Quest",
+   "De La Soul",
+   "The Roots"
+  ],
+  "x": "Their version topped charts in many countries and appeared on The Score."
+ },
+ {
+  "id": "lyr061",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which singer released the 1997 single 'On & On'?",
+  "a": "Erykah Badu",
+  "w": [
+   "Lauryn Hill",
+   "Jill Scott",
+   "India.Arie"
+  ],
+  "x": "On & On was the lead single from Baduizm and introduced her jazz-inflected style."
+ },
+ {
+  "id": "lyr062",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which singer released the 2000 single 'The Way'?",
+  "a": "Jill Scott",
+  "w": [
+   "Erykah Badu",
+   "Lauryn Hill",
+   "India.Arie"
+  ],
+  "x": "The Way appeared on Who Is Jill Scott? Words and Sounds Vol. 1."
+ },
+ {
+  "id": "lyr063",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which singer released the 2001 single 'Video'?",
+  "a": "India.Arie",
+  "w": [
+   "Erykah Badu",
+   "Jill Scott",
+   "Alicia Keys"
+  ],
+  "x": "Video appeared on her debut album Acoustic Soul."
+ },
+ {
+  "id": "lyr064",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which duo released the 2006 single 'Crazy'?",
+  "a": "Gnarls Barkley",
+  "w": [
+   "The Black Eyed Peas",
+   "OutKast",
+   "The Roots"
+  ],
+  "x": "Crazy was the first download-only single to reach number one in the UK."
+ },
+ {
+  "id": "lyr065",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which group released the 2009 single 'I Gotta Feeling'?",
+  "a": "The Black Eyed Peas",
+  "w": [
+   "Gnarls Barkley",
+   "OutKast",
+   "The Roots"
+  ],
+  "x": "I Gotta Feeling topped the Billboard Hot 100 for 14 weeks in 2009."
+ },
+ {
+  "id": "lyr066",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2007 single 'Low' featuring T-Pain?",
+  "a": "Flo Rida",
+  "w": [
+   "T-Pain",
+   "Soulja Boy",
+   "Lil Jon"
+  ],
+  "x": "Low topped the Hot 100 and appeared on Flo Rida's debut Mail on Sunday."
+ },
+ {
+  "id": "lyr067",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which artist released the 2007 single 'Buy U a Drank'?",
+  "a": "T-Pain",
+  "w": [
+   "Flo Rida",
+   "Soulja Boy",
+   "Lil Jon"
+  ],
+  "x": "The single featured Yung Joc and appeared on T-Pain's album Epiphany."
+ },
+ {
+  "id": "lyr068",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which artist released the 2007 viral hit 'Crank That'?",
+  "a": "Soulja Boy",
+  "w": [
+   "T-Pain",
+   "Flo Rida",
+   "Lil Jon"
+  ],
+  "x": "Its accompanying dance helped the song spread on YouTube and reach number one."
+ },
+ {
+  "id": "lyr069",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which group released the 2002 single 'Get Low'?",
+  "a": "Lil Jon & The East Side Boyz",
+  "w": [
+   "OutKast",
+   "Three 6 Mafia",
+   "UGK"
+  ],
+  "x": "Get Low featured the Ying Yang Twins and became a crunk anthem."
+ },
+ {
+  "id": "lyr070",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2017 single 'Bodak Yellow'?",
+  "a": "Cardi B",
+  "w": [
+   "Nicki Minaj",
+   "Iggy Azalea",
+   "Megan Thee Stallion"
+  ],
+  "x": "Bodak Yellow topped the Billboard Hot 100 in 2017 and appeared on Invasion of Privacy."
+ },
+ {
+  "id": "lyr071",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2018 single 'I Like It' with Bad Bunny and J Balvin?",
+  "a": "Cardi B",
+  "w": [
+   "Nicki Minaj",
+   "Iggy Azalea",
+   "Megan Thee Stallion"
+  ],
+  "x": "I Like It appeared on Invasion of Privacy and sampled a Latin boogaloo record."
+ },
+ {
+  "id": "lyr072",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2011 single 'Super Bass'?",
+  "a": "Nicki Minaj",
+  "w": [
+   "Iggy Azalea",
+   "Cardi B",
+   "Rihanna"
+  ],
+  "x": "Super Bass appeared on Nicki Minaj's debut album Pink Friday."
+ },
+ {
+  "id": "lyr073",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2014 single 'Anaconda'?",
+  "a": "Nicki Minaj",
+  "w": [
+   "Iggy Azalea",
+   "Cardi B",
+   "Megan Thee Stallion"
+  ],
+  "x": "Anaconda sampled Sir Mix-a-Lot's 1992 hit 'Baby Got Back'."
+ },
+ {
+  "id": "lyr074",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2014 single 'Fancy' featuring Charli XCX?",
+  "a": "Iggy Azalea",
+  "w": [
+   "Nicki Minaj",
+   "Cardi B",
+   "Megan Thee Stallion"
+  ],
+  "x": "Fancy topped the Billboard Hot 100 for seven weeks in 2014."
+ },
+ {
+  "id": "lyr075",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which artist released the 2019 single 'Old Town Road'?",
+  "a": "Lil Nas X",
+  "w": [
+   "Post Malone",
+   "Travis Scott",
+   "Migos"
+  ],
+  "x": "With Billy Ray Cyrus, the song spent a record 19 weeks at number one on the Hot 100."
+ },
+ {
+  "id": "lyr076",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which singer released the 2020 single 'Say So'?",
+  "a": "Doja Cat",
+  "w": [
+   "Megan Thee Stallion",
+   "Cardi B",
+   "Nicki Minaj"
+  ],
+  "x": "Say So appeared on Hot Pink and became a number-one hit after a remix with Nicki Minaj."
+ },
+ {
+  "id": "lyr077",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2020 remix of 'Savage' with Beyoncé?",
+  "a": "Megan Thee Stallion",
+  "w": [
+   "Cardi B",
+   "Nicki Minaj",
+   "Doja Cat"
+  ],
+  "x": "The remix helped Megan Thee Stallion earn her first Hot 100 number one."
+ },
+ {
+  "id": "lyr078",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2019 single 'Welcome to the Party'?",
+  "a": "Pop Smoke",
+  "w": [
+   "Chief Keef",
+   "Lil Tjay",
+   "NBA YoungBoy"
+  ],
+  "x": "Welcome to the Party introduced Pop Smoke's deep-voiced Brooklyn drill style."
+ },
+ {
+  "id": "lyr079",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which rapper released the 2019 single 'Dior'?",
+  "a": "Pop Smoke",
+  "w": [
+   "Chief Keef",
+   "Lil Tjay",
+   "NBA YoungBoy"
+  ],
+  "x": "Dior appeared on the mixtape Meet the Woo and became one of Pop Smoke's signature tracks."
+ },
+ {
+  "id": "lyr080",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2012 single 'I Don't Like'?",
+  "a": "Chief Keef",
+  "w": [
+   "Pop Smoke",
+   "Lil Reese",
+   "Young Jeezy"
+  ],
+  "x": "The track featured Lil Reese and helped bring Chicago drill to a national audience."
+ },
+ {
+  "id": "lyr081",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper released the 2018 single 'God's Plan'?",
+  "a": "Drake",
+  "w": [
+   "Kendrick Lamar",
+   "Travis Scott",
+   "Post Malone"
+  ],
+  "x": "God's Plan debuted at number one on the Billboard Hot 100 and appeared on Scorpion."
+ },
+ {
+  "id": "lyr082",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2016 single 'One Dance'?",
+  "a": "Drake",
+  "w": [
+   "Kendrick Lamar",
+   "Travis Scott",
+   "Rihanna"
+  ],
+  "x": "One Dance featured Wizkid and Kyla and topped charts in several countries."
+ },
+ {
+  "id": "lyr083",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2015 single 'Hotline Bling'?",
+  "a": "Drake",
+  "w": [
+   "Kendrick Lamar",
+   "Travis Scott",
+   "Post Malone"
+  ],
+  "x": "Its minimalist video became a widespread internet meme."
+ },
+ {
+  "id": "lyr084",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which rapper released the 2017 single 'HUMBLE.'?",
+  "a": "Kendrick Lamar",
+  "w": [
+   "Drake",
+   "J. Cole",
+   "Travis Scott"
+  ],
+  "x": "HUMBLE. appeared on DAMN. and became Kendrick Lamar's first number-one single as a lead artist."
+ },
+ {
+  "id": "lyr085",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which Kendrick Lamar album won the 2018 Pulitzer Prize for Music?",
+  "a": "DAMN.",
+  "w": [
+   "To Pimp a Butterfly",
+   "good kid, m.A.A.d city",
+   "Section.80"
+  ],
+  "x": "DAMN. was the first non-classical or jazz work to win the award."
+ },
+ {
+  "id": "lyr086",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2015 single 'Alright'?",
+  "a": "Kendrick Lamar",
+  "w": [
+   "Drake",
+   "J. Cole",
+   "Travis Scott"
+  ],
+  "x": "Alright appeared on To Pimp a Butterfly and became a protest anthem."
+ },
+ {
+  "id": "lyr087",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2012 single 'Swimming Pools (Drank)'?",
+  "a": "Kendrick Lamar",
+  "w": [
+   "Drake",
+   "J. Cole",
+   "Tyler, the Creator"
+  ],
+  "x": "The track appeared on good kid, m.A.A.d city."
+ },
+ {
+  "id": "lyr088",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2024 single 'Not Like Us'?",
+  "a": "Kendrick Lamar",
+  "w": [
+   "Drake",
+   "J. Cole",
+   "Travis Scott"
+  ],
+  "x": "The track was a centerpiece of Kendrick Lamar's 2024 feud with Drake."
+ },
+ {
+  "id": "lyr089",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2018 single 'SICKO MODE'?",
+  "a": "Travis Scott",
+  "w": [
+   "Post Malone",
+   "Migos",
+   "Future"
+  ],
+  "x": "SICKO MODE appeared on Astroworld and featured Drake."
+ },
+ {
+  "id": "lyr090",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which group released the 2016 single 'Bad and Boujee'?",
+  "a": "Migos",
+  "w": [
+   "Future",
+   "Travis Scott",
+   "Post Malone"
+  ],
+  "x": "The single featured Lil Uzi Vert and topped the Hot 100 in early 2017."
+ },
+ {
+  "id": "lyr091",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 2017 single 'Rockstar' with 21 Savage?",
+  "a": "Post Malone",
+  "w": [
+   "Travis Scott",
+   "Migos",
+   "Future"
+  ],
+  "x": "Rockstar appeared on beerbongs & bentleys and spent multiple weeks at number one."
+ },
+ {
+  "id": "lyr092",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which artists released the 2011 single 'Otis'?",
+  "a": "Jay-Z and Kanye West",
+  "w": [
+   "Kanye West and Common",
+   "Jay-Z and Nas",
+   "Jay-Z and Eminem"
+  ],
+  "x": "Otis sampled Otis Redding's 'Try a Little Tenderness' and appeared on Watch the Throne."
+ },
+ {
+  "id": "lyr093",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which Beyoncé single features Jay-Z and interpolates a Chi-Lites recording?",
+  "a": "Crazy in Love",
+  "w": [
+   "Single Ladies (Put a Ring on It)",
+   "Formation",
+   "Umbrella"
+  ],
+  "x": "Released in 2003, it was the lead single from Dangerously in Love."
+ },
+ {
+  "id": "lyr094",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 1999 single 'Hard Knock Life (Ghetto Anthem)'?",
+  "a": "Jay-Z",
+  "w": [
+   "Nas",
+   "DMX",
+   "Ja Rule"
+  ],
+  "x": "The track sampled the musical Annie and appeared on Vol. 3... Life and Times of S. Carter."
+ },
+ {
+  "id": "lyr095",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 1996 single 'If I Ruled the World (Imagine That)'?",
+  "a": "Nas",
+  "w": [
+   "Jay-Z",
+   "The Notorious B.I.G.",
+   "2Pac"
+  ],
+  "x": "The single featured Lauryn Hill and appeared on It Was Written."
+ },
+ {
+  "id": "lyr096",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which rapper released the 1994 single 'The World Is Yours'?",
+  "a": "Nas",
+  "w": [
+   "Jay-Z",
+   "The Notorious B.I.G.",
+   "Common"
+  ],
+  "x": "The track appeared on Nas's debut album Illmatic."
+ },
+ {
+  "id": "lyr097",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which song opens the album Illmatic?",
+  "a": "N.Y. State of Mind",
+  "w": [
+   "It's Mine",
+   "One Time 4 Your Mind",
+   "Life's a Bitch"
+  ],
+  "x": "The song is one of the cornerstones of Illmatic."
+ },
+ {
+  "id": "lyr098",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which artist released the 1995 single 'One More Chance'?",
+  "a": "The Notorious B.I.G.",
+  "w": [
+   "Nas",
+   "2Pac",
+   "Jay-Z"
+  ],
+  "x": "The remix featured Faith Evans and 112 and became one of Biggie's best-known singles."
+ },
+ {
+  "id": "lyr099",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1997 Biggie single sampled Diana Ross's 'I'm Coming Out'?",
+  "a": "Mo Money Mo Problems",
+  "w": [
+   "Hypnotize",
+   "Big Poppa",
+   "Juicy"
+  ],
+  "x": "The track featured Puff Daddy and Mase and reached number one on the Hot 100."
+ },
+ {
+  "id": "lyr100",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1994 Biggie single sampled the Isley Brothers' 'Between the Lines'?",
+  "a": "Big Poppa",
+  "w": [
+   "Juicy",
+   "One More Chance",
+   "Who Shot Ya?"
+  ],
+  "x": "Big Poppa appeared on Ready to Die and became one of his signature songs."
+ },
+ {
+  "id": "lyr101",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1995 2Pac single was dedicated to his mother Afeni Shakur?",
+  "a": "Dear Mama",
+  "w": [
+   "California Love",
+   "Changes",
+   "I Ain't Mad at Cha"
+  ],
+  "x": "Dear Mama appeared on Me Against the World."
+ },
+ {
+  "id": "lyr102",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1995 single paired 2Pac with Dr. Dre and Roger Troutman?",
+  "a": "California Love",
+  "w": [
+   "How Do U Want It",
+   "Dear Mama",
+   "Changes"
+  ],
+  "x": "The track's talk-box hook came from Roger Troutman and it topped the Hot 100."
+ },
+ {
+  "id": "lyr103",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1996 single by 2Pac was a double A-side with 'California Love'?",
+  "a": "How Do U Want It",
+  "w": [
+   "Dear Mama",
+   "Changes",
+   "I Ain't Mad at Cha"
+  ],
+  "x": "The single featured K-Ci and JoJo and appeared on All Eyez on Me."
+ },
+ {
+  "id": "lyr104",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1998 posthumous 2Pac single featured Val Young?",
+  "a": "Changes",
+  "w": [
+   "Dear Mama",
+   "California Love",
+   "Hail Mary"
+  ],
+  "x": "Changes was released as a single from the compilation Greatest Hits."
+ },
+ {
+  "id": "lyr105",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which DMX single appeared on It's Dark and Hell Is Hot?",
+  "a": "Ruff Ryders' Anthem",
+  "w": [
+   "X Gon' Give It to Ya",
+   "How's It Goin' Down",
+   "Get at Me Dog"
+  ],
+  "x": "The track became DMX's signature song and helped establish Ruff Ryders."
+ },
+ {
+  "id": "lyr106",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 2003 DMX single appeared on the Cradle 2 the Grave soundtrack?",
+  "a": "X Gon' Give It to Ya",
+  "w": [
+   "Ruff Ryders' Anthem",
+   "Get at Me Dog",
+   "How's It Goin' Down"
+  ],
+  "x": "The aggressive track was released as the soundtrack's lead single."
+ },
+ {
+  "id": "lyr107",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2001 single by Ja Rule featured Ashanti?",
+  "a": "Always on Time",
+  "w": [
+   "Furious",
+   "Put It on Me",
+   "Holla Holla"
+  ],
+  "x": "Always on Time appeared on Ja Rule's album Pain Is Love."
+ },
+ {
+  "id": "lyr108",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2002 single was Ashanti's breakthrough hit?",
+  "a": "Foolish",
+  "w": [
+   "Always on Time",
+   "What's Luv?",
+   "One More Chance"
+  ],
+  "x": "Foolish was the lead single from her self-titled debut album."
+ },
+ {
+  "id": "lyr109",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2002 Nelly single was produced by Pharrell Williams?",
+  "a": "Hot in Herre",
+  "w": [
+   "Ride wit Me",
+   "Country Grammar",
+   "Dilemma"
+  ],
+  "x": "Hot in Herre was the lead single from Nellyville and topped the Hot 100."
+ },
+ {
+  "id": "lyr110",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 2000 single by Nelly featured City Spud?",
+  "a": "Ride wit Me",
+  "w": [
+   "Hot in Herre",
+   "Dilemma",
+   "Over and Over"
+  ],
+  "x": "Ride wit Me appeared on Nelly's debut album Country Grammar."
+ },
+ {
+  "id": "lyr111",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2004 single by Snoop Dogg featured Pharrell?",
+  "a": "Drop It Like It's Hot",
+  "w": [
+   "Gin and Juice",
+   "Beautiful",
+   "Who Am I (What's My Name)?"
+  ],
+  "x": "The track appeared on R&G (Rhythm & Gangsta): The Masterpiece and hit number one."
+ },
+ {
+  "id": "lyr112",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which single introduced Snoop Doggy Dogg as a solo artist?",
+  "a": "Who Am I (What's My Name)?",
+  "w": [
+   "Gin and Juice",
+   "Drop It Like It's Hot",
+   "Still D.R.E."
+  ],
+  "x": "It appeared on Dr. Dre's The Chronic and on Snoop's debut Doggystyle."
+ },
+ {
+  "id": "lyr113",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1992 Gang Starr single featured Nice & Smooth?",
+  "a": "DWYCK",
+  "w": [
+   "Mass Appeal",
+   "Dreams",
+   "Full Clip"
+  ],
+  "x": "DWYCK appeared on the album Daily Operation."
+ },
+ {
+  "id": "lyr114",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1994 Gang Starr single appeared on Hard to Earn?",
+  "a": "Mass Appeal",
+  "w": [
+   "DWYCK",
+   "Dreams",
+   "Full Clip"
+  ],
+  "x": "Mass Appeal became one of Gang Starr's best-known tracks."
+ },
+ {
+  "id": "lyr115",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2000 Dr. Dre single featured Snoop Dogg and appeared on 2001?",
+  "a": "The Next Episode",
+  "w": [
+   "Still D.R.E.",
+   "Forgot About Dre",
+   "California Love"
+  ],
+  "x": "The track appeared on Dre's 2001 album and became a West Coast staple."
+ },
+ {
+  "id": "lyr116",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1999 Dr. Dre single featured Eminem?",
+  "a": "Forgot About Dre",
+  "w": [
+   "Still D.R.E.",
+   "The Next Episode",
+   "Crack a Bottle"
+  ],
+  "x": "The single appeared on 2001 and paired Dre with Eminem."
+ },
+ {
+  "id": "lyr117",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1999 Eminem single was his mainstream breakthrough?",
+  "a": "My Name Is",
+  "w": [
+   "Stan",
+   "The Real Slim Shady",
+   "Lose Yourself"
+  ],
+  "x": "My Name Is appeared on The Slim Shady LP, produced largely by Dr. Dre."
+ },
+ {
+  "id": "lyr118",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2000 Eminem single sampled Dido's 'Thank You'?",
+  "a": "Stan",
+  "w": [
+   "My Name Is",
+   "The Real Slim Shady",
+   "Without Me"
+  ],
+  "x": "The song's title gave rise to the term 'stan' for an obsessive fan."
+ },
+ {
+  "id": "lyr119",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which 2002 Eminem single was the theme of the film 8 Mile?",
+  "a": "Lose Yourself",
+  "w": [
+   "Without Me",
+   "My Name Is",
+   "Stan"
+  ],
+  "x": "It won the Academy Award for Best Original Song in 2003."
+ },
+ {
+  "id": "lyr120",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2004 Eminem single was written about his daughter Hailie?",
+  "a": "Mockingbird",
+  "w": [
+   "Just Lose It",
+   "Lose Yourself",
+   "Stan"
+  ],
+  "x": "Mockingbird appeared on the album Encore."
+ },
+ {
+  "id": "lyr121",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2010 Eminem single was the lead track from Recovery?",
+  "a": "Not Afraid",
+  "w": [
+   "Love the Way You Lie",
+   "Berzerk",
+   "Rap God"
+  ],
+  "x": "Not Afraid was released as the first single from Recovery."
+ },
+ {
+  "id": "lyr122",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2010 Eminem single with Rihanna appeared on Recovery?",
+  "a": "Love the Way You Lie",
+  "w": [
+   "Not Afraid",
+   "Berzerk",
+   "Rap God"
+  ],
+  "x": "The track was one of the biggest global hits of 2010."
+ },
+ {
+  "id": "lyr123",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 2001 D12 single was released from the album Devil's Night?",
+  "a": "Purple Pills",
+  "w": [
+   "Forgot About Dre",
+   "My Name Is",
+   "The Real Slim Shady"
+  ],
+  "x": "D12 was Eminem's Detroit crew, and Devil's Night was their debut album."
+ },
+ {
+  "id": "lyr124",
+  "l": "lyr",
+  "d": 1,
+  "q": "Which 2003 50 Cent single was the lead single from Get Rich or Die Tryin'?",
+  "a": "In da Club",
+  "w": [
+   "Candy Shop",
+   "21 Questions",
+   "P.I.M.P."
+  ],
+  "x": "In da Club was produced by Dr. Dre and reached number one on the Hot 100."
+ },
+ {
+  "id": "lyr125",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2005 50 Cent single featured Olivia?",
+  "a": "Candy Shop",
+  "w": [
+   "In da Club",
+   "21 Questions",
+   "Disco Inferno"
+  ],
+  "x": "Candy Shop was the lead single from The Massacre."
+ },
+ {
+  "id": "lyr126",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2003 50 Cent single featured Nate Dogg?",
+  "a": "21 Questions",
+  "w": [
+   "In da Club",
+   "Candy Shop",
+   "P.I.M.P."
+  ],
+  "x": "21 Questions appeared on Get Rich or Die Tryin'."
+ },
+ {
+  "id": "lyr127",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which Bone Thugs-n-Harmony single won a Grammy in 1997?",
+  "a": "Tha Crossroads",
+  "w": [
+   "1st of tha Month",
+   "East 1999",
+   "Foe tha Love of $"
+  ],
+  "x": "Tha Crossroads was a tribute to Eazy-E and appeared on E. 1999 Eternal."
+ },
+ {
+  "id": "lyr128",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1995 Mobb Deep album included 'Shook Ones (Part II)'?",
+  "a": "The Infamous",
+  "w": [
+   "Hell on Earth",
+   "Juvenile Hell",
+   "Murda Muzik"
+  ],
+  "x": "The Infamous is a landmark Queensbridge album released in 1995."
+ },
+ {
+  "id": "lyr129",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which duo released the 1995 album 'The Infamous'?",
+  "a": "Mobb Deep",
+  "w": [
+   "Gang Starr",
+   "EPMD",
+   "The UMC's"
+  ],
+  "x": "The album included 'Shook Ones (Part II)' and is a Queensbridge classic."
+ },
+ {
+  "id": "lyr130",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which artist released the 1992 album 'The Predator'?",
+  "a": "Ice Cube",
+  "w": [
+   "Dr. Dre",
+   "Snoop Doggy Dogg",
+   "2Pac"
+  ],
+  "x": "The Predator included 'It Was a Good Day' and 'Check Yo Self'."
+ },
+ {
+  "id": "lyr131",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1992 Ice Cube remix reused the beat of Grandmaster Flash's 'The Message'?",
+  "a": "Check Yo Self (Remix)",
+  "w": [
+   "It Was a Good Day",
+   "Today",
+   "Wicked"
+  ],
+  "x": "The remix featured Das EFX and reused the famous 'The Message' beat."
+ },
+ {
+  "id": "lyr132",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1994 OutKast single was their debut?",
+  "a": "Southernplayalisticadillacmuzik",
+  "w": [
+   "Elevators (Me & You)",
+   "Ms. Jackson",
+   "ATLiens"
+  ],
+  "x": "The title track appeared on their debut album of the same name."
+ },
+ {
+  "id": "lyr133",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2000 OutKast single appeared on Stankonia?",
+  "a": "Ms. Jackson",
+  "w": [
+   "Hey Ya!",
+   "Roses",
+   "Elevators (Me & You)"
+  ],
+  "x": "Ms. Jackson became one of OutKast's biggest hits."
+ },
+ {
+  "id": "lyr134",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 2004 OutKast single followed 'Hey Ya!' and 'The Way You Move'?",
+  "a": "Roses",
+  "w": [
+   "Ms. Jackson",
+   "Elevators (Me & You)",
+   "ATLiens"
+  ],
+  "x": "Roses was released as a single from Speakerboxxx/The Love Below."
+ },
+ {
+  "id": "lyr135",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2006 Gnarls Barkley album included 'Crazy'?",
+  "a": "St. Elsewhere",
+  "w": [
+   "The Fall",
+   "Only by the Night",
+   "Speakerboxxx/The Love Below"
+  ],
+  "x": "St. Elsewhere was the duo's debut album."
+ },
+ {
+  "id": "lyr136",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which Kanye West single from 2007 sampled Daft Punk?",
+  "a": "Stronger",
+  "w": [
+   "Gold Digger",
+   "Heartless",
+   "Jesus Walks"
+  ],
+  "x": "Stronger was the lead single from Graduation."
+ },
+ {
+  "id": "lyr137",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2004 Kanye West single appeared on College Dropout?",
+  "a": "Jesus Walks",
+  "w": [
+   "Gold Digger",
+   "Stronger",
+   "Heartless"
+  ],
+  "x": "Jesus Walks peaked at number 11 on the Hot 100 and won a Grammy for Best Rap Song."
+ },
+ {
+  "id": "lyr138",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2008 Kanye West single introduced the Auto-Tune-heavy sound of 808s & Heartbreak?",
+  "a": "Heartless",
+  "w": [
+   "Stronger",
+   "Gold Digger",
+   "Jesus Walks"
+  ],
+  "x": "Heartless was one of the album's singles and reached the top five of the Hot 100."
+ },
+ {
+  "id": "lyr139",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2010 Kanye West single featured Pusha T?",
+  "a": "Runaway!",
+  "w": [
+   "Power",
+   "Heartless",
+   "Stronger"
+  ],
+  "x": "Runaway! appeared on My Beautiful Dark Twisted Fantasy."
+ },
+ {
+  "id": "lyr140",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2005 Kanye West single sampled Ray Charles's 'I Got a Woman'?",
+  "a": "Gold Digger",
+  "w": [
+   "Jesus Walks",
+   "Stronger",
+   "Heartless"
+  ],
+  "x": "It featured Jamie Foxx and gave Kanye West his first Hot 100 number one."
+ },
+ {
+  "id": "lyr141",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2009 Jay-Z single featured Alicia Keys?",
+  "a": "Empire State of Mind",
+  "w": [
+   "Run This Town",
+   "Hard Knock Life (Ghetto Anthem)",
+   "99 Problems"
+  ],
+  "x": "The song became one of Jay-Z's biggest hits and topped the Hot 100."
+ },
+ {
+  "id": "lyr142",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2004 Jay-Z single was produced by Rick Rubin?",
+  "a": "99 Problems",
+  "w": [
+   "Hard Knock Life (Ghetto Anthem)",
+   "Song Cry",
+   "Big Pimpin'"
+  ],
+  "x": "99 Problems appeared on The Black Album."
+ },
+ {
+  "id": "lyr143",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 2001 Jay-Z diss track prompted Nas's response 'Ether'?",
+  "a": "Takeover",
+  "w": [
+   "Song Cry",
+   "99 Problems",
+   "Hard Knock Life (Ghetto Anthem)"
+  ],
+  "x": "Takeover appeared on The Blueprint and reignited their feud."
+ },
+ {
+  "id": "lyr144",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1996 Jay-Z single appeared on Reasonable Doubt and featured Mary J. Blige?",
+  "a": "Can't Knock the Hustle",
+  "w": [
+   "Hard Knock Life (Ghetto Anthem)",
+   "Song Cry",
+   "99 Problems"
+  ],
+  "x": "The track was one of the singles from Jay-Z's debut album."
+ },
+ {
+  "id": "lyr145",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 2001 Nas diss track targeted Jay-Z?",
+  "a": "Ether",
+  "w": [
+   "Takeover",
+   "Hate Me Now",
+   "One Mic"
+  ],
+  "x": "Ether appeared on Stillmatic and became one of the most famous diss tracks in hip-hop."
+ },
+ {
+  "id": "lyr146",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1999 Nas single featured Puff Daddy?",
+  "a": "Hate Me Now",
+  "w": [
+   "Ether",
+   "One Mic",
+   "If I Ruled the World (Imagine That)"
+  ],
+  "x": "Hate Me Now appeared on the album Nastradamus."
+ },
+ {
+  "id": "lyr147",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2001 Nas single appeared on Stillmatic?",
+  "a": "One Mic",
+  "w": [
+   "Ether",
+   "Hate Me Now",
+   "If I Ruled the World (Imagine That)"
+  ],
+  "x": "One Mic is known for its sparse build and powerful delivery."
+ },
+ {
+  "id": "lyr148",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1993 ATCQ single featured Trugoy the Dove?",
+  "a": "Award Tour",
+  "w": [
+   "Check the Rhime",
+   "Can I Kick It?",
+   "Scenario"
+  ],
+  "x": "Award Tour appeared on Midnight Marauders."
+ },
+ {
+  "id": "lyr149",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1992 ATCQ single featured Leaders of the New School?",
+  "a": "Scenario",
+  "w": [
+   "Award Tour",
+   "Check the Rhime",
+   "Can I Kick It?"
+  ],
+  "x": "The song introduced Busta Rhymes to a wider audience."
+ },
+ {
+  "id": "lyr150",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1991 ATCQ single appeared on The Low End Theory?",
+  "a": "Check the Rhime",
+  "w": [
+   "Award Tour",
+   "Scenario",
+   "Bonita Applebum"
+  ],
+  "x": "Check the Rhime appeared on The Low End Theory."
+ },
+ {
+  "id": "lyr151",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1993 ATCQ single sampled Ronnie Foster's 'Mystic Brew'?",
+  "a": "Electric Relaxation",
+  "w": [
+   "Check the Rhime",
+   "Award Tour",
+   "Scenario"
+  ],
+  "x": "Electric Relaxation appeared on Midnight Marauders."
+ },
+ {
+  "id": "lyr152",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1989 De La Soul single sampled Steely Dan's 'Peg'?",
+  "a": "Eye Know",
+  "w": [
+   "Me Myself and I",
+   "The Grind Date",
+   "Buddy"
+  ],
+  "x": "Eye Know appeared on 3 Feet High and Rising."
+ },
+ {
+  "id": "lyr153",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1992 Eric B. & Rakim single appeared on the Juice soundtrack?",
+  "a": "Juice (Know the Ledge)",
+  "w": [
+   "Paid in Full",
+   "I Know You Got Soul",
+   "Don't Sweat the Technique"
+  ],
+  "x": "The track was released as a single from the 1992 film Juice."
+ },
+ {
+  "id": "lyr154",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1987 Eric B. & Rakim single sampled Bobby Byrd's 'I Know You Got Soul'?",
+  "a": "I Know You Got Soul",
+  "w": [
+   "Paid in Full",
+   "Eric B. Is President",
+   "Microphone Fiend"
+  ],
+  "x": "The song became a widely sampled hip-hop classic."
+ },
+ {
+  "id": "lyr155",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1986 Eric B. & Rakim single was an early James Brown-sampling hit?",
+  "a": "Eric B. Is President",
+  "w": [
+   "Paid in Full",
+   "I Know You Got Soul",
+   "Don't Sweat the Technique"
+  ],
+  "x": "The single helped establish Rakim's influential rhyming style."
+ },
+ {
+  "id": "lyr156",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which rapper released the 1988 album 'Long Live the Kane'?",
+  "a": "Big Daddy Kane",
+  "w": [
+   "Rakim",
+   "Kool G Rap",
+   "Slick Rick"
+  ],
+  "x": "The album included 'Ain't No Stoppin' Us Now' and 'Raw'."
+ },
+ {
+  "id": "lyr157",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which group released the 1988 album 'It Takes a Nation of Millions to Hold Us Back'?",
+  "a": "Public Enemy",
+  "w": [
+   "N.W.A",
+   "Run-D.M.C.",
+   "Beastie Boys"
+  ],
+  "x": "The album included 'Rebel Without a Pause' and 'Don't Believe the Hype'."
+ },
+ {
+  "id": "lyr158",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1990 Public Enemy single was performed by Flavor Flav?",
+  "a": "911 Is a Joke",
+  "w": [
+   "Fight the Power",
+   "Bring the Noise",
+   "Rebel Without a Pause"
+  ],
+  "x": "The track appeared on Fear of a Black Planet."
+ },
+ {
+  "id": "lyr159",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1989 Public Enemy single was featured in the film Do the Right Thing?",
+  "a": "Fight the Power",
+  "w": [
+   "Bring the Noise",
+   "911 Is a Joke",
+   "Don't Believe the Hype"
+  ],
+  "x": "Spike Lee's film helped make the song an anthem."
+ },
+ {
+  "id": "lyr160",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1987 Run-D.M.C. single borrowed its title from a sneaker brand?",
+  "a": "My Adidas",
+  "w": [
+   "It's Tricky",
+   "Peter Piper",
+   "King of Rock"
+  ],
+  "x": "The song reflected the group's landmark endorsement deal with Adidas."
+ },
+ {
+  "id": "lyr161",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1986 Run-D.M.C. single was built around a nursery rhyme?",
+  "a": "Peter Piper",
+  "w": [
+   "My Adidas",
+   "It's Tricky",
+   "Walk This Way"
+  ],
+  "x": "The track appeared on the album Raising Hell."
+ },
+ {
+  "id": "lyr162",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1985 Run-D.M.C. single was the title track of their debut album?",
+  "a": "King of Rock",
+  "w": [
+   "My Adidas",
+   "Peter Piper",
+   "It's Tricky"
+  ],
+  "x": "King of Rock appeared on their 1985 self-titled debut."
+ },
+ {
+  "id": "lyr163",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1987 Beastie Boys single became their crossover hit?",
+  "a": "Fight for Your Right",
+  "w": [
+   "Brass Monkey",
+   "No Sleep till Brooklyn",
+   "Sure Shot"
+  ],
+  "x": "The single appeared on Licensed to Ill and received heavy MTV airplay."
+ },
+ {
+  "id": "lyr164",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1992 Beastie Boys single appeared on Check Your Head?",
+  "a": "So What'cha Want",
+  "w": [
+   "Sabotage",
+   "Intergalactic",
+   "Body Movin'"
+  ],
+  "x": "Check Your Head marked the group's return to a live-band sound."
+ },
+ {
+  "id": "lyr165",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1998 Beastie Boys single referenced a flying saucer?",
+  "a": "Intergalactic",
+  "w": [
+   "Sabotage",
+   "Body Movin'",
+   "So What'cha Want"
+  ],
+  "x": "Intergalactic appeared on Hello Nasty."
+ },
+ {
+  "id": "lyr166",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1998 Beastie Boys single followed 'Intergalactic' from Hello Nasty?",
+  "a": "Body Movin'",
+  "w": [
+   "Sabotage",
+   "So What'cha Want",
+   "Sure Shot"
+  ],
+  "x": "Body Movin' appeared on Hello Nasty."
+ },
+ {
+  "id": "lyr167",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1987 LL Cool J single appeared on Bigger and Deffer?",
+  "a": "Going Back to Cali",
+  "w": [
+   "Rock the Bells",
+   "Mama Said Knock You Out",
+   "Around the Way Girl"
+  ],
+  "x": "Going Back to Cali was released as a single in 1987."
+ },
+ {
+  "id": "lyr168",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1990 LL Cool J single had a title about a mother's advice?",
+  "a": "Mama Said Knock You Out",
+  "w": [
+   "Around the Way Girl",
+   "Hey Lover",
+   "Rock the Bells"
+  ],
+  "x": "The title track of LL Cool J's fourth album was produced by Marley Marl."
+ },
+ {
+  "id": "lyr169",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1989 Slick Rick single addressed young listeners?",
+  "a": "Hey Young World",
+  "w": [
+   "Children's Story",
+   "La Di Da Di",
+   "Mona Lisa"
+  ],
+  "x": "Hey Young World appeared on The Great Adventures of Slick Rick."
+ },
+ {
+  "id": "lyr170",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which Slick Rick track was widely sampled by later artists?",
+  "a": "La Di Da Di",
+  "w": [
+   "Children's Story",
+   "Hey Young World",
+   "Mona Lisa"
+  ],
+  "x": "La Di Da Di became one of the most sampled tracks in hip-hop."
+ },
+ {
+  "id": "lyr171",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1994 Common single used a love metaphor to describe hip-hop's decline?",
+  "a": "I Used to Love H.E.R.",
+  "w": [
+   "Take It EZ",
+   "The Light",
+   "Resurrection"
+  ],
+  "x": "The song appeared on Common's album Resurrection."
+ },
+ {
+  "id": "lyr172",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 2000 Common single sampled Bobby Caldwell's 'Open Your Eyes'?",
+  "a": "The Light",
+  "w": [
+   "I Used to Love H.E.R.",
+   "Take It EZ",
+   "Resurrection"
+  ],
+  "x": "The Light appeared on Like Water for Chocolate."
+ },
+ {
+  "id": "lyr173",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1992 Common single appeared on Can I Borrow a Dollar?",
+  "a": "Take It EZ",
+  "w": [
+   "I Used to Love H.E.R.",
+   "The Light",
+   "Resurrection"
+  ],
+  "x": "Take It EZ introduced Common's laid-back Chicago style."
+ },
+ {
+  "id": "lyr174",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1992 Wu-Tang single was the group's debut?",
+  "a": "Protect Ya Neck",
+  "w": [
+   "C.R.E.A.M.",
+   "Can It Be All So Simple",
+   "Bring the Pain"
+  ],
+  "x": "Protect Ya Neck introduced the group's raw Staten Island sound."
+ },
+ {
+  "id": "lyr175",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which Wu-Tang single sampled The Chantels' 'Maybe'?",
+  "a": "C.R.E.A.M.",
+  "w": [
+   "Protect Ya Neck",
+   "Can It Be All So Simple",
+   "Bring the Pain"
+  ],
+  "x": "The track appeared on Enter the Wu-Tang (36 Chambers)."
+ },
+ {
+  "id": "lyr176",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1995 GZA album is built around chess imagery?",
+  "a": "Liquid Swords",
+  "w": [
+   "Tical",
+   "Only Built 4 Cuban Linx...",
+   "Ironman"
+  ],
+  "x": "Liquid Swords was released in 1995 and produced largely by RZA."
+ },
+ {
+  "id": "lyr177",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1995 Raekwon album is known for its mafia-themed storytelling?",
+  "a": "Only Built 4 Cuban Linx...",
+  "w": [
+   "Liquid Swords",
+   "Tical",
+   "Ironman"
+  ],
+  "x": "The album featured Ghostface Killah and helped define Wu-Tang's cinematic style."
+ },
+ {
+  "id": "lyr178",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1999 Ol' Dirty Bastard single featured Kelis?",
+  "a": "Got Your Money",
+  "w": [
+   "C.R.E.A.M.",
+   "Bring the Pain",
+   "Liquid Swords"
+  ],
+  "x": "The track appeared on ODB's second solo album."
+ },
+ {
+  "id": "lyr179",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1997 single by Puff Daddy was a tribute to The Notorious B.I.G.?",
+  "a": "I'll Be Missing You",
+  "w": [
+   "Mo Money Mo Problems",
+   "Hypnotize",
+   "Big Poppa"
+  ],
+  "x": "The song sampled The Police's 'Every Breath You Take' and featured Faith Evans."
+ },
+ {
+  "id": "lyr180",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1992 Arrested Development single was named after a US state?",
+  "a": "Tennessee",
+  "w": [
+   "Fight the Power",
+   "The Message",
+   "Rapper's Delight"
+  ],
+  "x": "Tennessee helped the group win two Grammys in 1993."
+ },
+ {
+  "id": "lyr181",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which Salt-N-Pepa single was built around a one-word chant?",
+  "a": "Push It",
+  "w": [
+   "Whatta Man",
+   "Shoop",
+   "None of Your Business"
+  ],
+  "x": "Push It became one of Salt-N-Pepa's signature hits."
+ },
+ {
+  "id": "lyr182",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1984 single by UTFO prompted an answer record from Roxanne Shanté?",
+  "a": "Roxanne, Roxanne",
+  "w": [
+   "Roxanne's Revenge",
+   "The Message",
+   "Rapper's Delight"
+  ],
+  "x": "Roxanne Shanté's response launched the Roxanne Wars of answer records."
+ },
+ {
+  "id": "lyr183",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1984 answer record launched Roxanne Shanté's career?",
+  "a": "Roxanne's Revenge",
+  "w": [
+   "Roxanne, Roxanne",
+   "The Message",
+   "Rapper's Delight"
+  ],
+  "x": "It was recorded as a response to UTFO's 'Roxanne, Roxanne'."
+ },
+ {
+  "id": "lyr184",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1989 Queen Latifah single promoted respect between the sexes?",
+  "a": "Ladies First",
+  "w": [
+   "U.N.I.T.Y.",
+   "Push It",
+   "Whatta Man"
+  ],
+  "x": "Ladies First featured Monie Love and appeared on All Hail the Queen."
+ },
+ {
+  "id": "lyr185",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1993 Queen Latifah single addressed street harassment?",
+  "a": "U.N.I.T.Y.",
+  "w": [
+   "Ladies First",
+   "Push It",
+   "Whatta Man"
+  ],
+  "x": "The song won a Grammy in 1995 for Best Rap Solo Performance."
+ },
+ {
+  "id": "lyr186",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1982 single introduced electro-funk with Kraftwerk-inspired sounds?",
+  "a": "Planet Rock",
+  "w": [
+   "The Message",
+   "Rapper's Delight",
+   "Fight the Power"
+  ],
+  "x": "Afrika Bambaataa and the Soulsonic Force released 'Planet Rock' in 1982."
+ },
+ {
+  "id": "lyr187",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1979 female rap group had a charting single called 'Funk You Up'?",
+  "a": "The Sequence",
+  "w": [
+   "Salt-N-Pepa",
+   "TLC",
+   "SWV"
+  ],
+  "x": "The Sequence included Angie Stone and was one of the first female rap groups on record."
+ },
+ {
+  "id": "lyr188",
+  "l": "lyr",
+  "d": 2,
+  "q": "Which 1987 Kool Moe Dee single dissed LL Cool J?",
+  "a": "How Ya Like Me Now",
+  "w": [
+   "I Can't Live Without My Radio",
+   "Rock the Bells",
+   "Going Back to Cali"
+  ],
+  "x": "The feud played out in songs and videos in the late 1980s."
+ },
+ {
+  "id": "lyr189",
+  "l": "lyr",
+  "d": 3,
+  "q": "Which 1989 2 Live Crew single sparked an obscenity controversy?",
+  "a": "Me So Horny",
+  "w": [
+   "Push It",
+   "Fight the Power",
+   "The Message"
+  ],
+  "x": "The group's 1990 trial over As Nasty as They Wanna Be became a free-speech case."
+ },
+ {
+  "id": "era001",
+  "l": "era",
+  "d": 1,
+  "q": "Which four activities are traditionally called the four elements of hip-hop?",
+  "a": "DJing, MCing, breakdancing, graffiti",
+  "w": [
+   "Singing, dancing, painting, drumming",
+   "Rapping, singing, fashion, film",
+   "Graffiti, fashion, beatboxing, film"
+  ],
+  "x": "These four practices form the core of hip-hop culture as it developed in New York."
+ },
+ {
+  "id": "era002",
+  "l": "era",
+  "d": 1,
+  "q": "In which New York City borough did hip-hop culture emerge in the 1970s?",
+  "a": "The Bronx",
+  "w": [
+   "Brooklyn",
+   "Queens",
+   "Manhattan"
+  ],
+  "x": "Block parties in the Bronx gave rise to the culture's early DJ and MC practices."
+ },
+ {
+  "id": "era003",
+  "l": "era",
+  "d": 1,
+  "q": "Which DJ is widely credited with pioneering the break-beat style at Bronx parties in 1973?",
+  "a": "DJ Kool Herc",
+  "w": [
+   "Grandmaster Flash",
+   "Afrika Bambaataa",
+   "Grand Wizzard Theodore"
+  ],
+  "x": "Clive Campbell, known as DJ Kool Herc, isolated drum breaks with two turntables."
+ },
+ {
+  "id": "era004",
+  "l": "era",
+  "d": 1,
+  "q": "At which address did DJ Kool Herc's often-cited 1973 hip-hop party take place?",
+  "a": "1520 Sedgwick Avenue",
+  "w": [
+   "1245 Amsterdam Avenue",
+   "1310 Fulton Street",
+   "100 Norfolk Street"
+  ],
+  "x": "The Bronx apartment building is widely marked as hip-hop's birthplace."
+ },
+ {
+  "id": "era005",
+  "l": "era",
+  "d": 1,
+  "q": "Which DJ invented the 'quick mix theory' of cueing records?",
+  "a": "Grandmaster Flash",
+  "w": [
+   "Grand Wizzard Theodore",
+   "DJ Kool Herc",
+   "Afrika Bambaataa"
+  ],
+  "x": "Grandmaster Flash developed precise cueing and mixing techniques that became standards."
+ },
+ {
+  "id": "era006",
+  "l": "era",
+  "d": 1,
+  "q": "Which DJ is credited with inventing the scratch technique?",
+  "a": "Grand Wizzard Theodore",
+  "w": [
+   "Grandmaster Flash",
+   "DJ Kool Herc",
+   "Afrika Bambaataa"
+  ],
+  "x": "Theodore Livingston reportedly discovered scratching by accident while practicing."
+ },
+ {
+  "id": "era007",
+  "l": "era",
+  "d": 1,
+  "q": "Which organization was founded by Afrika Bambaataa in 1973?",
+  "a": "Universal Zulu Nation",
+  "w": [
+   "Universal Nation",
+   "Rock Steady Crew",
+   "The Bomb Squad"
+  ],
+  "x": "The Universal Zulu Nation promoted hip-hop culture and peace through knowledge."
+ },
+ {
+  "id": "era008",
+  "l": "era",
+  "d": 1,
+  "q": "Which decades are generally called the old school era of hip-hop?",
+  "a": "The 1970s and 1980s",
+  "w": [
+   "The 1950s and 1960s",
+   "The 1990s",
+   "The 2000s"
+  ],
+  "x": "Old school hip-hop is usually associated with the late 1970s through the mid-1980s."
+ },
+ {
+  "id": "era009",
+  "l": "era",
+  "d": 1,
+  "q": "Which era saw the rise of Run-D.M.C., LL Cool J and Def Jam in the mid-1980s?",
+  "a": "The new school",
+  "w": [
+   "The old school",
+   "The G-funk era",
+   "The trap era"
+  ],
+  "x": "New school artists favored harder beats and a more aggressive MC style."
+ },
+ {
+  "id": "era010",
+  "l": "era",
+  "d": 1,
+  "q": "Which period is commonly called hip-hop's Golden Age?",
+  "a": "The late 1980s to early 1990s",
+  "w": [
+   "The late 1970s to early 1980s",
+   "The late 1990s to early 2000s",
+   "The 2010s"
+  ],
+  "x": "The Golden Age saw rapid innovation in sampling, lyricism and conscious themes."
+ },
+ {
+  "id": "era011",
+  "l": "era",
+  "d": 1,
+  "q": "Which production style is defined by hard drums and dusty soul or funk samples?",
+  "a": "Boom bap",
+  "w": [
+   "G-funk",
+   "Miami bass",
+   "Trap"
+  ],
+  "x": "Boom bap was a hallmark of 1990s East Coast producers such as DJ Premier and Pete Rock."
+ },
+ {
+  "id": "era012",
+  "l": "era",
+  "d": 1,
+  "q": "Which West Coast style used P-Funk samples and a high, wobbling synth line?",
+  "a": "G-funk",
+  "w": [
+   "Boom bap",
+   "Trap",
+   "Grime"
+  ],
+  "x": "Dr. Dre's The Chronic is widely credited with popularizing G-funk in the early 1990s."
+ },
+ {
+  "id": "era013",
+  "l": "era",
+  "d": 1,
+  "q": "Which record label was founded in 1984 by Rick Rubin and Russell Simmons?",
+  "a": "Def Jam Recordings",
+  "w": [
+   "Death Row Records",
+   "Bad Boy Entertainment",
+   "Roc-A-Fella Records"
+  ],
+  "x": "Def Jam helped launch Run-D.M.C., LL Cool J and the Beastie Boys."
+ },
+ {
+  "id": "era014",
+  "l": "era",
+  "d": 1,
+  "q": "Which label was co-founded by Dr. Dre and Suge Knight in 1991?",
+  "a": "Death Row Records",
+  "w": [
+   "Def Jam Recordings",
+   "Bad Boy Entertainment",
+   "Aftermath Entertainment"
+  ],
+  "x": "Death Row became the center of 1990s West Coast hip-hop with Dre, Snoop and 2Pac."
+ },
+ {
+  "id": "era015",
+  "l": "era",
+  "d": 1,
+  "q": "Which label was founded in 1993 by Sean Combs?",
+  "a": "Bad Boy Entertainment",
+  "w": [
+   "Def Jam Recordings",
+   "Death Row Records",
+   "Roc-A-Fella Records"
+  ],
+  "x": "Bad Boy's roster included The Notorious B.I.G., Mase and Faith Evans."
+ },
+ {
+  "id": "era016",
+  "l": "era",
+  "d": 1,
+  "q": "Which label was co-founded by Jay-Z, Damon Dash and Kareem Burke?",
+  "a": "Roc-A-Fella Records",
+  "w": [
+   "Def Jam Recordings",
+   "Bad Boy Entertainment",
+   "Aftermath Entertainment"
+  ],
+  "x": "Roc-A-Fella reached its peak in the 2000s with Jay-Z and Kanye West."
+ },
+ {
+  "id": "era017",
+  "l": "era",
+  "d": 1,
+  "q": "Which label did Dr. Dre found in 1996?",
+  "a": "Aftermath Entertainment",
+  "w": [
+   "Death Row Records",
+   "Def Jam Recordings",
+   "Shady Records"
+  ],
+  "x": "Aftermath released Eminem's early albums and 50 Cent's Get Rich or Die Tryin'."
+ },
+ {
+  "id": "era018",
+  "l": "era",
+  "d": 3,
+  "q": "Which label was founded in 1981 by Tom Silverman?",
+  "a": "Tommy Boy Records",
+  "w": [
+   "Def Jam Recordings",
+   "Profile Records",
+   "Cold Chillin' Records"
+  ],
+  "x": "Tommy Boy was one of the first labels devoted to hip-hop and dance music."
+ },
+ {
+  "id": "era019",
+  "l": "era",
+  "d": 3,
+  "q": "Which 1980s label was home to Eric B. & Rakim, Biz Markie and Kool G Rap?",
+  "a": "Cold Chillin' Records",
+  "w": [
+   "Tommy Boy Records",
+   "Profile Records",
+   "Sleeping Bag Records"
+  ],
+  "x": "Cold Chillin' was founded by Tyrone Williams and became a major New York rap label."
+ },
+ {
+  "id": "era020",
+  "l": "era",
+  "d": 3,
+  "q": "Which label released the Sugarhill Gang's 'Rapper's Delight'?",
+  "a": "Sugarhill Records",
+  "w": [
+   "Profile Records",
+   "Tommy Boy Records",
+   "Def Jam Recordings"
+  ],
+  "x": "Sugarhill Records was founded by Joe and Sylvia Robinson."
+ },
+ {
+  "id": "era021",
+  "l": "era",
+  "d": 1,
+  "q": "Which 1980s collective included A Tribe Called Quest, De La Soul and Jungle Brothers?",
+  "a": "Native Tongues",
+  "w": [
+   "The Juice Crew",
+   "Wu-Tang Clan",
+   "Dungeon Family"
+  ],
+  "x": "The Native Tongues championed playful, jazz-influenced alternative hip-hop."
+ },
+ {
+  "id": "era022",
+  "l": "era",
+  "d": 1,
+  "q": "Which producer led the Juice Crew in Queens?",
+  "a": "Marley Marl",
+  "w": [
+   "DJ Premier",
+   "Pete Rock",
+   "RZA"
+  ],
+  "x": "Marley Marl's sampling techniques shaped the sound of late-1980s New York rap."
+ },
+ {
+  "id": "era023",
+  "l": "era",
+  "d": 1,
+  "q": "Which New York rap group was fronted by KRS-One in the late 1980s?",
+  "a": "Boogie Down Productions",
+  "w": [
+   "Public Enemy",
+   "N.W.A",
+   "EPMD"
+  ],
+  "x": "Boogie Down Productions became known for hard beats and socially aware lyrics."
+ },
+ {
+  "id": "era024",
+  "l": "era",
+  "d": 3,
+  "q": "Which 1987 KRS-One track answered the Juice Crew's 'The Symphony'?",
+  "a": "The Bridge Is Over",
+  "w": [
+   "The Symphony",
+   "Rebel Without a Pause",
+   "How Ya Like Me Now"
+  ],
+  "x": "The Bridge Is Over is a key salvo in the Bridge War between Queens and the Bronx."
+ },
+ {
+  "id": "era025",
+  "l": "era",
+  "d": 1,
+  "q": "Which group from Compton released 'Straight Outta Compton' in 1988?",
+  "a": "N.W.A",
+  "w": [
+   "Public Enemy",
+   "Beastie Boys",
+   "Run-D.M.C."
+  ],
+  "x": "N.W.A's stark gangsta rap brought West Coast hip-hop to national attention."
+ },
+ {
+  "id": "era026",
+  "l": "era",
+  "d": 1,
+  "q": "Which subgenre emerged from Compton and Los Angeles in the late 1980s?",
+  "a": "Gangsta rap",
+  "w": [
+   "Jazz rap",
+   "Grime",
+   "Miami bass"
+  ],
+  "x": "Schoolly D, Ice-T and N.W.A are frequently cited as gangsta rap's pioneers."
+ },
+ {
+  "id": "era027",
+  "l": "era",
+  "d": 1,
+  "q": "Which subgenre combined hip-hop with jazz samples and became prominent with A Tribe Called Quest?",
+  "a": "Jazz rap",
+  "w": [
+   "Trap",
+   "Drill",
+   "G-funk"
+  ],
+  "x": "Jazz rap drew on jazz records for loops and loose, live-feeling rhythms."
+ },
+ {
+  "id": "era028",
+  "l": "era",
+  "d": 1,
+  "q": "Which subgenre is defined by socially conscious or revolutionary lyrics, as practiced by Public Enemy?",
+  "a": "Political hip hop",
+  "w": [
+   "Jazz rap",
+   "Gangsta rap",
+   "G-funk"
+  ],
+  "x": "Political hip hop uses the music as a vehicle for social and political commentary."
+ },
+ {
+  "id": "era029",
+  "l": "era",
+  "d": 1,
+  "q": "Which 1980s electronic subgenre used the Roland TR-808 and was popularized by 'Planet Rock'?",
+  "a": "Electro",
+  "w": [
+   "Trap",
+   "Grime",
+   "G-funk"
+  ],
+  "x": "Electro-funk drew heavily on Kraftwerk's synthesized rhythms."
+ },
+ {
+  "id": "era030",
+  "l": "era",
+  "d": 3,
+  "q": "Which Roland drum machine became a defining instrument of 1980s electro and hip-hop?",
+  "a": "TR-808",
+  "w": [
+   "SP-1200",
+   "MPC60",
+   "RH-5"
+  ],
+  "x": "The TR-808's deep kick and crisp snare shaped electro and later trap."
+ },
+ {
+  "id": "era031",
+  "l": "era",
+  "d": 3,
+  "q": "Which sampler was widely used by East Coast producers in the late 1980s and early 1990s?",
+  "a": "E-mu SP-1200",
+  "w": [
+   "Roland TR-808",
+   "Akai MPC2000",
+   "Korg Wavestation"
+  ],
+  "x": "The SP-1200's gritty 12-bit sound is closely associated with boom bap."
+ },
+ {
+  "id": "era032",
+  "l": "era",
+  "d": 1,
+  "q": "What is the hip-hop term for a rhythmic vocal performance over a beat?",
+  "a": "Flow",
+  "w": [
+   "Scratching",
+   "Tagging",
+   "Cypher"
+  ],
+  "x": "Flow describes how an MC places syllables, rhythm and rhyme over a track."
+ },
+ {
+  "id": "era033",
+  "l": "era",
+  "d": 1,
+  "q": "What is the term for a group of rappers taking turns rhyming in a circle?",
+  "a": "Cypher",
+  "w": [
+   "Break",
+   "Hook",
+   "Sample"
+  ],
+  "x": "Cyphers are a staple of hip-hop battles and jam sessions."
+ },
+ {
+  "id": "era034",
+  "l": "era",
+  "d": 1,
+  "q": "What does the term 'sampling' mean in music production?",
+  "a": "Reusing a portion of an existing recording",
+  "w": [
+   "Playing a live drum kit",
+   "Writing a chorus from scratch",
+   "Remastering a whole album"
+  ],
+  "x": "Hip-hop producers built tracks by looping portions of records."
+ },
+ {
+  "id": "era035",
+  "l": "era",
+  "d": 1,
+  "q": "Which DJ technique involves moving a record back and forth under the needle?",
+  "a": "Scratching",
+  "w": [
+   "Beatboxing",
+   "Tagging",
+   "Freestyling"
+  ],
+  "x": "Grand Wizzard Theodore is widely credited with discovering the technique."
+ },
+ {
+  "id": "era036",
+  "l": "era",
+  "d": 1,
+  "q": "Which term describes vocal percussion made with the mouth?",
+  "a": "Beatboxing",
+  "w": [
+   "Scratching",
+   "Freestyling",
+   "Tagging"
+  ],
+  "x": "Beatboxing is sometimes described as a fifth element of hip-hop."
+ },
+ {
+  "id": "era037",
+  "l": "era",
+  "d": 1,
+  "q": "Which term refers to improvised rap lyrics?",
+  "a": "Freestyle",
+  "w": [
+   "Hook",
+   "Verse",
+   "Sample"
+  ],
+  "x": "Freestyle battles test an MC's ability to improvise on the spot."
+ },
+ {
+  "id": "era038",
+  "l": "era",
+  "d": 1,
+  "q": "Which term describes the repeated, memorable section of a rap song?",
+  "a": "Hook",
+  "w": [
+   "Verse",
+   "Bridge",
+   "Break"
+  ],
+  "x": "The hook is usually the sung or rapped section that listeners remember."
+ },
+ {
+  "id": "era039",
+  "l": "era",
+  "d": 1,
+  "q": "Which term refers to a short drum passage isolated for sampling?",
+  "a": "Break",
+  "w": [
+   "Hook",
+   "Cypher",
+   "Flow"
+  ],
+  "x": "Classic breaks such as the Amen Break have been sampled countless times."
+ },
+ {
+  "id": "era040",
+  "l": "era",
+  "d": 1,
+  "q": "Which term is used for a graffiti artist's stylized signature?",
+  "a": "Tag",
+  "w": [
+   "Hook",
+   "Flow",
+   "Break"
+  ],
+  "x": "Tagging spread from New York subway trains to cities around the world."
+ },
+ {
+  "id": "era041",
+  "l": "era",
+  "d": 1,
+  "q": "Which network premiered 'Yo! MTV Raps' in 1988?",
+  "a": "MTV",
+  "w": [
+   "BET",
+   "VH1",
+   "HBO"
+  ],
+  "x": "The show helped bring hip-hop videos to a national television audience."
+ },
+ {
+  "id": "era042",
+  "l": "era",
+  "d": 1,
+  "q": "Which New York graffiti artist and rapper hosted the original Yo! MTV Raps?",
+  "a": "Fab Five Freddy",
+  "w": [
+   "Spike Lee",
+   "Jean-Michel Basquiat",
+   "Grandmaster Flash"
+  ],
+  "x": "Fab Five Freddy had appeared in the film Wild Style before hosting."
+ },
+ {
+  "id": "era043",
+  "l": "era",
+  "d": 1,
+  "q": "Which BET show became a major platform for rap videos in the 1990s?",
+  "a": "Rap City",
+  "w": [
+   "The Box",
+   "Def Comedy Jam",
+   "Video Mods"
+  ],
+  "x": "Rap City aired on BET and helped promote both East and West Coast artists."
+ },
+ {
+  "id": "era044",
+  "l": "era",
+  "d": 3,
+  "q": "Which 1991 court case made uncleared sampling a major legal concern for rappers?",
+  "a": "Grand Upright Music v. Warner Records",
+  "w": [
+   "Miranda v. Arizona",
+   "Roe v. Wade",
+   "Betamax case"
+  ],
+  "x": "The case involved Biz Markie's use of a Gilbert O'Sullivan song."
+ },
+ {
+  "id": "era045",
+  "l": "era",
+  "d": 1,
+  "q": "Which 1995 awards ceremony became a flashpoint in the East Coast–West Coast rivalry?",
+  "a": "The Source Awards",
+  "w": [
+   "The Grammy Awards",
+   "The MTV VMAs",
+   "The Billboard Awards"
+  ],
+  "x": "Tensions between Death Row and Bad Boy were on display at the 1995 Source Awards."
+ },
+ {
+  "id": "era046",
+  "l": "era",
+  "d": 1,
+  "q": "Which rapper was killed in a drive-by shooting in Las Vegas in September 1996?",
+  "a": "2Pac",
+  "w": [
+   "The Notorious B.I.G.",
+   "Big L",
+   "Jam Master Jay"
+  ],
+  "x": "Tupac Shakur died in Las Vegas days after attending a Mike Tyson fight."
+ },
+ {
+  "id": "era047",
+  "l": "era",
+  "d": 1,
+  "q": "Which rapper was murdered in Los Angeles in March 1997?",
+  "a": "The Notorious B.I.G.",
+  "w": [
+   "2Pac",
+   "Big L",
+   "Jam Master Jay"
+  ],
+  "x": "Biggie's death came months after Tupac Shakur's killing and intensified the coastal feud."
+ },
+ {
+  "id": "era048",
+  "l": "era",
+  "d": 1,
+  "q": "Which city was the center of the West Coast hip-hop scene in the 1990s?",
+  "a": "Los Angeles",
+  "w": [
+   "Atlanta",
+   "Chicago",
+   "Miami"
+  ],
+  "x": "Los Angeles spawned Death Row Records, Compton's N.W.A and Long Beach's Snoop Dogg."
+ },
+ {
+  "id": "era049",
+  "l": "era",
+  "d": 1,
+  "q": "Which New York City neighborhood produced Nas and Mobb Deep?",
+  "a": "Queensbridge",
+  "w": [
+   "Bedford-Stuyvesant",
+   "Harlem",
+   "Staten Island"
+  ],
+  "x": "Queensbridge became one of the most influential rap neighborhoods of the 1990s."
+ },
+ {
+  "id": "era050",
+  "l": "era",
+  "d": 1,
+  "q": "Which borough was home to the Wu-Tang Clan?",
+  "a": "Staten Island",
+  "w": [
+   "Brooklyn",
+   "Queens",
+   "The Bronx"
+  ],
+  "x": "The Wu-Tang Clan formed in Staten Island's Park Hill area in the early 1990s."
+ },
+ {
+  "id": "era051",
+  "l": "era",
+  "d": 1,
+  "q": "Which rap group formed in Staten Island in 1992?",
+  "a": "Wu-Tang Clan",
+  "w": [
+   "Public Enemy",
+   "Gang Starr",
+   "Mobb Deep"
+  ],
+  "x": "The group's nine-member lineup and RZA's production changed 1990s rap."
+ },
+ {
+  "id": "era052",
+  "l": "era",
+  "d": 3,
+  "q": "Which producer formed the duo Gang Starr with MC Guru?",
+  "a": "DJ Premier",
+  "w": [
+   "Pete Rock",
+   "RZA",
+   "Marley Marl"
+  ],
+  "x": "DJ Premier's choppy soul samples defined 1990s East Coast boom bap."
+ },
+ {
+  "id": "era053",
+  "l": "era",
+  "d": 2,
+  "q": "Which producer partnered with rapper CL Smooth?",
+  "a": "Pete Rock",
+  "w": [
+   "DJ Premier",
+   "RZA",
+   "Large Professor"
+  ],
+  "x": "Pete Rock's horn-heavy loops helped define the duo's sound."
+ },
+ {
+  "id": "era054",
+  "l": "era",
+  "d": 2,
+  "q": "Which producer was the de facto leader of the Wu-Tang Clan?",
+  "a": "RZA",
+  "w": [
+   "DJ Premier",
+   "Pete Rock",
+   "Marley Marl"
+  ],
+  "x": "RZA produced most of the group's early albums and crafted their kung fu-sampled aesthetic."
+ },
+ {
+  "id": "era055",
+  "l": "era",
+  "d": 1,
+  "q": "In which year was the film 'Wild Style' released?",
+  "a": "1983",
+  "w": [
+   "1979",
+   "1986",
+   "1990"
+  ],
+  "x": "Wild Style was one of the first films to center on graffiti and hip-hop culture."
+ },
+ {
+  "id": "era056",
+  "l": "era",
+  "d": 1,
+  "q": "Which 1984 film brought breakdancing to mainstream movie audiences?",
+  "a": "Breakin'",
+  "w": [
+   "Wild Style",
+   "Beat Street",
+   "Juice"
+  ],
+  "x": "Breakin' followed Wild Style and Beat Street in bringing hip-hop dance to film."
+ },
+ {
+  "id": "era057",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1985 film loosely depicted the rise of Def Jam?",
+  "a": "Krush Groove",
+  "w": [
+   "Wild Style",
+   "Beat Street",
+   "Juice"
+  ],
+  "x": "Krush Groove featured Run-D.M.C. and the Beastie Boys in fictionalized roles."
+ },
+ {
+  "id": "era058",
+  "l": "era",
+  "d": 1,
+  "q": "Which 2002 film starred Eminem as an aspiring Detroit rapper?",
+  "a": "8 Mile",
+  "w": [
+   "Juice",
+   "Coach Carter",
+   "Straight Outta Compton"
+  ],
+  "x": "The film's soundtrack included 'Lose Yourself', which won an Oscar."
+ },
+ {
+  "id": "era059",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1992 film starred Tupac Shakur as a Harlem teenager?",
+  "a": "Juice",
+  "w": [
+   "Boyz n the Hood",
+   "Menace II Society",
+   "Friday"
+  ],
+  "x": "The film's soundtrack included Eric B. & Rakim's 'Juice (Know the Ledge)'."
+ },
+ {
+  "id": "era060",
+  "l": "era",
+  "d": 2,
+  "q": "Which documentary about hip-hop was released in 1995?",
+  "a": "The Show",
+  "w": [
+   "Scratch",
+   "Style Wars",
+   "Beat Street"
+  ],
+  "x": "The Show featured performances and interviews with leading 1990s rappers."
+ },
+ {
+  "id": "era061",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1983 documentary focused on New York subway graffiti?",
+  "a": "Style Wars",
+  "w": [
+   "The Show",
+   "Scratch",
+   "Wild Style"
+  ],
+  "x": "Style Wars documented graffiti writers and helped preserve early hip-hop visual culture."
+ },
+ {
+  "id": "era062",
+  "l": "era",
+  "d": 2,
+  "q": "Which 2001 documentary explored the art of DJing?",
+  "a": "Scratch",
+  "w": [
+   "Style Wars",
+   "The Show",
+   "Rhyme & Reason"
+  ],
+  "x": "Scratch featured turntablists discussing the rise of scratching as an art form."
+ },
+ {
+  "id": "era063",
+  "l": "era",
+  "d": 2,
+  "q": "Which dance crew helped popularize b-boying in New York in the late 1970s?",
+  "a": "Rock Steady Crew",
+  "w": [
+   "The Electric Boogaloos",
+   "The Lockers",
+   "The Jabbawockeez"
+  ],
+  "x": "Rock Steady Crew formed in the Bronx and became one of the best-known breaking crews."
+ },
+ {
+  "id": "era064",
+  "l": "era",
+  "d": 3,
+  "q": "Which West Coast dance style was created by Boogaloo Sam?",
+  "a": "Boogaloo",
+  "w": [
+   "Breaking",
+   "Locking",
+   "Turfing"
+  ],
+  "x": "Boogaloo Sam founded the Electric Boogaloos and developed flowing, rolling movements."
+ },
+ {
+  "id": "era065",
+  "l": "era",
+  "d": 3,
+  "q": "Which dancer is credited with creating locking?",
+  "a": "Don Campbell",
+  "w": [
+   "Boogaloo Sam",
+   "Taki 183",
+   "Lady Pink"
+  ],
+  "x": "Don Campbell, known as Campbellock, developed locking in Los Angeles."
+ },
+ {
+  "id": "era066",
+  "l": "era",
+  "d": 2,
+  "q": "Which graffiti writer's subway tag was the subject of a 1971 New York Times article?",
+  "a": "Taki 183",
+  "w": [
+   "Lady Pink",
+   "Jean-Michel Basquiat",
+   "Lance Wyman"
+  ],
+  "x": "The article helped turn subway tagging into a widespread youth phenomenon."
+ },
+ {
+  "id": "era067",
+  "l": "era",
+  "d": 2,
+  "q": "Which artist was known for the SAMO subway graffiti tag before becoming a celebrated painter?",
+  "a": "Jean-Michel Basquiat",
+  "w": [
+   "Keith Haring",
+   "Lady Pink",
+   "Taki 183"
+  ],
+  "x": "Basquiat and Al Diaz wrote SAMO graffiti in Lower Manhattan in the late 1970s."
+ },
+ {
+  "id": "era068",
+  "l": "era",
+  "d": 2,
+  "q": "Which female graffiti artist became a prominent figure in New York's 1980s scene?",
+  "a": "Lady Pink",
+  "w": [
+   "Taki 183",
+   "Jean-Michel Basquiat",
+   "Fab Five Freddy"
+  ],
+  "x": "Lady Pink's large subway pieces made her one of the best-known writers of the era."
+ },
+ {
+  "id": "era069",
+  "l": "era",
+  "d": 2,
+  "q": "Which Grammy category was first awarded in 1989 to DJ Jazzy Jeff & The Fresh Prince?",
+  "a": "Best Rap Performance",
+  "w": [
+   "Best Rap Album",
+   "Best Rap Song",
+   "Best R&B Album"
+  ],
+  "x": "They won for 'Parents Just Don't Understand' at the 1989 Grammy ceremony."
+ },
+ {
+  "id": "era070",
+  "l": "era",
+  "d": 1,
+  "q": "Which album was the first hip-hop album to win the Grammy for Album of the Year?",
+  "a": "The Miseducation of Lauryn Hill",
+  "w": [
+   "Illmatic",
+   "The Chronic",
+   "Ready to Die"
+  ],
+  "x": "Lauryn Hill's 1998 album won Album of the Year at the 1999 Grammys."
+ },
+ {
+  "id": "era071",
+  "l": "era",
+  "d": 2,
+  "q": "Which rap song was the first to win an Academy Award for Best Original Song?",
+  "a": "Lose Yourself",
+  "w": [
+   "It's Hard out Here for a Pimp",
+   "Rapper's Delight",
+   "The Message"
+  ],
+  "x": "The 2003 win made Eminem the first rap artist to receive an Oscar for songwriting."
+ },
+ {
+  "id": "era072",
+  "l": "era",
+  "d": 2,
+  "q": "Which song won the Academy Award for Best Original Song in 2006?",
+  "a": "It's Hard out Here for a Pimp",
+  "w": [
+   "Lose Yourself",
+   "Humble.",
+   "Jai Ho"
+  ],
+  "x": "Three 6 Mafia accepted the award for the film Hustle & Flow."
+ },
+ {
+  "id": "era073",
+  "l": "era",
+  "d": 2,
+  "q": "Which chart was introduced by Billboard in 1989 to rank rap singles?",
+  "a": "Hot Rap Singles",
+  "w": [
+   "Hot 100",
+   "R&B Albums",
+   "Top Rap Albums"
+  ],
+  "x": "The chart documents rap singles from 1989 onward under a name that later changed."
+ },
+ {
+  "id": "era074",
+  "l": "era",
+  "d": 2,
+  "q": "Which label was founded by Eminem and Paul Rosenberg in 1999?",
+  "a": "Shady Records",
+  "w": [
+   "Aftermath Entertainment",
+   "G-Unit Records",
+   "Bad Boy Entertainment"
+  ],
+  "x": "Shady Records signed artists including D12, Obie Trice and 50 Cent."
+ },
+ {
+  "id": "era075",
+  "l": "era",
+  "d": 3,
+  "q": "Which label was founded by 50 Cent in 2003?",
+  "a": "G-Unit Records",
+  "w": [
+   "Shady Records",
+   "Aftermath Entertainment",
+   "Roc Nation"
+  ],
+  "x": "G-Unit Records included Young Buck, Lloyd Banks and Tony Yayo."
+ },
+ {
+  "id": "era076",
+  "l": "era",
+  "d": 2,
+  "q": "Which label did Jay-Z found in 2008?",
+  "a": "Roc Nation",
+  "w": [
+   "Roc-A-Fella Records",
+   "Aftermath Entertainment",
+   "GOOD Music"
+  ],
+  "x": "Roc Nation was launched after Jay-Z's deal with Live Nation."
+ },
+ {
+  "id": "era077",
+  "l": "era",
+  "d": 2,
+  "q": "Which label did Kanye West found in 2004?",
+  "a": "GOOD Music",
+  "w": [
+   "Roc-A-Fella Records",
+   "Roc Nation",
+   "Shady Records"
+  ],
+  "x": "GOOD Music's early roster included Common, John Legend and Kid Cudi."
+ },
+ {
+  "id": "era078",
+  "l": "era",
+  "d": 3,
+  "q": "Which label was founded by Anthony Tiffith in 2004?",
+  "a": "Top Dawg Entertainment",
+  "w": [
+   "Roc Nation",
+   "OVO Sound",
+   "GOOD Music"
+  ],
+  "x": "Top Dawg Entertainment became home to Kendrick Lamar and the Black Hippy collective."
+ },
+ {
+  "id": "era079",
+  "l": "era",
+  "d": 2,
+  "q": "Which label was co-founded by Drake and Noah Shebib in 2012?",
+  "a": "OVO Sound",
+  "w": [
+   "Top Dawg Entertainment",
+   "GOOD Music",
+   "Roc Nation"
+  ],
+  "x": "OVO Sound became the home of Drake and his longtime producer 40."
+ },
+ {
+  "id": "era080",
+  "l": "era",
+  "d": 2,
+  "q": "Which record label did Master P found in the early 1990s?",
+  "a": "No Limit Records",
+  "w": [
+   "Cash Money Records",
+   "Rap-A-Lot Records",
+   "Roc-A-Fella Records"
+  ],
+  "x": "No Limit's distinctive album covers and prolific releases defined late-1990s Southern rap."
+ },
+ {
+  "id": "era081",
+  "l": "era",
+  "d": 2,
+  "q": "Which record label was founded in New Orleans by Birdman and Slim?",
+  "a": "Cash Money Records",
+  "w": [
+   "No Limit Records",
+   "Rap-A-Lot Records",
+   "Death Row Records"
+  ],
+  "x": "Cash Money launched Lil Wayne and the Hot Boys."
+ },
+ {
+  "id": "era082",
+  "l": "era",
+  "d": 2,
+  "q": "Which Houston label was founded by J. Prince in 1986?",
+  "a": "Rap-A-Lot Records",
+  "w": [
+   "Cash Money Records",
+   "No Limit Records",
+   "Suave House Records"
+  ],
+  "x": "Rap-A-Lot became known for the Geto Boys and Houston's early gangsta rap scene."
+ },
+ {
+  "id": "era083",
+  "l": "era",
+  "d": 2,
+  "q": "Which DJ pioneered the chopped and screwed style in Houston?",
+  "a": "DJ Screw",
+  "w": [
+   "DJ Premier",
+   "DJ Shadow",
+   "DJ Qbert"
+  ],
+  "x": "DJ Screw slowed records down and created a distinctive hazy sound in the 1990s."
+ },
+ {
+  "id": "era084",
+  "l": "era",
+  "d": 2,
+  "q": "Which dance and music style emerged from New Orleans in the 1990s?",
+  "a": "Bounce",
+  "w": [
+   "Grime",
+   "Drill",
+   "Trap"
+  ],
+  "x": "Bounce is built on call-and-response chants and tracks from local DJs such as DJ Jubilee."
+ },
+ {
+  "id": "era085",
+  "l": "era",
+  "d": 3,
+  "q": "Which Southern group from Atlanta helped define the Dirty South sound alongside Goodie Mob?",
+  "a": "OutKast",
+  "w": [
+   "UGK",
+   "Three 6 Mafia",
+   "Geto Boys"
+  ],
+  "x": "OutKast's 1994 debut helped put Atlanta on the hip-hop map."
+ },
+ {
+  "id": "era086",
+  "l": "era",
+  "d": 2,
+  "q": "Which duo from Port Arthur, Texas, influenced Southern hip-hop in the 1990s?",
+  "a": "UGK",
+  "w": [
+   "OutKast",
+   "Goodie Mob",
+   "Three 6 Mafia"
+  ],
+  "x": "UGK's laid-back funk and detailed storytelling influenced artists such as Jay-Z."
+ },
+ {
+  "id": "era087",
+  "l": "era",
+  "d": 2,
+  "q": "Which Memphis group became known for dark, horror-themed hip-hop in the 1990s?",
+  "a": "Three 6 Mafia",
+  "w": [
+   "OutKast",
+   "UGK",
+   "Goodie Mob"
+  ],
+  "x": "Three 6 Mafia later won an Academy Award for Hustle & Flow."
+ },
+ {
+  "id": "era088",
+  "l": "era",
+  "d": 1,
+  "q": "Which subgenre originated in Atlanta in the early 2000s with 808 bass and rapid hi-hats?",
+  "a": "Trap",
+  "w": [
+   "Grime",
+   "Bounce",
+   "G-funk"
+  ],
+  "x": "Trap's pioneers included T.I., Young Jeezy and producer Lex Luger."
+ },
+ {
+  "id": "era089",
+  "l": "era",
+  "d": 2,
+  "q": "Which city is widely credited as the birthplace of drill music?",
+  "a": "Chicago",
+  "w": [
+   "London",
+   "Atlanta",
+   "Houston"
+  ],
+  "x": "Chicago drill gained national attention around 2010 through Chief Keef and producer Young Chop."
+ },
+ {
+  "id": "era090",
+  "l": "era",
+  "d": 2,
+  "q": "Which subgenre developed in London in the early 2000s from garage and dancehall influences?",
+  "a": "Grime",
+  "w": [
+   "Drill",
+   "Trap",
+   "Bounce"
+  ],
+  "x": "Wiley and Dizzee Rascal were among grime's earliest prominent MCs."
+ },
+ {
+  "id": "era091",
+  "l": "era",
+  "d": 3,
+  "q": "Which grime artist is often called the 'Godfather of Grime'?",
+  "a": "Wiley",
+  "w": [
+   "Dizzee Rascal",
+   "Skepta",
+   "Stormzy"
+  ],
+  "x": "Wiley's eskibeat instrumentals helped lay the foundation for grime."
+ },
+ {
+  "id": "era092",
+  "l": "era",
+  "d": 2,
+  "q": "Which style of hip-hop emerged from Miami in the 1980s with fast beats and heavy bass?",
+  "a": "Miami bass",
+  "w": [
+   "Trap",
+   "Grime",
+   "Boom bap"
+  ],
+  "x": "2 Live Crew brought Miami bass to national attention."
+ },
+ {
+  "id": "era093",
+  "l": "era",
+  "d": 2,
+  "q": "Which subgenre is associated with violent, macabre imagery and groups like Insane Clown Posse?",
+  "a": "Horrorcore",
+  "w": [
+   "Jazz rap",
+   "G-funk",
+   "Bounce"
+  ],
+  "x": "Horrorcore drew on horror film imagery and dark theatrical performances."
+ },
+ {
+  "id": "era094",
+  "l": "era",
+  "d": 2,
+  "q": "Which subgenre of hip-hop is largely instrumental and built around chopped samples?",
+  "a": "Instrumental hip hop",
+  "w": [
+   "Gangsta rap",
+   "Political hip hop",
+   "Horrorcore"
+  ],
+  "x": "DJ Shadow's Endtroducing..... is a landmark instrumental hip-hop album."
+ },
+ {
+  "id": "era095",
+  "l": "era",
+  "d": 3,
+  "q": "Which producer released 'Endtroducing.....' in 1996?",
+  "a": "DJ Shadow",
+  "w": [
+   "DJ Premier",
+   "DJ Screw",
+   "DJ Qbert"
+  ],
+  "x": "The album was made almost entirely from sampled records."
+ },
+ {
+  "id": "era096",
+  "l": "era",
+  "d": 2,
+  "q": "Which production duo was known for dense, chaotic sample collages with Public Enemy?",
+  "a": "The Bomb Squad",
+  "w": [
+   "The Beatnuts",
+   "Organized Noize",
+   "The Neptunes"
+  ],
+  "x": "The Bomb Squad layered dozens of samples into Public Enemy's tracks."
+ },
+ {
+  "id": "era097",
+  "l": "era",
+  "d": 3,
+  "q": "Which production team shaped the sound of OutKast and Goodie Mob?",
+  "a": "Organized Noize",
+  "w": [
+   "The Bomb Squad",
+   "The Neptunes",
+   "DJ Premier"
+  ],
+  "x": "Organized Noize blended live instruments and funk for Atlanta's Dirty South sound."
+ },
+ {
+  "id": "era098",
+  "l": "era",
+  "d": 2,
+  "q": "Which producer duo included Pharrell Williams and Chad Hugo?",
+  "a": "The Neptunes",
+  "w": [
+   "Organized Noize",
+   "The Bomb Squad",
+   "The Trackmasters"
+  ],
+  "x": "The Neptunes produced hits for Nelly, Snoop Dogg and Justin Timberlake."
+ },
+ {
+  "id": "era099",
+  "l": "era",
+  "d": 2,
+  "q": "Which producer is closely associated with the crunk sound of Lil Jon?",
+  "a": "Lil Jon",
+  "w": [
+   "DJ Screw",
+   "Lex Luger",
+   "DJ Premier"
+  ],
+  "x": "Lil Jon's shouted ad-libs and synthesized drums defined crunk."
+ },
+ {
+  "id": "era100",
+  "l": "era",
+  "d": 2,
+  "q": "Which regional scene produced Eminem, D12 and the film 8 Mile?",
+  "a": "Detroit",
+  "w": [
+   "Atlanta",
+   "Chicago",
+   "Memphis"
+  ],
+  "x": "Detroit's rap scene gained global attention in the late 1990s and early 2000s."
+ },
+ {
+  "id": "era101",
+  "l": "era",
+  "d": 2,
+  "q": "Which city is associated with Twista and Do or Die in the 1990s?",
+  "a": "Chicago",
+  "w": [
+   "Detroit",
+   "Memphis",
+   "Atlanta"
+  ],
+  "x": "Chicago produced a distinct fast-flow style before drill gained prominence."
+ },
+ {
+  "id": "era102",
+  "l": "era",
+  "d": 2,
+  "q": "Which city is home to the Roots and Meek Mill?",
+  "a": "Philadelphia",
+  "w": [
+   "Atlanta",
+   "Chicago",
+   "Miami"
+  ],
+  "x": "Philadelphia has produced influential rappers and the live-band group the Roots."
+ },
+ {
+  "id": "era103",
+  "l": "era",
+  "d": 2,
+  "q": "Which US city is widely regarded as the birthplace of hip-hop?",
+  "a": "New York City",
+  "w": [
+   "Los Angeles",
+   "Chicago",
+   "Philadelphia"
+  ],
+  "x": "Hip-hop's four elements coalesced in New York City during the 1970s."
+ },
+ {
+  "id": "era104",
+  "l": "era",
+  "d": 2,
+  "q": "Which California city is associated with N.W.A and Dr. Dre?",
+  "a": "Compton",
+  "w": [
+   "Inglewood",
+   "Bakersfield",
+   "Watts"
+  ],
+  "x": "Compton's streets shaped the group's lyrical setting and image."
+ },
+ {
+  "id": "era105",
+  "l": "era",
+  "d": 2,
+  "q": "Which city is associated with Snoop Dogg and Warren G?",
+  "a": "Long Beach",
+  "w": [
+   "Compton",
+   "Inglewood",
+   "Pasadena"
+  ],
+  "x": "Long Beach became a key West Coast rap center in the early 1990s."
+ },
+ {
+  "id": "era106",
+  "l": "era",
+  "d": 3,
+  "q": "Which borough produced the group A Tribe Called Quest?",
+  "a": "Queens",
+  "w": [
+   "The Bronx",
+   "Staten Island",
+   "Manhattan"
+  ],
+  "x": "A Tribe Called Quest formed in Queens and became a cornerstone of alternative rap."
+ },
+ {
+  "id": "era107",
+  "l": "era",
+  "d": 2,
+  "q": "Which Brooklyn rapper helped define the New York renaissance of the mid-1990s?",
+  "a": "The Notorious B.I.G.",
+  "w": [
+   "2Pac",
+   "Dr. Dre",
+   "OutKast"
+  ],
+  "x": "Biggie's 1994 debut helped reestablish New York as rap's commercial center."
+ },
+ {
+  "id": "era108",
+  "l": "era",
+  "d": 2,
+  "q": "Which Cleveland group was known for rapid harmonized flows?",
+  "a": "Bone Thugs-n-Harmony",
+  "w": [
+   "Three 6 Mafia",
+   "Migos",
+   "The Roots"
+  ],
+  "x": "The group's melodic multi-member verses made them one of the 1990s' most distinctive acts."
+ },
+ {
+  "id": "era109",
+  "l": "era",
+  "d": 2,
+  "q": "Which city did Bone Thugs-n-Harmony come from?",
+  "a": "Cleveland",
+  "w": [
+   "Detroit",
+   "Chicago",
+   "Memphis"
+  ],
+  "x": "The Cleveland group blended fast rhymes with close harmonies."
+ },
+ {
+  "id": "era110",
+  "l": "era",
+  "d": 2,
+  "q": "Which collective from Atlanta included André 3000 and Big Boi?",
+  "a": "OutKast",
+  "w": [
+   "Goodie Mob",
+   "UGK",
+   "Three 6 Mafia"
+  ],
+  "x": "OutKast's two members became one of the most decorated acts in rap."
+ },
+ {
+  "id": "era111",
+  "l": "era",
+  "d": 3,
+  "q": "Which collective is known for the 1993 album 'Enter the Wu-Tang (36 Chambers)'?",
+  "a": "Wu-Tang Clan",
+  "w": [
+   "Onyx",
+   "Mobb Deep",
+   "Gang Starr"
+  ],
+  "x": "The album's kung fu samples and raw lyricism shaped 1990s East Coast rap."
+ },
+ {
+  "id": "era112",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1994 album helped establish Nas as a leading New York rapper?",
+  "a": "Illmatic",
+  "w": [
+   "Ready to Die",
+   "The Chronic",
+   "Doggystyle"
+  ],
+  "x": "Illmatic was released in 1994 and is celebrated for its production and storytelling."
+ },
+ {
+  "id": "era113",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1994 album helped establish The Notorious B.I.G. as a leading New York rapper?",
+  "a": "Ready to Die",
+  "w": [
+   "Illmatic",
+   "The Chronic",
+   "Doggystyle"
+  ],
+  "x": "Ready to Die made Biggie one of the central figures of the 1994 New York renaissance."
+ },
+ {
+  "id": "era114",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1993 album introduced Snoop Doggy Dogg and became a Death Row landmark?",
+  "a": "Doggystyle",
+  "w": [
+   "The Chronic",
+   "Illmatic",
+   "Ready to Die"
+  ],
+  "x": "Doggystyle was released in 1993 and debuted at number one on the Billboard 200."
+ },
+ {
+  "id": "era115",
+  "l": "era",
+  "d": 2,
+  "q": "Which album is widely credited with popularizing G-funk in 1992?",
+  "a": "The Chronic",
+  "w": [
+   "Doggystyle",
+   "Illmatic",
+   "Ready to Die"
+  ],
+  "x": "Dr. Dre's debut solo album established the West Coast sound of the early 1990s."
+ },
+ {
+  "id": "era116",
+  "l": "era",
+  "d": 2,
+  "q": "Which producer co-founded Death Row Records with Suge Knight?",
+  "a": "Dr. Dre",
+  "w": [
+   "DJ Premier",
+   "Pete Rock",
+   "RZA"
+  ],
+  "x": "Dr. Dre left Death Row in the mid-1990s and later founded Aftermath."
+ },
+ {
+  "id": "era117",
+  "l": "era",
+  "d": 3,
+  "q": "Which label's 1990s rivalry with Death Row defined the East Coast–West Coast feud?",
+  "a": "Bad Boy Entertainment",
+  "w": [
+   "Def Jam Recordings",
+   "Roc-A-Fella Records",
+   "Tommy Boy Records"
+  ],
+  "x": "Bad Boy was home to The Notorious B.I.G., while Death Row represented Dr. Dre and 2Pac."
+ },
+ {
+  "id": "era118",
+  "l": "era",
+  "d": 2,
+  "q": "Which rapper founded Aftermath Entertainment in 1996?",
+  "a": "Dr. Dre",
+  "w": [
+   "Eminem",
+   "Suge Knight",
+   "Sean Combs"
+  ],
+  "x": "The label became a home for Eminem, 50 Cent and other major acts."
+ },
+ {
+  "id": "era119",
+  "l": "era",
+  "d": 2,
+  "q": "Which group's 1988 album 'Straight Outta Compton' is credited with putting gangsta rap on the map?",
+  "a": "N.W.A",
+  "w": [
+   "Public Enemy",
+   "Beastie Boys",
+   "Run-D.M.C."
+  ],
+  "x": "The album's raw depiction of Compton life drew both acclaim and controversy."
+ },
+ {
+  "id": "era120",
+  "l": "era",
+  "d": 3,
+  "q": "Which 1985 Schoolly D single is often cited as one of the first gangsta rap songs?",
+  "a": "P.S.K. (What Does It Mean?)",
+  "w": [
+   "The Message",
+   "Rapper's Delight",
+   "Planet Rock"
+  ],
+  "x": "The track's Philadelphia street narratives preceded the West Coast gangsta rap wave."
+ },
+ {
+  "id": "era121",
+  "l": "era",
+  "d": 2,
+  "q": "Which competition is considered a premier DJ turntablism contest?",
+  "a": "DMC World Championships",
+  "w": [
+   "Rock the Bells",
+   "Scribble Jam",
+   "The Source Awards"
+  ],
+  "x": "The DMC championships began in the mid-1980s and showcase scratching and routine skills."
+ },
+ {
+  "id": "era122",
+  "l": "era",
+  "d": 3,
+  "q": "Which DJ crew included Qbert and Mix Master Mike?",
+  "a": "Invisibl Skratch Piklz",
+  "w": [
+   "Rock Steady Crew",
+   "The Bomb Squad",
+   "Organized Noize"
+  ],
+  "x": "The group pushed turntablism forward with intricate scratch routines."
+ },
+ {
+  "id": "era123",
+  "l": "era",
+  "d": 3,
+  "q": "Which 1969 drum break from 'Amen Brother' became one of hip-hop's most sampled passages?",
+  "a": "The Amen Break",
+  "w": [
+   "The Funky Drummer",
+   "Apache Break",
+   "Think Break"
+  ],
+  "x": "The Winstons' track supplied a break used across hip-hop and drum and bass."
+ },
+ {
+  "id": "era124",
+  "l": "era",
+  "d": 3,
+  "q": "Which James Brown recording from 1970 provided a widely used break?",
+  "a": "Funky Drummer",
+  "w": [
+   "Amen Brother",
+   "Apache",
+   "Think"
+  ],
+  "x": "Clyde Stubblefield's drum solo became one of the most sampled rhythms in music."
+ },
+ {
+  "id": "era125",
+  "l": "era",
+  "d": 3,
+  "q": "Which 1973 instrumental by the Incredible Bongo Band supplied a famous break?",
+  "a": "Apache",
+  "w": [
+   "Funky Drummer",
+   "Amen Brother",
+   "Think (About It)"
+  ],
+  "x": "Its percussion break has been used in countless hip-hop tracks."
+ },
+ {
+  "id": "era126",
+  "l": "era",
+  "d": 3,
+  "q": "Which Lyn Collins song from 1972 supplied a much-sampled drum break?",
+  "a": "Think (About It)",
+  "w": [
+   "Funky Drummer",
+   "Amen Brother",
+   "Apache"
+  ],
+  "x": "The Think break is a staple of 1980s and 1990s hip-hop production."
+ },
+ {
+  "id": "era127",
+  "l": "era",
+  "d": 2,
+  "q": "Which term describes a rapper's boastful self-praise?",
+  "a": "Braggadocio",
+  "w": [
+   "Freestyle",
+   "Hook",
+   "Cypher"
+  ],
+  "x": "Braggadocio is a long-standing feature of MCing from early party rhymes to battle rap."
+ },
+ {
+  "id": "era128",
+  "l": "era",
+  "d": 2,
+  "q": "Which type of track is designed to attack another artist?",
+  "a": "Diss track",
+  "w": [
+   "Hook",
+   "Freestyle",
+   "Intro"
+  ],
+  "x": "Diss tracks have been part of hip-hop rivalries since the 1980s."
+ },
+ {
+  "id": "era129",
+  "l": "era",
+  "d": 2,
+  "q": "Which component of a rap song usually carries the main storytelling or rhyme scheme?",
+  "a": "Verse",
+  "w": [
+   "Hook",
+   "Break",
+   "Outro"
+  ],
+  "x": "Rappers typically deliver multiple verses around a recurring hook."
+ },
+ {
+  "id": "era130",
+  "l": "era",
+  "d": 2,
+  "q": "Which performance format means a rapper performs without musical accompaniment?",
+  "a": "A cappella",
+  "w": [
+   "Freestyle",
+   "Cypher",
+   "Skit"
+  ],
+  "x": "A cappella performances highlight an MC's timing and flow."
+ },
+ {
+  "id": "era131",
+  "l": "era",
+  "d": 2,
+  "q": "Which hip-hop tradition involves MCs trading improvised insults in front of a crowd?",
+  "a": "Battle rap",
+  "w": [
+   "Beatboxing",
+   "Tagging",
+   "Scratching"
+  ],
+  "x": "Battle rap grew from block-party competitions into organized leagues."
+ },
+ {
+  "id": "era132",
+  "l": "era",
+  "d": 3,
+  "q": "Which 1996 festival helped popularize battle rap in the United States?",
+  "a": "Scribble Jam",
+  "w": [
+   "Rock the Bells",
+   "Lollapalooza",
+   "Woodstock"
+  ],
+  "x": "Scribble Jam's rap battles drew competitors from across the country."
+ },
+ {
+  "id": "era133",
+  "l": "era",
+  "d": 2,
+  "q": "Which format lets DJs showcase blends and exclusive tracks outside an album release?",
+  "a": "Mixtape",
+  "w": [
+   "Album",
+   "Single",
+   "Soundtrack"
+  ],
+  "x": "Mixtapes were a crucial promotion tool in hip-hop before streaming."
+ },
+ {
+  "id": "era134",
+  "l": "era",
+  "d": 1,
+  "q": "Which instrument is central to a DJ's ability to cue and mix records?",
+  "a": "Turntables",
+  "w": [
+   "Drum kit",
+   "Bass guitar",
+   "Saxophone"
+  ],
+  "x": "Two turntables and a mixer became the classic hip-hop DJ setup."
+ },
+ {
+  "id": "era135",
+  "l": "era",
+  "d": 1,
+  "q": "Which person is called an MC in hip-hop?",
+  "a": "The rapper",
+  "w": [
+   "The DJ",
+   "The producer",
+   "The dancer"
+  ],
+  "x": "MC stands for master of ceremonies, a role that evolved into leading a crowd vocally."
+ },
+ {
+  "id": "era136",
+  "l": "era",
+  "d": 2,
+  "q": "Which element of hip-hop involves painting stylized letters on public surfaces?",
+  "a": "Graffiti",
+  "w": [
+   "Breakdancing",
+   "DJing",
+   "MCing"
+  ],
+  "x": "Graffiti became one of hip-hop's four foundational elements."
+ },
+ {
+  "id": "era137",
+  "l": "era",
+  "d": 1,
+  "q": "Which element of hip-hop involves rhythmic dance and acrobatic footwork?",
+  "a": "Breakdancing",
+  "w": [
+   "Graffiti",
+   "DJing",
+   "MCing"
+  ],
+  "x": "Breakdancing, also called b-boying, developed alongside DJing and MCing."
+ },
+ {
+  "id": "era138",
+  "l": "era",
+  "d": 2,
+  "q": "Which element of hip-hop centers on selecting and mixing records?",
+  "a": "DJing",
+  "w": [
+   "MCing",
+   "Graffiti",
+   "Beatboxing"
+  ],
+  "x": "DJing provided the musical foundation for early hip-hop parties."
+ },
+ {
+  "id": "era139",
+  "l": "era",
+  "d": 2,
+  "q": "Which element of hip-hop centers on rhyming and vocal delivery?",
+  "a": "MCing",
+  "w": [
+   "DJing",
+   "Graffiti",
+   "Breakdancing"
+  ],
+  "x": "MCing grew from simple party chants into complex lyricism."
+ },
+ {
+  "id": "era140",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1970s dance style involves rigid, robotic arm movements?",
+  "a": "Popping",
+  "w": [
+   "Breaking",
+   "Locking",
+   "Turfing"
+  ],
+  "x": "Popping developed in California and was popularized by the Electric Boogaloos."
+ },
+ {
+  "id": "era141",
+  "l": "era",
+  "d": 2,
+  "q": "Which hip-hop dance involves suddenly freezing and locking the arms?",
+  "a": "Locking",
+  "w": [
+   "Popping",
+   "Breaking",
+   "Turfing"
+  ],
+  "x": "Locking was developed by Don Campbell in Los Angeles."
+ },
+ {
+  "id": "era142",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1984 film popularized popping and locking through the Electric Boogaloos?",
+  "a": "Breakin'",
+  "w": [
+   "Wild Style",
+   "Beat Street",
+   "Juice"
+  ],
+  "x": "Breakin' and its sequel brought California dance styles to mainstream audiences."
+ },
+ {
+  "id": "era143",
+  "l": "era",
+  "d": 2,
+  "q": "Which hip-hop magazine was founded in 1988 and became influential in the 1990s?",
+  "a": "The Source",
+  "w": [
+   "XXL",
+   "Spin",
+   "Rolling Stone"
+  ],
+  "x": "The Source's pioneer awards and reviews shaped rap discourse."
+ },
+ {
+  "id": "era144",
+  "l": "era",
+  "d": 3,
+  "q": "Which hip-hop magazine was launched in 1997?",
+  "a": "XXL",
+  "w": [
+   "The Source",
+   "Spin",
+   "Vibe"
+  ],
+  "x": "XXL later became known for its annual Freshman Class list."
+ },
+ {
+  "id": "era145",
+  "l": "era",
+  "d": 2,
+  "q": "Which magazine was founded by Jonathan Shecter and David Berman?",
+  "a": "The Source",
+  "w": [
+   "XXL",
+   "Vibe",
+   "Spin"
+  ],
+  "x": "The Source began as a newsletter before becoming a full magazine."
+ },
+ {
+  "id": "era146",
+  "l": "era",
+  "d": 3,
+  "q": "Which record label's roster included Grandmaster Flash and the Furious Five?",
+  "a": "Sugarhill Records",
+  "w": [
+   "Profile Records",
+   "Def Jam Recordings",
+   "Tommy Boy Records"
+  ],
+  "x": "The label also released the Sugarhill Gang's landmark single."
+ },
+ {
+  "id": "era147",
+  "l": "era",
+  "d": 2,
+  "q": "Which producer founded Def Jam alongside Russell Simmons?",
+  "a": "Rick Rubin",
+  "w": [
+   "Suge Knight",
+   "Sean Combs",
+   "Sylvia Robinson"
+  ],
+  "x": "Rick Rubin's stripped-down production helped define early Def Jam releases."
+ },
+ {
+  "id": "era148",
+  "l": "era",
+  "d": 2,
+  "q": "Which executive co-founded Def Jam with Rick Rubin?",
+  "a": "Russell Simmons",
+  "w": [
+   "Suge Knight",
+   "Sean Combs",
+   "Tom Silverman"
+  ],
+  "x": "Russell Simmons later founded Phat Farm and Def Comedy Jam."
+ },
+ {
+  "id": "era149",
+  "l": "era",
+  "d": 2,
+  "q": "Which rapper was Def Jam's first major star?",
+  "a": "LL Cool J",
+  "w": [
+   "Run-D.M.C.",
+   "The Beastie Boys",
+   "Public Enemy"
+  ],
+  "x": "LL Cool J's 1985 single 'I Can't Live Without My Radio' established the label."
+ },
+ {
+  "id": "era150",
+  "l": "era",
+  "d": 2,
+  "q": "Which filmmaker directed 'Do the Right Thing' and used Public Enemy's music?",
+  "a": "Spike Lee",
+  "w": [
+   "Martin Scorsese",
+   "John Singleton",
+   "F. Gary Gray"
+  ],
+  "x": "Spike Lee's 1989 film made 'Fight the Power' a central part of its soundtrack."
+ },
+ {
+  "id": "era151",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1991 film directed by John Singleton explored life in South Central Los Angeles?",
+  "a": "Boyz n the Hood",
+  "w": [
+   "Juice",
+   "Friday",
+   "Menace II Society"
+  ],
+  "x": "The film was nominated for an Academy Award for Best Director."
+ },
+ {
+  "id": "era152",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1993 film directed by the Hughes brothers depicted South Central Los Angeles?",
+  "a": "Menace II Society",
+  "w": [
+   "Boyz n the Hood",
+   "Friday",
+   "Juice"
+  ],
+  "x": "The film became a defining work of early 1990s West Coast cinema."
+ },
+ {
+  "id": "era153",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1995 comedy film set in South Central Los Angeles became a hip-hop culture touchstone?",
+  "a": "Friday",
+  "w": [
+   "Boyz n the Hood",
+   "Menace II Society",
+   "Juice"
+  ],
+  "x": "Friday's soundtrack featured Dr. Dre and Ice Cube and spawned sequels."
+ },
+ {
+  "id": "era154",
+  "l": "era",
+  "d": 1,
+  "q": "Which 2015 biopic told the story of N.W.A?",
+  "a": "Straight Outta Compton",
+  "w": [
+   "8 Mile",
+   "Juice",
+   "The Show"
+  ],
+  "x": "The film dramatized the group's rise and the early days of Death Row Records."
+ },
+ {
+  "id": "era155",
+  "l": "era",
+  "d": 3,
+  "q": "Which 2011 documentary followed A Tribe Called Quest's reunion tour?",
+  "a": "Beats Rhymes & Life",
+  "w": [
+   "The Show",
+   "Scratch",
+   "Style Wars"
+  ],
+  "x": "The film chronicled the group's internal tensions during the tour."
+ },
+ {
+  "id": "era156",
+  "l": "era",
+  "d": 2,
+  "q": "Which label released the 1986 album 'Licensed to Ill'?",
+  "a": "Def Jam Recordings",
+  "w": [
+   "Profile Records",
+   "Tommy Boy Records",
+   "Sugarhill Records"
+  ],
+  "x": "Licensed to Ill was the first rap album to top the Billboard 200."
+ },
+ {
+  "id": "era157",
+  "l": "era",
+  "d": 2,
+  "q": "Which song did DJ Jazzy Jeff & The Fresh Prince win a Grammy for in 1989?",
+  "a": "Parents Just Don't Understand",
+  "w": [
+   "Rapper's Delight",
+   "The Message",
+   "Walk This Way"
+  ],
+  "x": "The win was the first Grammy awarded in a rap category."
+ },
+ {
+  "id": "era158",
+  "l": "era",
+  "d": 2,
+  "q": "Which 1991 album by Geto Boys brought Houston gangsta rap to national attention?",
+  "a": "We Can't Be Stopped",
+  "w": [
+   "The Chronic",
+   "Straight Outta Compton",
+   "Illmatic"
+  ],
+  "x": "The album's cover and singles made the Geto Boys one of Rap-A-Lot's flagship acts."
+ },
+ {
+  "id": "era159",
+  "l": "era",
+  "d": 2,
+  "q": "Which Houston rapper was a member of the Geto Boys?",
+  "a": "Willie D",
+  "w": [
+   "Bun B",
+   "Pimp C",
+   "DJ Screw"
+  ],
+  "x": "Willie D joined the Geto Boys for their 1988 album."
+ },
+ {
+  "id": "era160",
+  "l": "era",
+  "d": 3,
+  "q": "Which Geto Boys member was known for his small stature and distinctive stage persona?",
+  "a": "Bushwick Bill",
+  "w": [
+   "Willie D",
+   "Scarface",
+   "Willie Nelson"
+  ],
+  "x": "Bushwick Bill's verse on 'Behind the Music' stood out on We Can't Be Stopped."
+ },
+ {
+  "id": "era161",
+  "l": "era",
+  "d": 2,
+  "q": "Which producer from Memphis helped shape Three 6 Mafia's early sound?",
+  "a": "DJ Paul",
+  "w": [
+   "Lex Luger",
+   "Organized Noize",
+   "DJ Screw"
+  ],
+  "x": "DJ Paul and Juicy J produced the group's dark, keyboard-driven tracks."
+ },
+ {
+  "id": "era162",
+  "l": "era",
+  "d": 2,
+  "q": "Which producer became prominent in trap in the 2010s?",
+  "a": "Lex Luger",
+  "w": [
+   "DJ Paul",
+   "DJ Screw",
+   "Pete Rock"
+  ],
+  "x": "Lex Luger's 808-heavy drums influenced a generation of trap producers."
+ },
+ {
+  "id": "era163",
+  "l": "era",
+  "d": 2,
+  "q": "Which rapper founded Grand Hustle Records?",
+  "a": "T.I.",
+  "w": [
+   "Young Jeezy",
+   "Gucci Mane",
+   "Rick Ross"
+  ],
+  "x": "T.I.'s label helped launch artists including Paul Wall and Killer Mike."
+ },
+ {
+  "id": "era164",
+  "l": "era",
+  "d": 2,
+  "q": "Which label was founded by Rick Ross in 2009?",
+  "a": "Maybach Music Group",
+  "w": [
+   "Young Money Entertainment",
+   "Grand Hustle Records",
+   "Roc Nation"
+  ],
+  "x": "Maybach Music Group included Meek Mill, Wale and French Montana."
+ },
+ {
+  "id": "era165",
+  "l": "era",
+  "d": 3,
+  "q": "Which label did Lil Wayne found in 2005?",
+  "a": "Young Money Entertainment",
+  "w": [
+   "Maybach Music Group",
+   "Grand Hustle Records",
+   "Cash Money Records"
+  ],
+  "x": "Young Money's roster included Drake and Nicki Minaj."
+ },
+ {
+  "id": "era166",
+  "l": "era",
+  "d": 3,
+  "q": "Which company was founded by Kevin Lee and Pierre Thomas?",
+  "a": "Quality Control Music",
+  "w": [
+   "OVO Sound",
+   "Top Dawg Entertainment",
+   "Maybach Music Group"
+  ],
+  "x": "Quality Control managed Migos and became a major force in 2010s rap."
+ },
+ {
+  "id": "era167",
+  "l": "era",
+  "d": 2,
+  "q": "Which Atlanta collective included Quavo, Takeoff and Offset?",
+  "a": "Migos",
+  "w": [
+   "Future",
+   "Young Thug",
+   "Gucci Mane"
+  ],
+  "x": "Migos helped popularize triplet flows in trap music."
+ },
+ {
+  "id": "era168",
+  "l": "era",
+  "d": 2,
+  "q": "Which broadcasting medium gave grime MCs an audience before mainstream exposure?",
+  "a": "Pirate radio",
+  "w": [
+   "Trap",
+   "Bounce",
+   "G-funk"
+  ],
+  "x": "Pirate radio stations gave grime MCs an audience before mainstream exposure."
+ },
+ {
+  "id": "era169",
+  "l": "era",
+  "d": 2,
+  "q": "Which UK genre developed from Chicago drill with darker beats and London slang?",
+  "a": "Drill",
+  "w": [
+   "Grime",
+   "Trap",
+   "Bounce"
+  ],
+  "x": "UK drill gained prominence in the 2010s through artists in Brixton and beyond."
+ },
+ {
+  "id": "era170",
+  "l": "era",
+  "d": 2,
+  "q": "Which New York borough is associated with Pop Smoke's drill sound?",
+  "a": "Brooklyn",
+  "w": [
+   "Queens",
+   "The Bronx",
+   "Staten Island"
+  ],
+  "x": "Pop Smoke blended Brooklyn drill energy with UK-influenced production."
+ },
+ {
+  "id": "era171",
+  "l": "era",
+  "d": 2,
+  "q": "Which rapper co-founded the label Roc-A-Fella Records?",
+  "a": "Jay-Z",
+  "w": [
+   "Nas",
+   "DMX",
+   "Ja Rule"
+  ],
+  "x": "Jay-Z launched the label with Damon Dash and Kareem Burke."
+ },
+ {
+  "id": "era172",
+  "l": "era",
+  "d": 2,
+  "q": "Which production team worked with OutKast and Goodie Mob in Atlanta?",
+  "a": "Organized Noize",
+  "w": [
+   "The Bomb Squad",
+   "The Neptunes",
+   "The Trackmasters"
+  ],
+  "x": "Organized Noize blended funk, soul and live instrumentation for Atlanta rap."
+ },
+ {
+  "id": "era173",
+  "l": "era",
+  "d": 3,
+  "q": "Which 1980s New York label was run by Sylvia Robinson?",
+  "a": "Sugarhill Records",
+  "w": [
+   "Profile Records",
+   "Def Jam Recordings",
+   "Cold Chillin' Records"
+  ],
+  "x": "Sylvia Robinson produced and shaped the label behind 'Rapper's Delight'."
+ },
+ {
+  "id": "era174",
+  "l": "era",
+  "d": 2,
+  "q": "Which underground style combined hip-hop with punk rock in the 1980s and 1990s?",
+  "a": "Rap rock",
+  "w": [
+   "G-funk",
+   "Bounce",
+   "Horrorcore"
+  ],
+  "x": "Rap rock blended rapped vocals with electric guitar-driven instrumentation."
+ },
+ {
+  "id": "era175",
+  "l": "era",
+  "d": 2,
+  "q": "Which term describes hip-hop that rejects commercial gangsta rap conventions in favor of eclectic styles?",
+  "a": "Alternative hip hop",
+  "w": [
+   "Gangsta rap",
+   "Horrorcore",
+   "Trap"
+  ],
+  "x": "Alternative hip hop includes artists such as A Tribe Called Quest and De La Soul."
+ },
+ {
+  "id": "era176",
+  "l": "era",
+  "d": 3,
+  "q": "Which 1993 album introduced many listeners to the Wu-Tang Clan?",
+  "a": "Enter the Wu-Tang (36 Chambers)",
+  "w": [
+   "The Infamous",
+   "Ready to Die",
+   "Doggystyle"
+  ],
+  "x": "The album's raw production and kung fu samples shaped a generation of rappers."
+ },
+ {
+  "id": "era177",
+  "l": "era",
+  "d": 3,
+  "q": "Which DJ and producer formed the duo Eric B. & Rakim?",
+  "a": "Eric B.",
+  "w": [
+   "Rakim",
+   "Pete Rock",
+   "DJ Premier"
+  ],
+  "x": "Eric B. supplied the beats while Rakim supplied the rhymes."
+ },
+ {
+  "id": "era178",
+  "l": "era",
+  "d": 3,
+  "q": "Which record label was founded by Chris Blackwell?",
+  "a": "Island Records",
+  "w": [
+   "Def Jam Recordings",
+   "Tommy Boy Records",
+   "Profile Records"
+  ],
+  "x": "Island became a major distributor and home to influential rap releases."
+ }
+]

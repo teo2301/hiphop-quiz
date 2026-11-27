@@ -1,0 +1,5 @@
+/data/
+__pycache__/
+preview-shots/
+.venv/
+.venv

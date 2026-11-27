@@ -1,0 +1,1634 @@
+{
+  "about": "Guess the hip hop artist. Five clues each, hardest first; 5 points down to 1.",
+  "items": [
+    {
+      "id": "pac",
+      "n": "2Pac",
+      "al": [
+        "Tupac Shakur",
+        "Makaveli"
+      ],
+      "clues": [
+        "Born in East Harlem and raised in Baltimore, he studied acting before his family moved west.",
+        "He joined a Bay Area group as a dancer and roadie before stepping up to the mic.",
+        "His 1996 double album topped the US chart and included a track sampling a Bruce Hornsby piano hook.",
+        "He was shot in Las Vegas in September 1996 and died in hospital days later.",
+        "The artist is 2Pac."
+      ]
+    },
+    {
+      "id": "big",
+      "n": "The Notorious B.I.G.",
+      "al": [
+        "Biggie Smalls",
+        "Christopher Wallace"
+      ],
+      "clues": [
+        "He grew up in Brooklyn's Bedford-Stuyvesant neighborhood and got his nickname from a local figure.",
+        "A 1994 debut, recorded after he was released on bail, became a multi-platinum classic.",
+        "He was shot in Los Angeles in March 1997, months after a posthumous double album appeared.",
+        "His 1997 single 'Hypnotize' topped the Hot 100 and sampled an Herb Alpert trumpet line.",
+        "The artist is The Notorious B.I.G., also known as Biggie Smalls."
+      ]
+    },
+    {
+      "id": "nas",
+      "n": "Nas",
+      "al": [
+        "Nasir Jones",
+        "Nasty Nas"
+      ],
+      "clues": [
+        "He grew up in the Queensbridge housing projects and is the son of jazz musician Olu Dara.",
+        "A 1994 debut, heavily bootlegged before release, is often called one of the greatest rap albums ever.",
+        "He settled a very public New York feud in a 2001 track built from a Gil Scott-Heron loop.",
+        "He later released a sequel to that debut with a cover showing him beside a famous 1970s car.",
+        "The artist is Nas."
+      ]
+    },
+    {
+      "id": "jay",
+      "n": "Jay-Z",
+      "al": [
+        "Shawn Carter",
+        "Hov",
+        "Jigga"
+      ],
+      "clues": [
+        "Before music he sold CDs out of a car in Brooklyn and sampled a rock band on an early single.",
+        "He co-founded Roc-A-Fella Records after major labels passed on him.",
+        "He married a global pop superstar and their daughter is named Blue Ivy.",
+        "His 2003 album featured a Nina Simone sample and a track built on a Rick James riff.",
+        "The artist is Jay-Z."
+      ]
+    },
+    {
+      "id": "em",
+      "n": "Eminem",
+      "al": [
+        "Marshall Mathers",
+        "Slim Shady"
+      ],
+      "clues": [
+        "He was born in Missouri and raised in a trailer park near Detroit's 8 Mile Road.",
+        "He worked as a cook before a comedy-club open mic and a freestyle contest launched his career.",
+        "His alter ego first appeared on a 1997 independent album, then on a major-label debut produced by Dr. Dre.",
+        "He won an Academy Award for a song from a film about a Detroit rap battle.",
+        "The artist is Eminem."
+      ]
+    },
+    {
+      "id": "ll",
+      "n": "LL Cool J",
+      "al": [
+        "James Todd Smith"
+      ],
+      "clues": [
+        "He grew up in Queens and began rapping over beats from his grandfather's amplifier.",
+        "He was among the first rap acts signed to Def Jam and released a debut album in 1985.",
+        "He starred in the sitcom 'In the House' and later in the drama 'NCIS: Los Angeles'.",
+        "His hits include a duet with Jennifer Lopez and the track 'Mama Said Knock You Out'.",
+        "The artist is LL Cool J."
+      ]
+    },
+    {
+      "id": "run",
+      "n": "Run-DMC",
+      "al": [],
+      "clues": [
+        "This Queens trio helped make rap-rock collaborations mainstream with a guitar-heavy cover of an Aerosmith hit.",
+        "They wore matching black hats and laceless shoes, with a name referencing a DJ and two MCs.",
+        "A 1986 album with 'Walk This Way' was produced by Rick Rubin.",
+        "One member was killed outside a New York recording studio in 2002.",
+        "The artist is Run-DMC."
+      ]
+    },
+    {
+      "id": "bea",
+      "n": "Beastie Boys",
+      "al": [
+        "Mike D",
+        "Ad-Rock",
+        "MCA"
+      ],
+      "clues": [
+        "This trio started as a hardcore punk band in New York before switching to rap in the mid-1980s.",
+        "Their debut included a party anthem about fighting for the right to party and was produced by Rick Rubin.",
+        "They sampled jazz and funk with a live band, then founded a record label and a magazine.",
+        "One member directed videos under a pseudonym and was a Tibetan Buddhist activist.",
+        "The artist is Beastie Boys."
+      ]
+    },
+    {
+      "id": "pe",
+      "n": "Public Enemy",
+      "al": [
+        "Terminator X"
+      ],
+      "clues": [
+        "This Long Island collective's second album is a dense, sample-heavy manifesto released in 1988.",
+        "Their logo showed a man in a crosshair and their concerts featured a loudspeaker on a pole.",
+        "One member wore a giant clock necklace and shouted ad-libs; another delivered rapid, sermon-like verses.",
+        "They soundtracked the film 'Do the Right Thing' with a track about a news program.",
+        "The artist is Public Enemy."
+      ]
+    },
+    {
+      "id": "nwa",
+      "n": "N.W.A",
+      "al": [
+        "Eazy-E",
+        "MC Ren",
+        "DJ Yella"
+      ],
+      "clues": [
+        "This Compton group's 1988 debut was recorded largely in a small studio and featured a protest anthem about policing.",
+        "Their frontman, a short man with a high voice, died of AIDS-related illness in 1995.",
+        "A 1991 film told their story, and one member left before its release over a royalty dispute.",
+        "Their producer later built a studio empire and launched the careers of a Detroit rapper and a Long Beach rapper.",
+        "The artist is N.W.A."
+      ]
+    },
+    {
+      "id": "dre",
+      "n": "Dr. Dre",
+      "al": [
+        "Andre Young"
+      ],
+      "clues": [
+        "He started as a DJ in Compton and co-founded a group whose 1988 debut included a protest anthem.",
+        "He co-founded Death Row Records, then left to launch Aftermath.",
+        "He produced a 1992 album with a G-funk sound built on Parliament-Funkadelic samples.",
+        "He endorsed a premium headphone brand and appeared in a 2015 biopic about his early group.",
+        "The artist is Dr. Dre."
+      ]
+    },
+    {
+      "id": "sno",
+      "n": "Snoop Dogg",
+      "al": [
+        "Snoop Doggy Dogg",
+        "Calvin Broadus",
+        "Snoop Lion"
+      ],
+      "clues": [
+        "He was discovered in Long Beach after a cassette of his freestyles reached a Compton producer.",
+        "His 1993 debut was produced by that same producer and featured a laid-back drawl over G-funk beats.",
+        "He appeared on a hit about a dog and later starred in a reality show about his household.",
+        "He adopted a reggae persona and a Rastafarian name for a 2013 album.",
+        "The artist is Snoop Dogg."
+      ]
+    },
+    {
+      "id": "cube",
+      "n": "Ice Cube",
+      "al": [
+        "O'Shea Jackson"
+      ],
+      "clues": [
+        "He wrote the lyrics to a Compton group's signature protest track while still a teenager.",
+        "He left that group over money, then made a 1992 solo album produced partly by Sir Jinx.",
+        "He starred in a 1995 comedy about a family barbecue that became a surprise box-office hit.",
+        "He later produced sitcoms and a series of basketball documentaries.",
+        "The artist is Ice Cube."
+      ]
+    },
+    {
+      "id": "wu",
+      "n": "Wu-Tang Clan",
+      "al": [],
+      "clues": [
+        "This Staten Island collective of nine MCs took its name from a kung-fu film and debuted in 1993.",
+        "Their first album was largely produced by a member who later made minimalist films and soundtracks.",
+        "They appeared in a sitcom spin-off and their symbol became a global streetwear brand.",
+        "One member's 1994 solo album, 'Only Built 4 Cuban Linx...', is a crime-rap landmark.",
+        "The artist is Wu-Tang Clan."
+      ]
+    },
+    {
+      "id": "meth",
+      "n": "Method Man",
+      "al": [
+        "Clifford Smith"
+      ],
+      "clues": [
+        "He was rapping in Staten Island record shops before a 1993 group debut made him a star.",
+        "His deep voice anchored a 1994 solo album with a track sampling a soul ballad.",
+        "He shared a 1995 chart-topping duet with an R&B singer from New York.",
+        "He starred in a stoner comedy series with his groupmate Redman.",
+        "The artist is Method Man."
+      ]
+    },
+    {
+      "id": "gho",
+      "n": "Ghostface Killah",
+      "al": [
+        "Tony Starks",
+        "Dennis Coles"
+      ],
+      "clues": [
+        "He was an early member of a Staten Island crew and appeared on its 1993 debut.",
+        "His 1996 solo album 'Ironman' used soul samples and stream-of-consciousness storytelling.",
+        "His stage persona referenced a martial-arts villain and comic-book characters.",
+        "He formed a side group called Theodore Unit and appeared on many R&B remixes.",
+        "The artist is Ghostface Killah."
+      ]
+    },
+    {
+      "id": "rae",
+      "n": "Raekwon",
+      "al": [
+        "Corey Woods",
+        "Chef Raekwon"
+      ],
+      "clues": [
+        "He grew up in Staten Island and was part of a nine-MC crew's 1993 debut.",
+        "His 1995 solo album is a sprawling crime saga built around luxury cars and blueberry pies.",
+        "He coined a diamond-themed nickname and rapped with rapid internal rhymes.",
+        "He later released a sequel to that album with a companion documentary.",
+        "The artist is Raekwon."
+      ]
+    },
+    {
+      "id": "gza",
+      "n": "GZA",
+      "al": [
+        "Gary Grice"
+      ],
+      "clues": [
+        "He is a founding member of a Staten Island crew known for sparse, philosophical verses.",
+        "He appeared on a 1993 group debut and later released a 1995 album built around a martial-arts film sample.",
+        "He collaborated with a symphony orchestra on a classical-rap project.",
+        "That 1995 album's cover showed a sword-wielding figure and a green dragon.",
+        "The artist is GZA."
+      ]
+    },
+    {
+      "id": "odb",
+      "n": "Ol' Dirty Bastard",
+      "al": [
+        "ODB",
+        "Russell Jones",
+        "Big Baby Jesus"
+      ],
+      "clues": [
+        "He came from a Staten Island crew and made an unforgettable entrance on its 1993 debut.",
+        "His 1994 solo album mixed sung hooks, wild ad-libs and a track about a postal worker.",
+        "He took a major awards stage in 1998 to complain that the ceremonies had not paid his bills.",
+        "He entered a New York courthouse in 1999 wearing only a jacket and died of an overdose in 2004.",
+        "The artist is Ol' Dirty Bastard."
+      ]
+    },
+    {
+      "id": "atcq",
+      "n": "A Tribe Called Quest",
+      "al": [],
+      "clues": [
+        "This Queens trio mixed jazz samples and live bass, and helped found the Native Tongues collective.",
+        "Their 1990 debut included a song about a woman named Bonita and a track built on a flute loop.",
+        "They appeared in a 1993 film about a day in the life of their neighborhood.",
+        "Their 2016 album was released after one member's death and featured a guest verse from Busta Rhymes.",
+        "The artist is A Tribe Called Quest."
+      ]
+    },
+    {
+      "id": "dela",
+      "n": "De La Soul",
+      "al": [],
+      "clues": [
+        "This Long Island trio debuted in 1989 with a playful album built on vintage game-show samples.",
+        "They were part of the Native Tongues movement and used surreal, character-based verses.",
+        "Their 1993 album explored identity and included a track with a gospel-trained singer.",
+        "They spent years in a contract dispute with their label before a 2020 comeback album.",
+        "The artist is De La Soul."
+      ]
+    },
+    {
+      "id": "com",
+      "n": "Common",
+      "al": [
+        "Lonnie Lynn",
+        "Common Sense"
+      ],
+      "clues": [
+        "He grew up on Chicago's South Side and was raised by a mother who taught him poetry.",
+        "His 1994 debut 'Resurrection' was produced by No I.D. and sampled jazz piano.",
+        "He acted in the film 'Selma' and published a memoir about being raised by his mother.",
+        "He collaborated on a 2000 album cut that recounted a night out with a friend.",
+        "The artist is Common."
+      ]
+    },
+    {
+      "id": "kan",
+      "n": "Kanye West",
+      "al": [
+        "Ye",
+        "Yeezy"
+      ],
+      "clues": [
+        "He grew up in Chicago, studied at art school, and first made beats for Roc-A-Fella artists.",
+        "A 2004 debut used sped-up soul samples and a hit song about a gold-digging partner.",
+        "He survived a 2005 car crash and later made an album with a masked, shirtless cover.",
+        "He designed shoes and clothing, and his Sunday Service performances mixed gospel with fashion.",
+        "The artist is Kanye West."
+      ]
+    },
+    {
+      "id": "way",
+      "n": "Lil Wayne",
+      "al": [
+        "Weezy",
+        "Dwayne Carter"
+      ],
+      "clues": [
+        "He was a teenage prodigy in New Orleans who joined the Hot Boys crew before going solo.",
+        "His 2008 blockbuster album included an Auto-Tuned hook and a roller-coaster metaphor.",
+        "He recorded mixtapes while in prison and once published a monthly magazine from behind bars.",
+        "He has a raspy voice and a penchant for tattoos and skateboards.",
+        "The artist is Lil Wayne."
+      ]
+    },
+    {
+      "id": "dra",
+      "n": "Drake",
+      "al": [
+        "Aubrey Graham",
+        "Drizzy"
+      ],
+      "clues": [
+        "He grew up in Toronto and starred as a high-school student on a Canadian teen drama.",
+        "He was signed by Lil Wayne and released a mixtape series called 'So Far Gone'.",
+        "He founded OVO Sound and later became a chart machine with hits like 'God's Plan'.",
+        "He is known for a sweet singing voice and for popularizing a melancholic Toronto sound.",
+        "The artist is Drake."
+      ]
+    },
+    {
+      "id": "ken",
+      "n": "Kendrick Lamar",
+      "al": [
+        "K.Dot",
+        "Kenny"
+      ],
+      "clues": [
+        "He grew up in Compton and was mentored by a local producer and label boss.",
+        "His 2012 major-label debut was a cinematic concept album set in his hometown.",
+        "A 2015 jazz-inflected album included a trumpet-driven track and a video about police violence.",
+        "He won a Pulitzer Prize for music for a 2017 album and later headlined a halftime show.",
+        "The artist is Kendrick Lamar."
+      ]
+    },
+    {
+      "id": "cole",
+      "n": "J. Cole",
+      "al": [
+        "Jermaine Cole",
+        "Dreamville"
+      ],
+      "clues": [
+        "He grew up in Fayetteville, North Carolina, and kept a notebook of rhymes as a teen.",
+        "He attended St. John's University and first gained attention with a mixtape called 'The Come Up'.",
+        "He founded a label and an annual music festival in his home state.",
+        "He often raps about anxiety, family and the pressure of success.",
+        "The artist is J. Cole."
+      ]
+    },
+    {
+      "id": "tyl",
+      "n": "Tyler, the Creator",
+      "al": [
+        "Wolf Haley"
+      ],
+      "clues": [
+        "He founded the Odd Future collective in Los Angeles as a teenager and used shock humor early on.",
+        "He directed most of his own videos and launched a pastel fashion line.",
+        "His 2019 album wore a blonde wig on the cover and sampled soul and disco.",
+        "He hosted a novelty talk show and designed a brightly colored clothing collection.",
+        "The artist is Tyler, the Creator."
+      ]
+    },
+    {
+      "id": "fra",
+      "n": "Frank Ocean",
+      "al": [
+        "Christopher Edwin Breaux"
+      ],
+      "clues": [
+        "He grew up in New Orleans and lost his mother when he was young.",
+        "He joined the Odd Future collective and surprised fans with a free mixtape called 'Nostalgia, Ultra'.",
+        "He released two acclaimed albums in 2016 and then stepped back from public life.",
+        "He is openly gay and known for handwritten notes and long silences between records.",
+        "The artist is Frank Ocean."
+      ]
+    },
+    {
+      "id": "trav",
+      "n": "Travis Scott",
+      "al": [
+        "La Flame",
+        "Cactus Jack",
+        "Jacques Webster"
+      ],
+      "clues": [
+        "He grew up in Houston and dropped out of college to chase a recording career.",
+        "He joined Grand Hustle and released a debut album with a psychedelic, mosh-pit sound.",
+        "He became known for energetic live shows, elaborate stage sets and a sneaker collaboration.",
+        "A 2018 track with a French phrase in its title became a streaming giant.",
+        "The artist is Travis Scott."
+      ]
+    },
+    {
+      "id": "car",
+      "n": "Cardi B",
+      "al": [
+        "Belcalis Almanzar",
+        "Bardi"
+      ],
+      "clues": [
+        "She grew up in the Bronx and worked as a dancer before becoming an internet personality.",
+        "She released a 2017 breakout single with a title taken from a passport-photo rule.",
+        "She married a rapper from Staten Island and has a daughter named Kulture.",
+        "She won a Grammy for Best Rap Album and is known for outspoken interviews.",
+        "The artist is Cardi B."
+      ]
+    },
+    {
+      "id": "meg",
+      "n": "Megan Thee Stallion",
+      "al": [
+        "Megan Pete",
+        "Tina Snow"
+      ],
+      "clues": [
+        "She grew up in San Antonio and studied health administration at Prairie View A&M.",
+        "She built a following by posting freestyles online and released mixtapes through Houston.",
+        "She collaborated on a 2020 chart-topper and appeared on a remix with Beyonce.",
+        "She is known for tall stats, a confident stage presence and a catchphrase about hot girls.",
+        "The artist is Megan Thee Stallion."
+      ]
+    },
+    {
+      "id": "nic",
+      "n": "Nicki Minaj",
+      "al": [
+        "Onika Tanya Maraj",
+        "Roman"
+      ],
+      "clues": [
+        "She was born in Trinidad and raised in Queens, where she attended a performing-arts high school.",
+        "She released colorful mixtapes and debuted with a single about a bass line.",
+        "She created a flamboyant alter ego and voiced a character in an animated film.",
+        "She is known for rapid-fire verses, wigs and a pink-heavy visual style.",
+        "The artist is Nicki Minaj."
+      ]
+    },
+    {
+      "id": "lau",
+      "n": "Lauryn Hill",
+      "al": [
+        "L-Boogie"
+      ],
+      "clues": [
+        "She was born in New Jersey and began performing with her siblings as a child.",
+        "She starred in a 1993 film about a high-school poet and then led a six-member band.",
+        "Her 1998 solo album won several Grammys and included a hit about a heartless ex.",
+        "She withdrew from touring, raised children in Jamaica and occasionally played acoustic shows.",
+        "The artist is Lauryn Hill."
+      ]
+    },
+    {
+      "id": "out",
+      "n": "Outkast",
+      "al": [
+        "Big Boi",
+        "André 3000"
+      ],
+      "clues": [
+        "This Atlanta duo paired a slow-talking member with a flamboyant one and debuted in 1994.",
+        "Their 1996 album 'ATLiens' used spacey production and alien-themed imagery.",
+        "Their double album 'Speakerboxxx/The Love Below' produced two chart-toppers with contrasting styles.",
+        "One member starred in a film about an elementary-school teacher with a wild garden.",
+        "The artist is Outkast."
+      ]
+    },
+    {
+      "id": "goo",
+      "n": "Goodie Mob",
+      "al": [],
+      "clues": [
+        "This Atlanta quartet was part of the Dungeon Family collective and debuted in 1995.",
+        "Their first album introduced a term for the American South as a distinct hip-hop region.",
+        "They frequently collaborated with a duo whose double album paired streetwise and romantic sides.",
+        "One member later became a soul singer with a retro falsetto and a Grammy-winning single.",
+        "The artist is Goodie Mob."
+      ]
+    },
+    {
+      "id": "cee",
+      "n": "CeeLo Green",
+      "al": [
+        "Cee-Lo",
+        "Thomas Callaway",
+        "Gnarls Barkley"
+      ],
+      "clues": [
+        "He grew up in Atlanta and formed a rap group that was part of the Dungeon Family.",
+        "He formed a duo with a producer and released a 2006 single built on a sped-up soul sample.",
+        "He later sang a cheeky pop hit about forgetting a woman's name and coached on a TV singing competition.",
+        "He is known for a distinctive mustache, a large build and a retro soul style.",
+        "The artist is CeeLo Green."
+      ]
+    },
+    {
+      "id": "salt",
+      "n": "Salt-N-Pepa",
+      "al": [
+        "Cheryl James",
+        "Sandra Dent"
+      ],
+      "clues": [
+        "This Queens trio emerged in the mid-1980s and one member had been a nurse before music.",
+        "They made a 1988 album with a track advising respect and protection.",
+        "They won a Grammy in the 1990s and appeared in a 2017 biopic about their rise.",
+        "They were known for bold fashion and early videos mixing rap with choreography.",
+        "The artist is Salt-N-Pepa."
+      ]
+    },
+    {
+      "id": "que",
+      "n": "Queen Latifah",
+      "al": [
+        "Dana Owens"
+      ],
+      "clues": [
+        "She grew up in Newark and got her start as a teenage MC in a hip-hop crew.",
+        "Her 1989 debut included a track about female independence and a reggae-flavored song.",
+        "She became a successful film actress and hosted a daytime talk show.",
+        "She founded a production company and sang jazz and soul standards.",
+        "The artist is Queen Latifah."
+      ]
+    },
+    {
+      "id": "mis",
+      "n": "Missy Elliott",
+      "al": [
+        "Melissa Elliott",
+        "Misdemeanor"
+      ],
+      "clues": [
+        "She grew up in Portsmouth, Virginia, and first recorded with a local R&B group called Sista.",
+        "She signed to The Goldmind Inc. and released a 1997 album produced by Timbaland.",
+        "She made futuristic videos with abstract dance moves and a track about putting things down.",
+        "She wrote hits for R&B singers and received a Grammy for a 2002 single.",
+        "The artist is Missy Elliott."
+      ]
+    },
+    {
+      "id": "eve",
+      "n": "Eve",
+      "al": [
+        "Eve Jihan Cooper"
+      ],
+      "clues": [
+        "She was born in Philadelphia and was discovered by a rapper who became her mentor.",
+        "She released a 1999 album with a track sampling a soul ballad and a video with an R&B singer.",
+        "She hosted a daytime talk show for several seasons and acted in films and TV dramas.",
+        "She won a Grammy for a collaboration with a pop-rock singer.",
+        "The artist is Eve."
+      ]
+    },
+    {
+      "id": "lud",
+      "n": "Ludacris",
+      "al": [
+        "Chris Bridges",
+        "Christopher Bridges"
+      ],
+      "clues": [
+        "He grew up in Chicago and Atlanta and worked as a camp counselor before making mixtapes.",
+        "He founded Disturbing tha Peace and released a 2000 album with a hit about a woman named Rose.",
+        "He acted in the fast-car film franchise and hosted a radio show in Atlanta.",
+        "He is known for a rapid, playful flow and a long streak of charting singles.",
+        "The artist is Ludacris."
+      ]
+    },
+    {
+      "id": "nel",
+      "n": "Nelly",
+      "al": [
+        "Cornell Haynes"
+      ],
+      "clues": [
+        "He grew up in St. Louis and served in the Air Force before releasing music.",
+        "His 2000 debut mixed country-tinged hooks with rap and a bandana worn over one eye.",
+        "He won a Grammy for a duet with a member of Destiny's Child and appeared on a reality show.",
+        "He launched a clothing line and owned a stake in a basketball team.",
+        "The artist is Nelly."
+      ]
+    },
+    {
+      "id": "fif",
+      "n": "50 Cent",
+      "al": [
+        "Curtis Jackson"
+      ],
+      "clues": [
+        "He was born in Queens and, after being shot nine times, moved to Atlanta to record.",
+        "A 2003 debut produced by two famous producers included a hit with a creepy string loop.",
+        "He starred in a 2005 film loosely based on his life and launched a vitamin-water brand.",
+        "He built a TV production company and starred in an ensemble crime drama series.",
+        "The artist is 50 Cent."
+      ]
+    },
+    {
+      "id": "jar",
+      "n": "Ja Rule",
+      "al": [
+        "Jeffrey Atkins"
+      ],
+      "clues": [
+        "He grew up in Queens and first appeared on a 1995 album by a fellow Queens rapper.",
+        "He became a chart staple in the early 2000s with hook-heavy hits produced by Irv Gotti.",
+        "He acted in a 2005 crime film and later appeared at a celebrity boxing event.",
+        "A feud with a fellow New York rapper defined his public image.",
+        "The artist is Ja Rule."
+      ]
+    },
+    {
+      "id": "dmx",
+      "n": "DMX",
+      "al": [
+        "Earl Simmons",
+        "Dark Man X"
+      ],
+      "clues": [
+        "He grew up in Yonkers and once lived in a group home before finding music.",
+        "He released a string of platinum albums in the late 1990s with prayer-inflected verses.",
+        "He acted in 'Exit Wounds' and 'Romeo Must Die' alongside Jet Li.",
+        "He was known for barking ad-libs and for a foundation that supported foster youth.",
+        "The artist is DMX."
+      ]
+    },
+    {
+      "id": "mob",
+      "n": "Mobb Deep",
+      "al": [
+        "Prodigy",
+        "Havoc"
+      ],
+      "clues": [
+        "This Queensbridge duo met as teenagers and made stark, piano-looped street narratives.",
+        "Their 1995 album included a hit about the harsh realities of their housing project.",
+        "One member was imprisoned for weapons possession and published prison memoirs.",
+        "The pair had a long feud with a Staten Island crew and later joined a reality series.",
+        "The artist is Mobb Deep."
+      ]
+    },
+    {
+      "id": "mas",
+      "n": "Mase",
+      "al": [
+        "Mason Betha",
+        "Murda Mase"
+      ],
+      "clues": [
+        "He grew up in Harlem and was mentored by a Bad Boy rapper before releasing records.",
+        "His 1997 debut included a hit about leaving the game and a track with an R&B singer.",
+        "He retired from rap to become a minister and returned with a 2004 album.",
+        "He was known for a soft, laid-back delivery and a diamond-covered watch.",
+        "The artist is Mase."
+      ]
+    },
+    {
+      "id": "cam",
+      "n": "Cam'ron",
+      "al": [
+        "Cameron Giles",
+        "Killa Cam"
+      ],
+      "clues": [
+        "He grew up in Harlem and started in street life before rapping with a cousin.",
+        "His 2002 album included a reggae-tinged hit and a track produced by Kanye West.",
+        "He founded a crew known for loud colors, fur coats and a bird-themed label.",
+        "He hosted web and radio shows and appeared in a reality series with his family.",
+        "The artist is Cam'ron."
+      ]
+    },
+    {
+      "id": "dip",
+      "n": "Dipset",
+      "al": [
+        "The Diplomats",
+        "Diplomat Records"
+      ],
+      "clues": [
+        "This Harlem crew was founded by a rapper and his cousin in the late 1990s.",
+        "Its members wore matching bandanas and mink coats and appeared on a 2002 compilation.",
+        "The group's bird-themed logo became a sub-brand.",
+        "Its leader later feuded with a former member and appeared in an entourage reality show.",
+        "The artist is Dipset, also known as The Diplomats."
+      ]
+    },
+    {
+      "id": "ict",
+      "n": "Ice-T",
+      "al": [
+        "Tracy Marrow",
+        "Original Gangster"
+      ],
+      "clues": [
+        "He was born in New Jersey and moved to Los Angeles, where he became a pioneering West Coast MC.",
+        "He released a 1988 album called 'Power' and later formed a heavy-metal band.",
+        "He starred as a police detective on a long-running NBC crime drama.",
+        "He narrated documentaries and wrote books about gang culture and the industry.",
+        "The artist is Ice-T."
+      ]
+    },
+    {
+      "id": "chu",
+      "n": "Chuck D",
+      "al": [
+        "Carlton Ridenhour"
+      ],
+      "clues": [
+        "He grew up on Long Island and studied graphic design before forming a political rap group.",
+        "He wrote a book whose title borrowed a famous command from his group's anthem.",
+        "He is known for a deep voice and for wearing a baseball cap turned backward.",
+        "He collaborated with a jazz saxophonist and with a punk band on tour.",
+        "The artist is Chuck D."
+      ]
+    },
+    {
+      "id": "flv",
+      "n": "Flavor Flav",
+      "al": [
+        "William Drayton"
+      ],
+      "clues": [
+        "He grew up on Long Island and became the comic foil in a politically charged rap group.",
+        "He wore an oversized clock on a chain and shouted interjections between verses.",
+        "He starred in reality shows about his love life and a restaurant venture.",
+        "He was a fixture of early videos with a gold tooth and eccentric sunglasses.",
+        "The artist is Flavor Flav."
+      ]
+    },
+    {
+      "id": "fla",
+      "n": "Grandmaster Flash",
+      "al": [
+        "Joseph Saddler"
+      ],
+      "clues": [
+        "He was born in Barbados and raised in the Bronx, where he studied electronics.",
+        "He built a custom DJ setup with a cueing system and pioneered quick-mix techniques.",
+        "His group recorded a 1982 single about the daily grind that became an early rap landmark.",
+        "He entered a hall of fame and appeared in a documentary about hip-hop's origins.",
+        "The artist is Grandmaster Flash."
+      ]
+    },
+    {
+      "id": "her",
+      "n": "DJ Kool Herc",
+      "al": [
+        "Clive Campbell"
+      ],
+      "clues": [
+        "He was born in Jamaica and moved to the Bronx as a teenager.",
+        "At a 1973 block party he extended the drum break on two turntables, a foundational technique.",
+        "His sister inspired the name of the new culture when she teased him about his dance music.",
+        "He ran a sound system with a name derived from his own nickname and later worked as a carpenter.",
+        "The artist is DJ Kool Herc."
+      ]
+    },
+    {
+      "id": "bam",
+      "n": "Afrika Bambaataa",
+      "al": [
+        "Kevin Donovan"
+      ],
+      "clues": [
+        "He grew up in the Bronx and founded a crew called the Zulu Nation.",
+        "A 1982 single used a synthesized bass line and drum machine to create an electro classic.",
+        "He organized early hip-hop parties and was once called a founding father of the culture.",
+        "He appeared in films and later faced allegations that damaged his reputation.",
+        "The artist is Afrika Bambaataa."
+      ]
+    },
+    {
+      "id": "ham",
+      "n": "MC Hammer",
+      "al": [
+        "Stanley Kirk Burrell"
+      ],
+      "clues": [
+        "He grew up in Oakland and began as a batboy for a baseball team before making music.",
+        "He released a 1990 album with a hit built on a Rick James bass line and matching baggy pants.",
+        "He founded a media company, hosted a TV show and became a minister.",
+        "He is remembered for a catchphrase about stopping and a choreographed dance routine.",
+        "The artist is MC Hammer."
+      ]
+    },
+    {
+      "id": "van",
+      "n": "Vanilla Ice",
+      "al": [
+        "Robert Van Winkle"
+      ],
+      "clues": [
+        "He grew up in Texas and became one of the first white rappers to top the charts.",
+        "His 1990 hit used a Queen and David Bowie bass line and a catchphrase about freezing.",
+        "He starred in a 1991 film built around his image and later hosted renovation shows.",
+        "He was mocked for claiming a rough upbringing that did not match his background.",
+        "The artist is Vanilla Ice."
+      ]
+    },
+    {
+      "id": "wil",
+      "n": "Will Smith",
+      "al": [
+        "Willard Smith",
+        "Fresh Prince"
+      ],
+      "clues": [
+        "He grew up in Philadelphia and started as a rapper before becoming a television star.",
+        "He starred in a sitcom about a street-smart teen sent to live with wealthy relatives.",
+        "He became a film star and was nominated for an Oscar for playing a tennis player's father.",
+        "He released a 1990 album with a summertime hit and returned to recording in 2024.",
+        "The artist is Will Smith."
+      ]
+    },
+    {
+      "id": "lyt",
+      "n": "MC Lyte",
+      "al": [
+        "Lana Michele Moorer"
+      ],
+      "clues": [
+        "She grew up in Brooklyn and began rapping as a teenager in the mid-1980s.",
+        "She was among the first women to release a full rap album and toured with a reggae star.",
+        "She founded a hip-hop education foundation and appeared in the film 'Sunset Park'.",
+        "She hosted radio shows and judged a dance competition on television.",
+        "The artist is MC Lyte."
+      ]
+    },
+    {
+      "id": "rox",
+      "n": "Roxanne Shante",
+      "al": [
+        "Lolita Shante Gooden"
+      ],
+      "clues": [
+        "She grew up in Queens and recorded a response track at fourteen over a Juice Crew beat.",
+        "Her 1984 single sparked a wave of answer records and made her an early female star.",
+        "She later earned a psychology degree and spoke about surviving homelessness.",
+        "She appeared in a 2017 biopic about her own life and mentored young artists.",
+        "The artist is Roxanne Shante."
+      ]
+    },
+    {
+      "id": "puf",
+      "n": "Diddy",
+      "al": [
+        "Sean Combs",
+        "Puff Daddy"
+      ],
+      "clues": [
+        "He grew up in Harlem and interned at Uptown Records before founding his own label.",
+        "He rapped on a 1997 chart-topper built around a Police guitar sample and a Diana Ross lyric.",
+        "He launched a clothing line, a TV network and a reality show about a girl group.",
+        "He is known for a raspy voice, platinum chains and a famous victory catchphrase.",
+        "The artist is Diddy."
+      ]
+    },
+    {
+      "id": "jdp",
+      "n": "Jermaine Dupri",
+      "al": [],
+      "clues": [
+        "He grew up in Atlanta and started a label as a teenager after spotting two young rappers.",
+        "He produced hits for a teen trio and later for a Louisiana R&B singer.",
+        "He hosted a radio show and appeared in a reality show about Atlanta music.",
+        "He is known for a high voice and for co-writing a Mariah Carey chart-topper.",
+        "The artist is Jermaine Dupri."
+      ]
+    },
+    {
+      "id": "tim",
+      "n": "Timbaland",
+      "al": [
+        "Timothy Mosley",
+        "Timbo"
+      ],
+      "clues": [
+        "He grew up in Virginia and made beats on a drum machine before joining Swing Mob.",
+        "He produced futuristic hits for a rapper from Portsmouth and a Canadian pop singer.",
+        "He had his own single built on a stuttering vocal sample and a heavy kick.",
+        "He is known for unusual percussion and high-pitched ad-libs.",
+        "The artist is Timbaland."
+      ]
+    },
+    {
+      "id": "pha",
+      "n": "Pharrell Williams",
+      "al": [],
+      "clues": [
+        "He grew up in Virginia Beach and played drums and keyboards before becoming a producer.",
+        "He formed a production duo with Chad Hugo and made hits for hip-hop and pop stars.",
+        "He sang a 2013 chart-topper featured in an animated film about minions.",
+        "He is known for a falsetto voice and a broad-brimmed hat.",
+        "The artist is Pharrell Williams."
+      ]
+    },
+    {
+      "id": "swz",
+      "n": "Swizz Beatz",
+      "al": [
+        "Kasseem Dean"
+      ],
+      "clues": [
+        "He grew up in the Bronx and started making beats as a teenager with a drum machine.",
+        "He produced Ruff Ryders hits and later worked with Kanye West and Jay-Z.",
+        "He founded a label and an art platform and is married to an R&B singer.",
+        "He is known for an energetic stage presence and a shouted producer tag.",
+        "The artist is Swizz Beatz."
+      ]
+    },
+    {
+      "id": "prm",
+      "n": "DJ Premier",
+      "al": [
+        "Christopher Martin"
+      ],
+      "clues": [
+        "He grew up in Brooklyn and learned to DJ in his teens before forming a production duo.",
+        "He made classic records for a Queensbridge duo and a Brooklyn lyricist with soul loops.",
+        "His scratch routines and a shouted one-word tag became signatures.",
+        "He founded a label and mentored a generation of boom-bap producers.",
+        "The artist is DJ Premier."
+      ]
+    },
+    {
+      "id": "pet",
+      "n": "Pete Rock",
+      "al": [
+        "Peter Phillips"
+      ],
+      "clues": [
+        "He grew up in the Bronx and became known for a jazz-sampled style in the early 1990s.",
+        "He released an album with a vocalist named CL Smooth and later made instrumental records.",
+        "He produced tracks for Staten Island members and for a Chicago rapper's debut.",
+        "He is known for a laid-back delivery and an enormous record collection.",
+        "The artist is Pete Rock."
+      ]
+    },
+    {
+      "id": "rza",
+      "n": "RZA",
+      "al": [
+        "Robert Diggs"
+      ],
+      "clues": [
+        "He grew up in Staten Island and is the main producer behind a nine-MC crew's 1993 debut.",
+        "He made sparse piano and kung-fu sampled beats and scored films for Quentin Tarantino.",
+        "He wrote books on martial arts and philosophy and led a rock side project.",
+        "He is known for glasses and a cap and for an electronic-themed solo album.",
+        "The artist is RZA."
+      ]
+    },
+    {
+      "id": "red",
+      "n": "Redman",
+      "al": [
+        "Reginald Noble"
+      ],
+      "clues": [
+        "He grew up in Newark and was discovered by a fellow New Jersey rapper.",
+        "He released a 1992 debut produced largely by Erick Sermon.",
+        "He formed a comedy duo with another rapper and starred in stoner films.",
+        "He is known for a raspy flow and for appearing on many group projects.",
+        "The artist is Redman."
+      ]
+    },
+    {
+      "id": "bus",
+      "n": "Busta Rhymes",
+      "al": [
+        "Trevor Smith"
+      ],
+      "clues": [
+        "He grew up in Brooklyn and started in a group called Leaders of the New School.",
+        "He released a 1996 album with rapid verses and a hit built on a flute sample.",
+        "He is known for wild facial expressions and mythological video concepts.",
+        "He founded a label called Conglomerate and appeared in a film about a manager.",
+        "The artist is Busta Rhymes."
+      ]
+    },
+    {
+      "id": "qtp",
+      "n": "Q-Tip",
+      "al": [
+        "Kamaal Ibn John Fareed",
+        "Jonathan Davis"
+      ],
+      "clues": [
+        "He grew up in Queens and formed a jazz-rap trio in high school.",
+        "He produced most of his group's early albums and later worked with Mariah Carey.",
+        "He released a solo album produced with Timbaland and had a hit with a simple plea in its title.",
+        "He is known for a warm high voice and for helping found the Native Tongues movement.",
+        "The artist is Q-Tip."
+      ]
+    },
+    {
+      "id": "wyc",
+      "n": "Wyclef Jean",
+      "al": [],
+      "clues": [
+        "He grew up in Haiti and New Jersey and led a trio mixing rap, reggae and soul.",
+        "He made a 1996 album that blended Caribbean rhythms with a Bob Marley cover.",
+        "He collaborated with Shakira on a World Cup anthem and ran for president at home.",
+        "He is known for a distinctive hat and a charity focused on his home country.",
+        "The artist is Wyclef Jean."
+      ]
+    },
+    {
+      "id": "bun",
+      "n": "Bun B",
+      "al": [
+        "Bernard Freeman"
+      ],
+      "clues": [
+        "He grew up in Port Arthur, Texas, and formed a duo with his childhood friend Pimp C.",
+        "The pair became pillars of Southern rap with a 1996 album full of talk-box hooks.",
+        "He wrote a book about Southern rap and taught a university course on the culture.",
+        "He is known for a deep voice, a large beard and a Houston radio show.",
+        "The artist is Bun B."
+      ]
+    },
+    {
+      "id": "pim",
+      "n": "Pimp C",
+      "al": [
+        "Chad Butler"
+      ],
+      "clues": [
+        "He grew up in Port Arthur, Texas, and formed a duo with a school friend.",
+        "He produced their early records and rapped in a drawl over talk-box beats.",
+        "He was imprisoned for parole violations and died in a Los Angeles hotel in 2007.",
+        "He was a fierce advocate of Southern rap and appeared on many guest verses.",
+        "The artist is Pimp C."
+      ]
+    },
+    {
+      "id": "sca",
+      "n": "Scarface",
+      "al": [
+        "Brad Jordan"
+      ],
+      "clues": [
+        "He grew up in Houston and joined a group called the Geto Boys before going solo.",
+        "His 1993 album is often cited as one of the greatest rap records, with dark introspection.",
+        "He later became a Houston radio host and an advocate for mental health.",
+        "He is known for a gravelly voice and a hit about being tired of the streets.",
+        "The artist is Scarface."
+      ]
+    },
+    {
+      "id": "tip",
+      "n": "T.I.",
+      "al": [
+        "Clifford Harris"
+      ],
+      "clues": [
+        "He grew up in Atlanta and spent time in a juvenile detention center before music.",
+        "He released a 2003 album with a rubber-band hit and starred in a film about a dealer.",
+        "He founded a label, joined a family reality show and served time on weapons charges.",
+        "He is known for a rapid Atlanta drawl and a rivalry with another Southern rapper.",
+        "The artist is T.I."
+      ]
+    },
+    {
+      "id": "ros",
+      "n": "Rick Ross",
+      "al": [
+        "William Roberts",
+        "Rozay"
+      ],
+      "clues": [
+        "He grew up in Mississippi and studied criminal justice before making music.",
+        "He debuted with a Portishead sample and adopted a lavish drug-boss persona.",
+        "He founded Maybach Music Group and released platinum albums with many guests.",
+        "He is known for a deep growl, a large physique and a winged logo.",
+        "The artist is Rick Ross."
+      ]
+    },
+    {
+      "id": "fut",
+      "n": "Future",
+      "al": [
+        "Nayvadius Wilburn"
+      ],
+      "clues": [
+        "He grew up in Atlanta and first appeared on mixtapes with a collective called Freebandz.",
+        "He released a 2012 album with an Auto-Tuned hit and a masked-bandit track.",
+        "He pioneered a mumbled melodic style and charted an unusual number of singles.",
+        "He is known for a tattooed arm and a chart-topping album with a Toronto rapper.",
+        "The artist is Future."
+      ]
+    },
+    {
+      "id": "uzi",
+      "n": "Lil Uzi Vert",
+      "al": [
+        "Symere Woods"
+      ],
+      "clues": [
+        "He grew up in Philadelphia and left school to focus on music.",
+        "He released a 2017 album with a hit titled like a video-game command.",
+        "He is known for hair in bright colors, face tattoos and a genre-blending style.",
+        "He delayed an album for years while in a high-profile relationship with a designer.",
+        "The artist is Lil Uzi Vert."
+      ]
+    },
+    {
+      "id": "pol",
+      "n": "Polo G",
+      "al": [
+        "Taurus Bartlett"
+      ],
+      "clues": [
+        "He grew up on Chicago's North Side and went viral with a track made in high school.",
+        "He released a 2021 album with a soul-sampling hit that topped the Hot 100.",
+        "He is known for melodic drill verses mixing street detail with vulnerable reflection.",
+        "He appeared in a documentary about Chicago drill and worked with a Toronto rapper.",
+        "The artist is Polo G."
+      ]
+    },
+    {
+      "id": "psmk",
+      "n": "Pop Smoke",
+      "al": [
+        "Bashar Baraka Jackson"
+      ],
+      "clues": [
+        "He grew up in Brooklyn and came up in the city's drill scene before a Los Angeles trip.",
+        "He recorded a breakthrough mixtape with dancehall-flavored beats and a Woo anthem.",
+        "He was shot at a Hollywood Hills home in 2020, weeks before his debut album arrived.",
+        "He is known for a deep rough voice and an anthem about being outside.",
+        "The artist is Pop Smoke."
+      ]
+    },
+    {
+      "id": "cart",
+      "n": "Playboi Carti",
+      "al": [
+        "Jordan Carter"
+      ],
+      "clues": [
+        "He grew up in Atlanta and emerged with minimalist, repetitive underground hooks.",
+        "He was part of the AWGE collective and released a self-titled mixtape in 2017.",
+        "He is known for a high baby voice, elaborate masks and long gaps between albums.",
+        "His 2020 album divided listeners with distorted production and punk energy.",
+        "The artist is Playboi Carti."
+      ]
+    },
+    {
+      "id": "yng",
+      "n": "Young Thug",
+      "al": [
+        "Jeffery Williams",
+        "Thugger",
+        "Slime"
+      ],
+      "clues": [
+        "He grew up in Atlanta and made mixtapes with a raw, unpredictable vocal style.",
+        "He released a 2015 mixtape with a lifestyle anthem and a song named after a Marvel hero.",
+        "He is known for bending genres, eccentric fashion and a huge circle of collaborators.",
+        "He faced a long racketeering trial in Georgia while releasing new music.",
+        "The artist is Young Thug."
+      ]
+    },
+    {
+      "id": "mig",
+      "n": "Migos",
+      "al": [
+        "Quavo",
+        "Takeoff",
+        "Offset"
+      ],
+      "clues": [
+        "This Atlanta trio consisted of three relatives and popularized a triplet flow.",
+        "They released a 2017 album with a chart-topping single about luxury logos.",
+        "They appeared in a comedy film and had a hit built on a simple keyboard loop.",
+        "One member was killed in Houston in 2022; the others continued the brand.",
+        "The artist is Migos."
+      ]
+    },
+    {
+      "id": "wiz",
+      "n": "Wiz Khalifa",
+      "al": [
+        "Cameron Thomaz"
+      ],
+      "clues": [
+        "He grew up in Pittsburgh and released mixtapes independently before a major deal.",
+        "He had a 2011 chart-topper about smoking and sang a theme for a fast-car film.",
+        "He founded Taylor Gang and is known for a drawl and many tattoos.",
+        "He collaborated with a Toronto rapper on a 2016 single with a roller-coaster beat.",
+        "The artist is Wiz Khalifa."
+      ]
+    },
+    {
+      "id": "igg",
+      "n": "Iggy Azalea",
+      "al": [
+        "Amelia Watson"
+      ],
+      "clues": [
+        "She was born in Sydney and moved to the United States to pursue rapping.",
+        "She released a 2014 album with a chart-topping single built on claps and a bouncy hook.",
+        "She sang with a British singer on a track titled like an expensive purchase.",
+        "She is known for an Australian accent and a blonde image.",
+        "The artist is Iggy Azalea."
+      ]
+    },
+    {
+      "id": "pit",
+      "n": "Pitbull",
+      "al": [
+        "Armando Perez"
+      ],
+      "clues": [
+        "He grew up in Miami and came up in the city's Cuban-American music scene.",
+        "He released a 2004 album with a hotel-themed hit and many later party anthems.",
+        "He is known for a bald head, sunglasses and a catchphrase about hosting the world.",
+        "He appeared on reality TV and hosted a New Year's special in Miami.",
+        "The artist is Pitbull."
+      ]
+    },
+    {
+      "id": "game",
+      "n": "The Game",
+      "al": [
+        "Jayceon Taylor"
+      ],
+      "clues": [
+        "He grew up in Compton and was discovered after a chance studio encounter.",
+        "His 2005 debut was produced by Dr. Dre and featured a Chaka Khan sample.",
+        "He has a long Compton feud and founded a charity for at-risk youth.",
+        "He is known for a deep voice and West Coast gangsta-rap albums.",
+        "The artist is The Game."
+      ]
+    },
+    {
+      "id": "wal",
+      "n": "Wale",
+      "al": [
+        "Olubowale Akintimehin"
+      ],
+      "clues": [
+        "He grew up in Washington, D.C., and studied in Virginia before releasing mixtapes.",
+        "He signed to a label founded by a fellow DC rapper and later worked with Rick Ross.",
+        "He is known for a scholarly wordy style and a love of professional wrestling.",
+        "He released an album named after a classic novel and a slow jam with an R&B singer.",
+        "The artist is Wale."
+      ]
+    },
+    {
+      "id": "ugd",
+      "n": "U-God",
+      "al": [
+        "Lamont Hawkins",
+        "Golden Arms"
+      ],
+      "clues": [
+        "He was one of the nine Staten Island MCs who debuted in 1993.",
+        "He spent time in prison before that album and contributed a distinctive deep voice.",
+        "He released solo records and joined a documentary about the crew's early years.",
+        "He is known for a slow heavy flow and a comic-book-inspired nickname.",
+        "The artist is U-God."
+      ]
+    },
+    {
+      "id": "mst",
+      "n": "Masta Killa",
+      "al": [
+        "Elgin Turner"
+      ],
+      "clues": [
+        "He was a late addition to a nine-MC Staten Island group and appeared on its 1993 debut.",
+        "He had a small role in a kung-fu film before his recording career.",
+        "He is known for a quiet deliberate flow and long gaps between solo albums.",
+        "His 2004 solo album title drew on martial-arts philosophy.",
+        "The artist is Masta Killa."
+      ]
+    },
+    {
+      "id": "azz",
+      "n": "AZ",
+      "al": [
+        "Anthony Cruz"
+      ],
+      "clues": [
+        "He grew up in Brooklyn and was part of a group called S.A. Smash before going solo.",
+        "He appeared on a famous 1994 album and debuted with a Sugar Hill themed title.",
+        "He is known for a smooth jazz-influenced flow about street life.",
+        "He formed a duo with a New York peer and later worked with DJ Premier.",
+        "The artist is AZ."
+      ]
+    },
+    {
+      "id": "bpn",
+      "n": "Big Pun",
+      "al": [
+        "Christopher Rios",
+        "Big Punisher"
+      ],
+      "clues": [
+        "He was born in the Bronx and rose from a homeless shelter to stardom.",
+        "His 1998 album had a Latin-percussion hit and a track with a reggae singer.",
+        "He was known for a huge frame and a fast multi-syllabic flow.",
+        "He died of a heart attack in 2000 at age twenty-eight.",
+        "The artist is Big Pun."
+      ]
+    },
+    {
+      "id": "fat",
+      "n": "Fat Joe",
+      "al": [
+        "Joseph Cartagena"
+      ],
+      "clues": [
+        "He grew up in the Bronx and was part of Terror Squad before going solo.",
+        "He founded that crew and later had a global hit with a Caribbean dancer.",
+        "He is known for a deep voice, a stocky build and New York street affiliations.",
+        "He hosted radio and appeared in films and reality television.",
+        "The artist is Fat Joe."
+      ]
+    },
+    {
+      "id": "tec",
+      "n": "Tech N9ne",
+      "al": [
+        "Aaron Yates"
+      ],
+      "clues": [
+        "He grew up in Kansas City and built a following through independent releases and touring.",
+        "He founded Strange Music and released a 1999 album of rapid tongue-twisting verses.",
+        "He is known for face paint, a rocky delivery and a huge guest-heavy catalog.",
+        "He worked with another Missouri rapper on a chart single with a horror-themed video.",
+        "The artist is Tech N9ne."
+      ]
+    },
+    {
+      "id": "strm",
+      "n": "Stormzy",
+      "al": [
+        "Michael Omari"
+      ],
+      "clues": [
+        "He grew up in Croydon, south London, and became known through grime videos online.",
+        "He released a 2017 debut and headlined Glastonbury in a Union Jack vest.",
+        "He founded a scholarship for black students and wrote a children's book about music.",
+        "He appears on a chart-topping track with Ed Sheeran and leads the UK grime wave.",
+        "The artist is Stormzy."
+      ]
+    },
+    {
+      "id": "ske",
+      "n": "Skepta",
+      "al": [
+        "Joseph Junior Adenuga"
+      ],
+      "clues": [
+        "He grew up in Tottenham, north London, and came up in the grime scene with his brothers.",
+        "His 2016 album 'Konnichiwa' won a Mercury Prize and had a phone-alert hook.",
+        "He worked with a Canadian rapper on a shutdown anthem and a fashion campaign.",
+        "He is known for a deadpan delivery and the Boy Better Know label.",
+        "The artist is Skepta."
+      ]
+    },
+    {
+      "id": "diz",
+      "n": "Dizzee Rascal",
+      "al": [
+        "Dylan Mills"
+      ],
+      "clues": [
+        "He grew up in east London and won a school award for a music project before making grime.",
+        "His 2003 debut 'I Luv U' was recorded while he was still a teenager.",
+        "He crossed over with a 2007 chart-topper built on a sixties soul drum break.",
+        "He worked with a French electronic duo and later returned to reflective grime.",
+        "The artist is Dizzee Rascal."
+      ]
+    },
+    {
+      "id": "wly",
+      "n": "Wiley",
+      "al": [
+        "Richard Cowie",
+        "Eskiboy"
+      ],
+      "clues": [
+        "He grew up in east London and is often called the godfather of grime.",
+        "He released a long run of instrumental tracks and founded a label with a rival MC.",
+        "He had a 2013 chart hit boasting about a luxury car with a horn sample.",
+        "He published an autobiography and mentored many of grime's biggest names.",
+        "The artist is Wiley."
+      ]
+    },
+    {
+      "id": "cce",
+      "n": "Central Cee",
+      "al": [
+        "Oakley Caesar-Su"
+      ],
+      "clues": [
+        "He grew up in west London and first appeared on drill videos as a teenager.",
+        "His 2022 mixtape included a track named after a first-class travel upgrade.",
+        "He recorded a 2024 duet with a Canadian rapper about splitting a bill.",
+        "He is known for a relaxed flow, arm tattoos and US drill chart entries.",
+        "The artist is Central Cee."
+      ]
+    },
+    {
+      "id": "dav",
+      "n": "Dave",
+      "al": [
+        "David Omoregie"
+      ],
+      "clues": [
+        "He grew up in Brixton, south London, and learned piano as a child.",
+        "He released a 2019 album with a soul-sampling track about social issues.",
+        "He won a Mercury Prize and acted in a coming-of-age television series.",
+        "He is known for rapid thoughtful verses and a remix with a grime star.",
+        "The artist is Dave."
+      ]
+    },
+    {
+      "id": "jes",
+      "n": "Jessie J",
+      "al": [
+        "Jessica Cornish"
+      ],
+      "clues": [
+        "She grew up in London and trained at a performing-arts school before writing for others.",
+        "Her 2010 debut had a price-tag hit and a powerhouse ballad about forgiveness.",
+        "She coached on a televised singing competition in Britain and America.",
+        "She performed at the Olympics and is known for a wide vocal range.",
+        "The artist is Jessie J."
+      ]
+    },
+    {
+      "id": "bbun",
+      "n": "Bad Bunny",
+      "al": [
+        "Benito Antonio Martínez Ocasio"
+      ],
+      "clues": [
+        "He grew up in Vega Baja, Puerto Rico, and was discovered after posting songs online.",
+        "He became a star with trap and reggaeton and a 2022 album set in a summer haven.",
+        "He recorded a chart-topping remix with Cardi B and is known for painted nails.",
+        "He won Grammys for Latin albums and toured stadiums without speaking much English.",
+        "The artist is Bad Bunny."
+      ]
+    },
+    {
+      "id": "deck",
+      "n": "Inspectah Deck",
+      "al": [
+        "Jason Hunter"
+      ],
+      "clues": [
+        "He is a Staten Island MC who opened many tracks on a famous 1993 album with rapid verses.",
+        "He produced for a crew affiliate and released a solo record called 'Uncontrolled Substance'.",
+        "He is known for dense internal rhymes and a calm deliberate delivery.",
+        "He released a 2009 collaboration album with a fellow clan member.",
+        "The artist is Inspectah Deck."
+      ]
+    }
+  ],
+  "decoys": [
+    "A Boogie wit da Hoodie",
+    "A$AP Rocky",
+    "Action Bronson",
+    "AJ Tracey",
+    "Anderson .Paak",
+    "Anuel AA",
+    "Big L",
+    "Black Thought",
+    "Bone Thugs-n-Harmony",
+    "Camila Cabello",
+    "Cazzu",
+    "Chief Keef",
+    "Chino XL",
+    "Chunkz",
+    "Coco Jones",
+    "Consequence",
+    "D'Angelo",
+    "DaBaby",
+    "Dappy",
+    "Denzel Curry",
+    "Digable Planets",
+    "Doechii",
+    "Dr. Octagon",
+    "Eddie Murphy",
+    "Eric B. and Rakim",
+    "Erick Sermon",
+    "Fat Pat",
+    "Fetty Wap",
+    "Flo Milli",
+    "Flo Rida",
+    "Freddie Gibbs",
+    "French Montana",
+    "G-Eazy",
+    "Gang Starr",
+    "Giggs",
+    "GloRilla",
+    "Grand Puba",
+    "Gucci Mane",
+    "Guru",
+    "House of Pain",
+    "Jack Harlow",
+    "Jadakiss",
+    "J Balvin",
+    "Jay Rock",
+    "Jeezy",
+    "Jelly Roll",
+    "Jim Jones",
+    "Jme",
+    "Joey Badass",
+    "Juice Wrld",
+    "Jungle Brothers",
+    "Kool G Rap",
+    "Kool Keith",
+    "Lil Baby",
+    "Lil Boosie",
+    "Lil Durk",
+    "Lil Jon",
+    "Lil Kim",
+    "Lil Nas X",
+    "Lil Scrappy",
+    "Lil Twist",
+    "Lil Yachty",
+    "Lola Brooke",
+    "Mac Miller",
+    "Macklemore",
+    "Meek Mill",
+    "Mr. Lif",
+    "Nipsey Hussle",
+    "NF",
+    "O.C.",
+    "Ocean Wisdom",
+    "Omar",
+    "Pusha T",
+    "Rakim",
+    "Rapsody",
+    "Rich Homie Quan",
+    "Rico Nasty",
+    "Riff Raff",
+    "Roc Marciano",
+    "Royce da 5'9",
+    "Saukrates",
+    "Schoolboy Q",
+    "Sean Price",
+    "Shaquille O'Neal",
+    "Shyne",
+    "Ski Mask the Slump God",
+    "Skillz",
+    "Smif-N-Wessun",
+    "Sol",
+    "Speech",
+    "Stalley",
+    "Statik Selektah",
+    "Stetsasonic",
+    "Suicideboys",
+    "Swae Lee",
+    "Tha Eastsidaz",
+    "The Beatnuts",
+    "The LOX",
+    "The Pharcyde",
+    "The Roots",
+    "The Sugarhill Gang",
+    "Tinashe",
+    "Tory Lanez",
+    "Trina",
+    "Trippie Redd",
+    "Twista",
+    "21 Savage",
+    "Ugly God",
+    "Vado",
+    "Vince Staples",
+    "Westside Gunn",
+    "YBN Cordae",
+    "Yelawolf",
+    "Young Buck",
+    "Young Dolph",
+    "Young M.A",
+    "Yung Gravy",
+    "Lil Tjay",
+    "Nardo Wick",
+    "Coi Leray",
+    "Kaytranada",
+    "Bad Boy Bill"
+  ]
+}

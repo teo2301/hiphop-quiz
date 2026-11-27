@@ -1,0 +1,1699 @@
+{
+  "about": "Higher or lower data for hip hop: album sales, release years, chart runs, Grammy wins, streams, track lengths and Hot 100 hits. Figures are approximate where noted.",
+  "cats": {
+    "sales": {
+      "name": "Album sales",
+      "unit": "million copies",
+      "approx": true,
+      "word": "sales",
+      "ask": "Did {b} sell more or fewer copies than {a}?",
+      "hi": "More",
+      "lo": "Fewer"
+    },
+    "year": {
+      "name": "Release year",
+      "unit": "released",
+      "year": true,
+      "word": "year",
+      "ask": "Was {b} released before or after {a}?",
+      "hi": "After",
+      "lo": "Before"
+    },
+    "chart": {
+      "name": "Weeks at No.1",
+      "unit": "weeks at No.1",
+      "word": "weeks",
+      "ask": "Did {b} spend more or fewer weeks at No.1 than {a}?",
+      "hi": "More",
+      "lo": "Fewer"
+    },
+    "grammy": {
+      "name": "Grammy wins",
+      "unit": "awards",
+      "word": "wins",
+      "ask": "Did {b} win more or fewer Grammys than {a}?",
+      "hi": "More",
+      "lo": "Fewer"
+    },
+    "stream": {
+      "name": "Spotify streams",
+      "unit": "billion streams",
+      "approx": true,
+      "word": "streams",
+      "ask": "Has {b} been streamed more or fewer times than {a}?",
+      "hi": "More",
+      "lo": "Fewer"
+    },
+    "length": {
+      "name": "Track length",
+      "unit": "minutes",
+      "approx": true,
+      "word": "length",
+      "ask": "Is {b} longer or shorter than {a}?",
+      "hi": "Longer",
+      "lo": "Shorter"
+    },
+    "hot100": {
+      "name": "Hot 100 hits",
+      "unit": "charted songs",
+      "word": "hits",
+      "ask": "Did {b} have more or fewer Hot 100 hits than {a}?",
+      "hi": "More",
+      "lo": "Fewer"
+    }
+  },
+  "items": [
+    {
+      "id": "sal01",
+      "c": "sales",
+      "n": "Thriller - Michael Jackson",
+      "v": 70,
+      "d": "1982 album",
+      "note": "RIAA-certified 30x platinum; worldwide estimates vary"
+    },
+    {
+      "id": "sal02",
+      "c": "sales",
+      "n": "The Marshall Mathers LP - Eminem",
+      "v": 18,
+      "d": "2000 album",
+      "note": "Rough worldwide estimate, often quoted as 18-20 million; rounded"
+    },
+    {
+      "id": "sal03",
+      "c": "sales",
+      "n": "The Score - Fugees",
+      "v": 17,
+      "d": "1996 album",
+      "note": "Commonly cited worldwide estimate, rounded"
+    },
+    {
+      "id": "sal04",
+      "c": "sales",
+      "n": "The Eminem Show - Eminem",
+      "v": 16,
+      "d": "2002 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal05",
+      "c": "sales",
+      "n": "Get Rich or Die Tryin' - 50 Cent",
+      "v": 12,
+      "d": "2003 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal06",
+      "c": "sales",
+      "n": "The Miseducation of Lauryn Hill",
+      "v": 12,
+      "d": "1998 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal07",
+      "c": "sales",
+      "n": "All Eyez on Me - 2Pac",
+      "v": 11,
+      "d": "1996 album",
+      "note": "Diamond-certified in the US; worldwide estimate, rounded"
+    },
+    {
+      "id": "sal08",
+      "c": "sales",
+      "n": "Licensed to Ill - Beastie Boys",
+      "v": 9,
+      "d": "1986 album",
+      "note": "RIAA multi-platinum; worldwide estimate, rounded"
+    },
+    {
+      "id": "sal09",
+      "c": "sales",
+      "n": "Tha Carter III - Lil Wayne",
+      "v": 8,
+      "d": "2008 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal10",
+      "c": "sales",
+      "n": "Doggystyle - Snoop Dogg",
+      "v": 7,
+      "d": "1993 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal11",
+      "c": "sales",
+      "n": "Scorpion - Drake",
+      "v": 7,
+      "d": "2018 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal12",
+      "c": "sales",
+      "n": "Life After Death - The Notorious B.I.G.",
+      "v": 6,
+      "d": "1997 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal13",
+      "c": "sales",
+      "n": "2001 - Dr. Dre",
+      "v": 6,
+      "d": "1999 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal14",
+      "c": "sales",
+      "n": "Take Care - Drake",
+      "v": 5,
+      "d": "2011 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal15",
+      "c": "sales",
+      "n": "Me Against the World - 2Pac",
+      "v": 5,
+      "d": "1995 album",
+      "note": "US multi-platinum; worldwide estimate, rounded"
+    },
+    {
+      "id": "sal16",
+      "c": "sales",
+      "n": "The Chronic - Dr. Dre",
+      "v": 5,
+      "d": "1992 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal17",
+      "c": "sales",
+      "n": "Ready to Die - The Notorious B.I.G.",
+      "v": 4,
+      "d": "1994 album",
+      "note": "US multi-platinum; worldwide estimate, rounded"
+    },
+    {
+      "id": "sal18",
+      "c": "sales",
+      "n": "The College Dropout - Kanye West",
+      "v": 4,
+      "d": "2004 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal19",
+      "c": "sales",
+      "n": "The Black Album - Jay-Z",
+      "v": 4,
+      "d": "2003 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal20",
+      "c": "sales",
+      "n": "Raising Hell - Run-DMC",
+      "v": 3,
+      "d": "1986 album",
+      "note": "RIAA 3x platinum; worldwide estimate, rounded"
+    },
+    {
+      "id": "sal21",
+      "c": "sales",
+      "n": "The Predator - Ice Cube",
+      "v": 3,
+      "d": "1992 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal22",
+      "c": "sales",
+      "n": "Good Kid, M.A.A.D City - Kendrick Lamar",
+      "v": 3,
+      "d": "2012 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal23",
+      "c": "sales",
+      "n": "Straight Outta Compton - N.W.A",
+      "v": 2,
+      "d": "1988 album",
+      "note": "RIAA multi-platinum; worldwide estimate, rounded"
+    },
+    {
+      "id": "sal24",
+      "c": "sales",
+      "n": "It Takes a Nation of Millions to Hold Us Back - Public Enemy",
+      "v": 2,
+      "d": "1988 album",
+      "note": "US platinum-plus; rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal25",
+      "c": "sales",
+      "n": "Enter the Wu-Tang (36 Chambers) - Wu-Tang Clan",
+      "v": 2,
+      "d": "1993 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal26",
+      "c": "sales",
+      "n": "It Was Written - Nas",
+      "v": 2,
+      "d": "1996 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal27",
+      "c": "sales",
+      "n": "The Low End Theory - A Tribe Called Quest",
+      "v": 1.5,
+      "d": "1991 album",
+      "note": "Rough worldwide estimate, rounded"
+    },
+    {
+      "id": "sal28",
+      "c": "sales",
+      "n": "Illmatic - Nas",
+      "v": 1,
+      "d": "1994 album",
+      "note": "RIAA platinum; rough estimate, rounded"
+    },
+    {
+      "id": "sal29",
+      "c": "sales",
+      "n": "Only Built 4 Cuban Linx... - Raekwon",
+      "v": 1,
+      "d": "1995 album",
+      "note": "Rough estimate, rounded"
+    },
+    {
+      "id": "yrb01",
+      "c": "year",
+      "n": "Rapper's Delight - Sugarhill Gang",
+      "v": 1979,
+      "d": "single",
+      "note": "Widely dated 1979"
+    },
+    {
+      "id": "yrb02",
+      "c": "year",
+      "n": "The Message - Grandmaster Flash and the Furious Five",
+      "v": 1982,
+      "d": "single",
+      "note": "Widely dated 1982"
+    },
+    {
+      "id": "yrb03",
+      "c": "year",
+      "n": "Planet Rock - Afrika Bambaataa",
+      "v": 1982,
+      "d": "single",
+      "note": "Widely dated 1982"
+    },
+    {
+      "id": "yrb04",
+      "c": "year",
+      "n": "Wild Style",
+      "v": 1983,
+      "d": "film",
+      "note": "Widely dated 1983"
+    },
+    {
+      "id": "yrb05",
+      "c": "year",
+      "n": "Beat Street",
+      "v": 1984,
+      "d": "film",
+      "note": "Widely dated 1984"
+    },
+    {
+      "id": "yrb06",
+      "c": "year",
+      "n": "Licensed to Ill - Beastie Boys",
+      "v": 1986,
+      "d": "album",
+      "note": "Widely dated 1986"
+    },
+    {
+      "id": "yrb07",
+      "c": "year",
+      "n": "Raising Hell - Run-DMC",
+      "v": 1986,
+      "d": "album",
+      "note": "Widely dated 1986"
+    },
+    {
+      "id": "yrb08",
+      "c": "year",
+      "n": "It Takes a Nation of Millions to Hold Us Back - Public Enemy",
+      "v": 1988,
+      "d": "album",
+      "note": "Widely dated 1988"
+    },
+    {
+      "id": "yrb09",
+      "c": "year",
+      "n": "Straight Outta Compton - N.W.A",
+      "v": 1988,
+      "d": "album",
+      "note": "Widely dated 1988"
+    },
+    {
+      "id": "yrb10",
+      "c": "year",
+      "n": "U Can't Touch This - MC Hammer",
+      "v": 1990,
+      "d": "single",
+      "note": "Widely dated 1990"
+    },
+    {
+      "id": "yrb11",
+      "c": "year",
+      "n": "The Chronic - Dr. Dre",
+      "v": 1992,
+      "d": "album",
+      "note": "Widely dated 1992"
+    },
+    {
+      "id": "yrb12",
+      "c": "year",
+      "n": "Doggystyle - Snoop Dogg",
+      "v": 1993,
+      "d": "album",
+      "note": "Widely dated 1993"
+    },
+    {
+      "id": "yrb13",
+      "c": "year",
+      "n": "Enter the Wu-Tang (36 Chambers) - Wu-Tang Clan",
+      "v": 1993,
+      "d": "album",
+      "note": "Widely dated 1993"
+    },
+    {
+      "id": "yrb14",
+      "c": "year",
+      "n": "Illmatic - Nas",
+      "v": 1994,
+      "d": "album",
+      "note": "Widely dated 1994"
+    },
+    {
+      "id": "yrb15",
+      "c": "year",
+      "n": "Ready to Die - The Notorious B.I.G.",
+      "v": 1994,
+      "d": "album",
+      "note": "Widely dated 1994"
+    },
+    {
+      "id": "yrb16",
+      "c": "year",
+      "n": "Gangsta's Paradise - Coolio",
+      "v": 1995,
+      "d": "single",
+      "note": "Widely dated 1995"
+    },
+    {
+      "id": "yrb17",
+      "c": "year",
+      "n": "All Eyez on Me - 2Pac",
+      "v": 1996,
+      "d": "album",
+      "note": "Widely dated 1996"
+    },
+    {
+      "id": "yrb18",
+      "c": "year",
+      "n": "The Score - Fugees",
+      "v": 1996,
+      "d": "album",
+      "note": "Widely dated 1996"
+    },
+    {
+      "id": "yrb19",
+      "c": "year",
+      "n": "The Miseducation of Lauryn Hill",
+      "v": 1998,
+      "d": "album",
+      "note": "Widely dated 1998"
+    },
+    {
+      "id": "yrb20",
+      "c": "year",
+      "n": "The Marshall Mathers LP - Eminem",
+      "v": 2000,
+      "d": "album",
+      "note": "Widely dated 2000"
+    },
+    {
+      "id": "yrb21",
+      "c": "year",
+      "n": "The Blueprint - Jay-Z",
+      "v": 2001,
+      "d": "album",
+      "note": "Widely dated 2001"
+    },
+    {
+      "id": "yrb22",
+      "c": "year",
+      "n": "The Eminem Show - Eminem",
+      "v": 2002,
+      "d": "album",
+      "note": "Widely dated 2002"
+    },
+    {
+      "id": "yrb23",
+      "c": "year",
+      "n": "Get Rich or Die Tryin' - 50 Cent",
+      "v": 2003,
+      "d": "album",
+      "note": "Widely dated 2003"
+    },
+    {
+      "id": "yrb24",
+      "c": "year",
+      "n": "The College Dropout - Kanye West",
+      "v": 2004,
+      "d": "album",
+      "note": "Widely dated 2004"
+    },
+    {
+      "id": "yrb25",
+      "c": "year",
+      "n": "Tha Carter III - Lil Wayne",
+      "v": 2008,
+      "d": "album",
+      "note": "Widely dated 2008"
+    },
+    {
+      "id": "yrb26",
+      "c": "year",
+      "n": "Good Kid, M.A.A.D City - Kendrick Lamar",
+      "v": 2012,
+      "d": "album",
+      "note": "Widely dated 2012"
+    },
+    {
+      "id": "yrb27",
+      "c": "year",
+      "n": "Blonde - Frank Ocean",
+      "v": 2016,
+      "d": "album",
+      "note": "Widely dated 2016"
+    },
+    {
+      "id": "yrb28",
+      "c": "year",
+      "n": "To Pimp a Butterfly - Kendrick Lamar",
+      "v": 2015,
+      "d": "album",
+      "note": "Widely dated 2015"
+    },
+    {
+      "id": "yrb29",
+      "c": "year",
+      "n": "DAMN. - Kendrick Lamar",
+      "v": 2017,
+      "d": "album",
+      "note": "Widely dated 2017"
+    },
+    {
+      "id": "yrb30",
+      "c": "year",
+      "n": "Scorpion - Drake",
+      "v": 2018,
+      "d": "album",
+      "note": "Widely dated 2018"
+    },
+    {
+      "id": "yrb31",
+      "c": "year",
+      "n": "IGOR - Tyler, the Creator",
+      "v": 2019,
+      "d": "album",
+      "note": "Widely dated 2019"
+    },
+    {
+      "id": "yrb32",
+      "c": "year",
+      "n": "Un Verano Sin Ti - Bad Bunny",
+      "v": 2022,
+      "d": "album",
+      "note": "Widely dated 2022; Latin urban release"
+    },
+    {
+      "id": "cht01",
+      "c": "chart",
+      "n": "Old Town Road - Lil Nas X",
+      "v": 19,
+      "d": "2019 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht02",
+      "c": "chart",
+      "n": "I Gotta Feeling - The Black Eyed Peas",
+      "v": 14,
+      "d": "2009 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht03",
+      "c": "chart",
+      "n": "Lose Yourself - Eminem",
+      "v": 12,
+      "d": "2002 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht04",
+      "c": "chart",
+      "n": "See You Again - Wiz Khalifa feat. Charlie Puth",
+      "v": 12,
+      "d": "2015 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht05",
+      "c": "chart",
+      "n": "I'll Be Missing You - Puff Daddy feat. Faith Evans and 112",
+      "v": 11,
+      "d": "1997 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht06",
+      "c": "chart",
+      "n": "God's Plan - Drake",
+      "v": 11,
+      "d": "2018 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht07",
+      "c": "chart",
+      "n": "The Box - Roddy Ricch",
+      "v": 11,
+      "d": "2020 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht08",
+      "c": "chart",
+      "n": "One Dance - Drake",
+      "v": 10,
+      "d": "2016 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht09",
+      "c": "chart",
+      "n": "Gold Digger - Kanye West",
+      "v": 10,
+      "d": "2005 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht10",
+      "c": "chart",
+      "n": "Dilemma - Nelly feat. Kelly Rowland",
+      "v": 10,
+      "d": "2002 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht11",
+      "c": "chart",
+      "n": "Low - Flo Rida feat. T-Pain",
+      "v": 10,
+      "d": "2008 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht12",
+      "c": "chart",
+      "n": "Work - Rihanna feat. Drake",
+      "v": 9,
+      "d": "2016 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht13",
+      "c": "chart",
+      "n": "Jump - Kris Kross",
+      "v": 8,
+      "d": "1992 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht14",
+      "c": "chart",
+      "n": "Love the Way You Lie - Eminem feat. Rihanna",
+      "v": 7,
+      "d": "2010 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht15",
+      "c": "chart",
+      "n": "Hot in Herre - Nelly",
+      "v": 7,
+      "d": "2002 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht16",
+      "c": "chart",
+      "n": "Fancy - Iggy Azalea feat. Charli XCX",
+      "v": 7,
+      "d": "2014 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht17",
+      "c": "chart",
+      "n": "Right Round - Flo Rida",
+      "v": 6,
+      "d": "2009 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht18",
+      "c": "chart",
+      "n": "Down - Lil Wayne feat. Baby",
+      "v": 5,
+      "d": "2009 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht19",
+      "c": "chart",
+      "n": "No Diggity - Blackstreet feat. Dr. Dre",
+      "v": 4,
+      "d": "1996 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht20",
+      "c": "chart",
+      "n": "WAP - Cardi B feat. Megan Thee Stallion",
+      "v": 4,
+      "d": "2020 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht21",
+      "c": "chart",
+      "n": "Panda - Desiigner",
+      "v": 4,
+      "d": "2016 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht22",
+      "c": "chart",
+      "n": "Gangsta's Paradise - Coolio",
+      "v": 3,
+      "d": "1995 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht23",
+      "c": "chart",
+      "n": "Bodak Yellow - Cardi B",
+      "v": 3,
+      "d": "2017 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht24",
+      "c": "chart",
+      "n": "U Can't Touch This - MC Hammer",
+      "v": 2,
+      "d": "1990 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht25",
+      "c": "chart",
+      "n": "Ice Ice Baby - Vanilla Ice",
+      "v": 1,
+      "d": "1990 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht26",
+      "c": "chart",
+      "n": "Super Freaky Girl - Nicki Minaj",
+      "v": 1,
+      "d": "2022 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht27",
+      "c": "chart",
+      "n": "Sunflower - Post Malone and Swae Lee",
+      "v": 1,
+      "d": "2018 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "cht28",
+      "c": "chart",
+      "n": "Rapstar - Polo G",
+      "v": 1,
+      "d": "2021 single",
+      "note": "Billboard Hot 100; weeks at No.1 as of 2026"
+    },
+    {
+      "id": "grm01",
+      "c": "grammy",
+      "n": "Jay-Z",
+      "v": 23,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm02",
+      "c": "grammy",
+      "n": "Kanye West",
+      "v": 21,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm03",
+      "c": "grammy",
+      "n": "Kendrick Lamar",
+      "v": 17,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins; totals change"
+    },
+    {
+      "id": "grm04",
+      "c": "grammy",
+      "n": "Eminem",
+      "v": 15,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm05",
+      "c": "grammy",
+      "n": "Lauryn Hill",
+      "v": 7,
+      "d": "career total",
+      "note": "Approximate total including Fugees wins, rounded"
+    },
+    {
+      "id": "grm06",
+      "c": "grammy",
+      "n": "Dr. Dre",
+      "v": 6,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm07",
+      "c": "grammy",
+      "n": "Outkast",
+      "v": 6,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm08",
+      "c": "grammy",
+      "n": "Lil Wayne",
+      "v": 5,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm09",
+      "c": "grammy",
+      "n": "Drake",
+      "v": 5,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm10",
+      "c": "grammy",
+      "n": "Missy Elliott",
+      "v": 5,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm11",
+      "c": "grammy",
+      "n": "Beastie Boys",
+      "v": 4,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm12",
+      "c": "grammy",
+      "n": "Black Eyed Peas",
+      "v": 4,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm13",
+      "c": "grammy",
+      "n": "Common",
+      "v": 3,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm14",
+      "c": "grammy",
+      "n": "Megan Thee Stallion",
+      "v": 3,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm15",
+      "c": "grammy",
+      "n": "Nelly",
+      "v": 3,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm16",
+      "c": "grammy",
+      "n": "Ludacris",
+      "v": 3,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm17",
+      "c": "grammy",
+      "n": "Diddy",
+      "v": 3,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm18",
+      "c": "grammy",
+      "n": "Fugees",
+      "v": 2,
+      "d": "group total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm19",
+      "c": "grammy",
+      "n": "Cardi B",
+      "v": 2,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm20",
+      "c": "grammy",
+      "n": "Frank Ocean",
+      "v": 2,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm21",
+      "c": "grammy",
+      "n": "Tyler, the Creator",
+      "v": 2,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm22",
+      "c": "grammy",
+      "n": "Salt-N-Pepa",
+      "v": 1,
+      "d": "group total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "grm23",
+      "c": "grammy",
+      "n": "50 Cent",
+      "v": 1,
+      "d": "career total",
+      "note": "Approximate widely reported count of competitive wins, rounded"
+    },
+    {
+      "id": "str01",
+      "c": "stream",
+      "n": "One Dance - Drake",
+      "v": 2,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 2 billion; streams keep rising"
+    },
+    {
+      "id": "str02",
+      "c": "stream",
+      "n": "Sunflower - Post Malone and Swae Lee",
+      "v": 1.8,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 1.8 billion; streams keep rising"
+    },
+    {
+      "id": "str03",
+      "c": "stream",
+      "n": "See You Again - Wiz Khalifa feat. Charlie Puth",
+      "v": 1.6,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 1.6 billion; streams keep rising"
+    },
+    {
+      "id": "str04",
+      "c": "stream",
+      "n": "Old Town Road - Lil Nas X",
+      "v": 1.4,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 1.4 billion; streams keep rising"
+    },
+    {
+      "id": "str05",
+      "c": "stream",
+      "n": "Lose Yourself - Eminem",
+      "v": 1.3,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 1.3 billion; streams keep rising"
+    },
+    {
+      "id": "str06",
+      "c": "stream",
+      "n": "SICKO MODE - Travis Scott",
+      "v": 1.2,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 1.2 billion; streams keep rising"
+    },
+    {
+      "id": "str07",
+      "c": "stream",
+      "n": "God's Plan - Drake",
+      "v": 1.2,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 1.2 billion; streams keep rising"
+    },
+    {
+      "id": "str08",
+      "c": "stream",
+      "n": "Rockstar - DaBaby",
+      "v": 1.1,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 1.1 billion; streams keep rising"
+    },
+    {
+      "id": "str09",
+      "c": "stream",
+      "n": "In My Feelings - Drake",
+      "v": 1.1,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 1.1 billion; streams keep rising"
+    },
+    {
+      "id": "str10",
+      "c": "stream",
+      "n": "Work - Rihanna feat. Drake",
+      "v": 0.9,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.9 billion; streams keep rising"
+    },
+    {
+      "id": "str11",
+      "c": "stream",
+      "n": "goosebumps - Travis Scott",
+      "v": 0.9,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.9 billion; streams keep rising"
+    },
+    {
+      "id": "str12",
+      "c": "stream",
+      "n": "I Like It - Cardi B, Bad Bunny and J Balvin",
+      "v": 0.9,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.9 billion; streams keep rising"
+    },
+    {
+      "id": "str13",
+      "c": "stream",
+      "n": "Bodak Yellow - Cardi B",
+      "v": 0.7,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.7 billion; streams keep rising"
+    },
+    {
+      "id": "str14",
+      "c": "stream",
+      "n": "HUMBLE. - Kendrick Lamar",
+      "v": 0.7,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.7 billion; streams keep rising"
+    },
+    {
+      "id": "str15",
+      "c": "stream",
+      "n": "Rap God - Eminem",
+      "v": 0.7,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.7 billion; streams keep rising"
+    },
+    {
+      "id": "str16",
+      "c": "stream",
+      "n": "Low - Flo Rida feat. T-Pain",
+      "v": 0.7,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.7 billion; streams keep rising"
+    },
+    {
+      "id": "str17",
+      "c": "stream",
+      "n": "Bad and Boujee - Migos feat. Lil Uzi Vert",
+      "v": 0.7,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.7 billion; streams keep rising"
+    },
+    {
+      "id": "str18",
+      "c": "stream",
+      "n": "Not Afraid - Eminem",
+      "v": 0.7,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.7 billion; streams keep rising"
+    },
+    {
+      "id": "str19",
+      "c": "stream",
+      "n": "WAP - Cardi B feat. Megan Thee Stallion",
+      "v": 0.6,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.6 billion; streams keep rising"
+    },
+    {
+      "id": "str20",
+      "c": "stream",
+      "n": "Gold Digger - Kanye West",
+      "v": 0.6,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.6 billion; streams keep rising"
+    },
+    {
+      "id": "str21",
+      "c": "stream",
+      "n": "DNA. - Kendrick Lamar",
+      "v": 0.6,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.6 billion; streams keep rising"
+    },
+    {
+      "id": "str22",
+      "c": "stream",
+      "n": "I Gotta Feeling - The Black Eyed Peas",
+      "v": 0.6,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.6 billion; streams keep rising"
+    },
+    {
+      "id": "str23",
+      "c": "stream",
+      "n": "Empire State of Mind - Jay-Z feat. Alicia Keys",
+      "v": 0.5,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.5 billion; streams keep rising"
+    },
+    {
+      "id": "str24",
+      "c": "stream",
+      "n": "Gangsta's Paradise - Coolio",
+      "v": 0.5,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.5 billion; streams keep rising"
+    },
+    {
+      "id": "str25",
+      "c": "stream",
+      "n": "U Can't Touch This - MC Hammer",
+      "v": 0.4,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.4 billion; streams keep rising"
+    },
+    {
+      "id": "str26",
+      "c": "stream",
+      "n": "I'll Be Missing You - Puff Daddy feat. Faith Evans and 112",
+      "v": 0.4,
+      "d": "Spotify track",
+      "note": "Rounded Spotify count, roughly 0.4 billion; streams keep rising"
+    },
+    {
+      "id": "lng01",
+      "c": "length",
+      "n": "Sing About Me, I'm Dying of Thirst - Kendrick Lamar",
+      "v": 12.1,
+      "d": "2012 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng02",
+      "c": "length",
+      "n": "Runaway - Kanye West",
+      "v": 9.1,
+      "d": "2010 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng03",
+      "c": "length",
+      "n": "Stan - Eminem",
+      "v": 6.7,
+      "d": "2000 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng04",
+      "c": "length",
+      "n": "Rap God - Eminem",
+      "v": 6.3,
+      "d": "2013 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng05",
+      "c": "length",
+      "n": "Triumph - Wu-Tang Clan",
+      "v": 5.6,
+      "d": "1997 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng06",
+      "c": "length",
+      "n": "M.A.A.D City - Kendrick Lamar",
+      "v": 5.4,
+      "d": "2012 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng07",
+      "c": "length",
+      "n": "B.O.B. - Outkast",
+      "v": 5.4,
+      "d": "2000 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng08",
+      "c": "length",
+      "n": "Lose Yourself - Eminem",
+      "v": 5.2,
+      "d": "2002 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng09",
+      "c": "length",
+      "n": "SICKO MODE - Travis Scott",
+      "v": 5.2,
+      "d": "2018 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng10",
+      "c": "length",
+      "n": "N.Y. State of Mind - Nas",
+      "v": 4.9,
+      "d": "1994 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng11",
+      "c": "length",
+      "n": "Protect Ya Neck - Wu-Tang Clan",
+      "v": 4.7,
+      "d": "1993 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng12",
+      "c": "length",
+      "n": "Empire State of Mind - Jay-Z feat. Alicia Keys",
+      "v": 4.5,
+      "d": "2009 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng13",
+      "c": "length",
+      "n": "Take Care - Drake feat. Rihanna",
+      "v": 4.4,
+      "d": "2011 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng14",
+      "c": "length",
+      "n": "Run This Town - Jay-Z",
+      "v": 4.3,
+      "d": "2009 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng15",
+      "c": "length",
+      "n": "Ms. Jackson - Outkast",
+      "v": 4.3,
+      "d": "2000 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng16",
+      "c": "length",
+      "n": "Niggaz in Paris - Jay-Z and Kanye West",
+      "v": 4.2,
+      "d": "2011 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng17",
+      "c": "length",
+      "n": "Love the Way You Lie - Eminem feat. Rihanna",
+      "v": 4.1,
+      "d": "2010 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng18",
+      "c": "length",
+      "n": "The Real Slim Shady - Eminem",
+      "v": 4.1,
+      "d": "2000 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng19",
+      "c": "length",
+      "n": "C.R.E.A.M. - Wu-Tang Clan",
+      "v": 4.1,
+      "d": "1994 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng20",
+      "c": "length",
+      "n": "goosebumps - Travis Scott",
+      "v": 4.1,
+      "d": "2016 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng21",
+      "c": "length",
+      "n": "Hey Ya! - Outkast",
+      "v": 3.9,
+      "d": "2003 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng22",
+      "c": "length",
+      "n": "The World Is Yours - Nas",
+      "v": 3.8,
+      "d": "1994 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng23",
+      "c": "length",
+      "n": "Alright - Kendrick Lamar",
+      "v": 3.7,
+      "d": "2015 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng24",
+      "c": "length",
+      "n": "Bodak Yellow - Cardi B",
+      "v": 3.7,
+      "d": "2017 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng25",
+      "c": "length",
+      "n": "99 Problems - Jay-Z",
+      "v": 3.6,
+      "d": "2004 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng26",
+      "c": "length",
+      "n": "Gold Digger - Kanye West",
+      "v": 3.5,
+      "d": "2005 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng27",
+      "c": "length",
+      "n": "Heartless - Kanye West",
+      "v": 3.3,
+      "d": "2008 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng28",
+      "c": "length",
+      "n": "God's Plan - Drake",
+      "v": 3.2,
+      "d": "2018 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng29",
+      "c": "length",
+      "n": "WAP - Cardi B feat. Megan Thee Stallion",
+      "v": 3.2,
+      "d": "2020 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng30",
+      "c": "length",
+      "n": "HUMBLE. - Kendrick Lamar",
+      "v": 3,
+      "d": "2017 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng31",
+      "c": "length",
+      "n": "One Dance - Drake",
+      "v": 2.9,
+      "d": "2016 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "lng32",
+      "c": "length",
+      "n": "Old Town Road - Lil Nas X",
+      "v": 2.6,
+      "d": "2019 track",
+      "note": "Rounded from the listed track duration"
+    },
+    {
+      "id": "hot01",
+      "c": "hot100",
+      "n": "Drake",
+      "v": 320,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot02",
+      "c": "hot100",
+      "n": "Lil Wayne",
+      "v": 180,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot03",
+      "c": "hot100",
+      "n": "Future",
+      "v": 140,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot04",
+      "c": "hot100",
+      "n": "Nicki Minaj",
+      "v": 130,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot05",
+      "c": "hot100",
+      "n": "Kanye West",
+      "v": 110,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot06",
+      "c": "hot100",
+      "n": "Eminem",
+      "v": 110,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot07",
+      "c": "hot100",
+      "n": "Lil Uzi Vert",
+      "v": 90,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot08",
+      "c": "hot100",
+      "n": "Travis Scott",
+      "v": 80,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot09",
+      "c": "hot100",
+      "n": "Bad Bunny",
+      "v": 90,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot10",
+      "c": "hot100",
+      "n": "Pitbull",
+      "v": 80,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot11",
+      "c": "hot100",
+      "n": "Jay-Z",
+      "v": 90,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot12",
+      "c": "hot100",
+      "n": "Kendrick Lamar",
+      "v": 70,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot13",
+      "c": "hot100",
+      "n": "Wiz Khalifa",
+      "v": 60,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot14",
+      "c": "hot100",
+      "n": "Snoop Dogg",
+      "v": 60,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot15",
+      "c": "hot100",
+      "n": "50 Cent",
+      "v": 50,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot16",
+      "c": "hot100",
+      "n": "Post Malone",
+      "v": 50,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot17",
+      "c": "hot100",
+      "n": "Nelly",
+      "v": 45,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot18",
+      "c": "hot100",
+      "n": "Ludacris",
+      "v": 45,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot19",
+      "c": "hot100",
+      "n": "Cardi B",
+      "v": 40,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot20",
+      "c": "hot100",
+      "n": "Megan Thee Stallion",
+      "v": 40,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot21",
+      "c": "hot100",
+      "n": "T.I.",
+      "v": 40,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot22",
+      "c": "hot100",
+      "n": "2Pac",
+      "v": 35,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot23",
+      "c": "hot100",
+      "n": "The Notorious B.I.G.",
+      "v": 30,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot24",
+      "c": "hot100",
+      "n": "Outkast",
+      "v": 25,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot25",
+      "c": "hot100",
+      "n": "Nas",
+      "v": 25,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot26",
+      "c": "hot100",
+      "n": "Wu-Tang Clan",
+      "v": 20,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot27",
+      "c": "hot100",
+      "n": "Beastie Boys",
+      "v": 20,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot28",
+      "c": "hot100",
+      "n": "A Tribe Called Quest",
+      "v": 15,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot29",
+      "c": "hot100",
+      "n": "Run-DMC",
+      "v": 12,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot30",
+      "c": "hot100",
+      "n": "Salt-N-Pepa",
+      "v": 12,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot31",
+      "c": "hot100",
+      "n": "Queen Latifah",
+      "v": 12,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot32",
+      "c": "hot100",
+      "n": "Public Enemy",
+      "v": 10,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot33",
+      "c": "hot100",
+      "n": "MC Hammer",
+      "v": 10,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    },
+    {
+      "id": "hot34",
+      "c": "hot100",
+      "n": "Vanilla Ice",
+      "v": 5,
+      "d": "chart entries",
+      "note": "Approximate count of Billboard Hot 100 entries, rounded; totals grow"
+    }
+  ]
+}
