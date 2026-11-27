@@ -1,12 +1,27 @@
 # Hip Hop Quiz
 
+## Get the app
+
+**[Install page: Android + iPhone](https://teo2301.github.io/hiphop-quiz/install.html)** · [Play in your browser](https://teo2301.github.io/hiphop-quiz/)
+
+**Android:** [Download the APK (latest release)](https://github.com/teo2301/hiphop-quiz/releases/latest).
+Open it, allow "Install unknown apps" for your browser if asked, then tap Install.
+Updates arrive automatically because the app loads the live site.
+
+**iPhone / iPad:**
+1. Open https://teo2301.github.io/hiphop-quiz/ in **Safari** (not Chrome or an in-app browser).
+2. Tap **Share**, then **Add to Home Screen**, then **Add**.
+3. Open Hip Hop Quiz from your home screen. Notifications need iOS 16.4+ and only work from the home-screen app.
+
+## About
+
 Sister app to Football Quiz and World Knowledge Quiz, running on the same shared API server.
 Artists, albums, songs & lyrics, history & eras, awards & records, and hip hop around the world.
 Same shell (daily quiz, classic, survival, blitz, higher or lower, guess the artist,
 50:50, challenges, private leagues, weekly divisions, achievements, push) with a gold-on-charcoal
 theme. No build step: vanilla JS (iOS 12 / ES2017 safe) + a stdlib Python server.
 
-- `docs/` is the whole site (GitHub Pages folder, https://teo2301.github.io/hiphop-quiz/)
+- `docs/` is the whole site (GitHub Pages folder, live at https://teo2301.github.io/hiphop-quiz/)
 - `docs/questions.json`: `id` (topic prefix + number, e.g. `art001`), `l`
   (`art|alb|lyr|era|awd|glb`), `d` (1-3), `q`, `a` (right answer), `w` (3 wrong), `x` (fact).
 - `docs/stats.json` feeds Higher or lower, `docs/clues.json` feeds Guess the artist (mode id `career`).
