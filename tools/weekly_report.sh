@@ -7,8 +7,8 @@
 #   DRY_RUN=1 tools/weekly_report.sh       # print instead of sending
 #   QUIZ_DB=/tmp/q/hh-test.db DRY_RUN=1 tools/weekly_report.sh
 #
-# NOT installed in cron. Suggested line (Mondays 08:30 UK), once published, so it reads the live DB:
-#   30 8 * * 1 /mnt/ssdstorage/share/hiphop-quiz/tools/weekly_report.sh >/dev/null 2>&1
+# Cron (Mondays 08:40 UK) reads the live shared DB:
+#   40 8 * * 1 QUIZ_DB=/mnt/ssdstorage/share/quiz-shared/data/hh/hiphop-quiz.db tools/weekly_report.sh >> /tmp/hh-report.log 2>&1
 cd "$(dirname "$0")/.." || exit 1
 DB="${QUIZ_DB:-$PWD/data/hiphop-quiz.db}"
 NOTIFY="${NOTIFY:-/home/riccioserver/projects/server-ops/scripts/notify.sh}"
